@@ -1,0 +1,301 @@
+customer_id,frequency,monetary,recency_days,segment
+C0001,2,3597.0,193,Lapsed Low-Engagement
+C0002,10,23186.1999,153,Slipping Loyalists
+C0003,4,5944.0,192,Slipping Loyalists
+C0004,2,3296.0,9,New / Occasional
+C0005,5,17891.0,8,Growing Regulars
+C0006,2,948.0,153,Lapsed Low-Engagement
+C0007,1,1299.0,207,Lapsed Low-Engagement
+C0008,6,17790.0,26,Champions
+C0009,5,8093.496999999999,86,Growing Regulars
+C0010,12,22573.1799,8,Champions
+C0011,2,4498.0,322,Lapsed Low-Engagement
+C0012,1,1598.0,67,New / Occasional
+C0013,4,13490.0,37,Growing Regulars
+C0014,2,7442.0,314,Lapsed Low-Engagement
+C0015,1,1497.0,356,Lapsed Low-Engagement
+C0016,4,4342.0,272,Slipping Loyalists
+C0017,1,3598.0,345,Lapsed Low-Engagement
+C0018,2,5596.0,311,Lapsed Low-Engagement
+C0019,10,18133.698,150,Slipping Loyalists
+C0020,1,2499.0,83,New / Occasional
+C0021,3,4193.0,209,Slipping Loyalists
+C0022,1,2998.0,73,New / Occasional
+C0023,2,11045.0,94,Lapsed Low-Engagement
+C0024,1,1797.0,34,New / Occasional
+C0025,1,698.0,257,Lapsed Low-Engagement
+C0026,2,9996.0,314,Lapsed Low-Engagement
+C0027,8,22534.0,170,Slipping Loyalists
+C0028,18,42010.3298,34,Champions
+C0029,3,8393.0,145,Slipping Loyalists
+C0030,6,5542.0,7,Champions
+C0031,4,10346.0,170,Slipping Loyalists
+C0032,1,499.0,362,Lapsed Low-Engagement
+C0033,5,5895.0,39,Growing Regulars
+C0034,4,4392.0,11,Growing Regulars
+C0035,9,18786.299899999998,9,Champions
+C0036,5,17587.0,5,Growing Regulars
+C0037,2,3296.0,56,New / Occasional
+C0038,1,1499.0,170,Lapsed Low-Engagement
+C0039,10,17279.0,64,Champions
+C0040,6,15488.0,246,Slipping Loyalists
+C0041,4,10394.0,152,Slipping Loyalists
+C0042,3,3546.0,114,Slipping Loyalists
+C0043,4,6144.0,289,Slipping Loyalists
+C0044,7,20634.0,267,Slipping Loyalists
+C0045,12,25581.8779,7,Champions
+C0046,16,24423.299899999998,4,Champions
+C0047,2,5997.0,192,Lapsed Low-Engagement
+C0048,2,1797.0,306,Lapsed Low-Engagement
+C0049,13,22030.0,51,Champions
+C0050,6,8689.0,121,Slipping Loyalists
+C0051,1,599.0,311,Lapsed Low-Engagement
+C0052,1,2697.0,133,Lapsed Low-Engagement
+C0053,5,15795.1999,81,Growing Regulars
+C0054,14,23080.0,33,Champions
+C0055,6,18092.0,95,Slipping Loyalists
+C0056,2,1745.0,67,New / Occasional
+C0057,8,15538.0,67,Champions
+C0058,5,6994.7970000000005,48,Growing Regulars
+C0059,2,7696.0,267,Lapsed Low-Engagement
+C0060,11,45074.0,11,Champions
+C0061,1,1497.0,236,Lapsed Low-Engagement
+C0062,3,7695.0470000000005,277,Slipping Loyalists
+C0063,2,1648.0,29,New / Occasional
+C0064,5,7990.0,193,Slipping Loyalists
+C0065,2,7347.0,305,Lapsed Low-Engagement
+C0066,1,2499.0,91,Lapsed Low-Engagement
+C0067,4,7195.0,30,Growing Regulars
+C0068,6,13693.1999,60,Champions
+C0069,10,9637.396,22,Champions
+C0070,2,4295.0,2,New / Occasional
+C0071,2,6495.0,19,New / Occasional
+C0072,2,1198.0,169,Lapsed Low-Engagement
+C0073,1,1198.0,284,Lapsed Low-Engagement
+C0074,14,33269.0,139,Slipping Loyalists
+C0075,13,25980.198,34,Champions
+C0076,11,20678.0,41,Champions
+C0077,2,599.1499,95,Lapsed Low-Engagement
+C0078,1,0.3998,151,Lapsed Low-Engagement
+C0079,1,6497.0,301,Lapsed Low-Engagement
+C0080,1,1497.0,25,New / Occasional
+C0081,4,9742.0,167,Slipping Loyalists
+C0082,1,2499.0,327,Lapsed Low-Engagement
+C0083,9,14181.0,116,Slipping Loyalists
+C0084,5,4295.499,181,Slipping Loyalists
+C0085,1,1499.0,124,Lapsed Low-Engagement
+C0086,4,9792.0,54,Growing Regulars
+C0087,4,3695.0,237,Slipping Loyalists
+C0088,3,7943.0,33,Growing Regulars
+C0089,3,8297.1499,34,Growing Regulars
+C0090,4,7891.0,94,Slipping Loyalists
+C0091,5,10986.0,85,Growing Regulars
+C0092,4,5293.0,80,Growing Regulars
+C0093,1,1198.0,210,Lapsed Low-Engagement
+C0094,5,12987.0,16,Growing Regulars
+C0095,4,4296.0,134,Slipping Loyalists
+C0096,1,2.3970000000000002,321,Lapsed Low-Engagement
+C0097,4,8992.0,237,Slipping Loyalists
+C0098,2,3297.799,281,Lapsed Low-Engagement
+C0099,6,11590.0,88,Champions
+C0100,11,24136.0,39,Champions
+C0101,2,4795.0,292,Lapsed Low-Engagement
+C0102,3,8596.0,106,Slipping Loyalists
+C0103,1,3998.0,31,New / Occasional
+C0104,1,2495.0,262,Lapsed Low-Engagement
+C0105,1,0.899,215,Lapsed Low-Engagement
+C0106,7,11890.394,4,Champions
+C0107,1,799.0,296,Lapsed Low-Engagement
+C0108,6,10886.1299,192,Slipping Loyalists
+C0109,5,11092.0,4,Growing Regulars
+C0110,1,1797.0,197,Lapsed Low-Engagement
+C0111,1,1047.0,125,Lapsed Low-Engagement
+C0112,1,1797.0,354,Lapsed Low-Engagement
+C0113,1,349.0,364,Lapsed Low-Engagement
+C0114,5,15791.0,53,Growing Regulars
+C0115,6,9190.998,43,Champions
+C0116,2,2396.0,332,Lapsed Low-Engagement
+C0117,1,349.0,228,Lapsed Low-Engagement
+C0118,2,12695.0,236,Lapsed Low-Engagement
+C0119,6,18487.0,18,Champions
+C0120,5,12039.0,17,Growing Regulars
+C0121,5,8743.0,2,Growing Regulars
+C0122,1,1848.0,2,New / Occasional
+C0123,5,10293.0,7,Growing Regulars
+C0124,2,4446.0,218,Lapsed Low-Engagement
+C0125,6,22384.0,15,Champions
+C0126,2,6497.0,55,New / Occasional
+C0127,12,32482.0,31,Champions
+C0128,3,14794.0,295,Slipping Loyalists
+C0129,2,698.0,175,Lapsed Low-Engagement
+C0130,1,1499.0,24,New / Occasional
+C0131,9,18682.0,6,Champions
+C0132,2,1497.0,29,New / Occasional
+C0133,6,21888.0,131,Slipping Loyalists
+C0134,3,9393.0,259,Slipping Loyalists
+C0135,3,2647.0,291,Slipping Loyalists
+C0136,2,2696.0,279,Lapsed Low-Engagement
+C0137,14,32877.0,17,Champions
+C0138,1,698.0,17,New / Occasional
+C0139,1,1598.0,364,Lapsed Low-Engagement
+C0140,2,2348.0,203,Lapsed Low-Engagement
+C0141,2,848.0,264,Lapsed Low-Engagement
+C0142,4,12542.0,273,Slipping Loyalists
+C0143,5,5292.0,18,Growing Regulars
+C0144,14,47076.1299,179,Slipping Loyalists
+C0145,3,8038.0,56,Growing Regulars
+C0146,14,29525.0,17,Champions
+C0147,6,18538.0,65,Champions
+C0148,1,1047.0,312,Lapsed Low-Engagement
+C0149,1,1047.0,133,Lapsed Low-Engagement
+C0150,2,5993.0,264,Lapsed Low-Engagement
+C0151,4,7194.0,67,Growing Regulars
+C0152,1,2998.0,362,Lapsed Low-Engagement
+C0153,1,2397.0,116,Lapsed Low-Engagement
+C0154,4,3296.0,10,Growing Regulars
+C0155,6,18738.0,33,Champions
+C0156,1,1299.0,320,Lapsed Low-Engagement
+C0157,14,43172.7489,1,Champions
+C0158,1,698.0,322,Lapsed Low-Engagement
+C0159,1,349.0,148,Lapsed Low-Engagement
+C0160,10,28486.1299,34,Champions
+C0161,6,10590.0,53,Champions
+C0162,4,4993.499,23,Growing Regulars
+C0163,7,8388.0,139,Slipping Loyalists
+C0164,2,1396.0,333,Lapsed Low-Engagement
+C0165,2,6294.0,32,New / Occasional
+C0166,1,499.0,5,New / Occasional
+C0167,3,8394.0,264,Slipping Loyalists
+C0168,2,4596.0,316,Lapsed Low-Engagement
+C0169,17,53724.1999,20,Champions
+C0170,3,2697.0,153,Slipping Loyalists
+C0171,7,24391.0,17,Champions
+C0172,5,7993.0,301,Slipping Loyalists
+C0173,1,499.0,267,Lapsed Low-Engagement
+C0174,5,7693.1999,16,Growing Regulars
+C0175,10,21281.198,243,Slipping Loyalists
+C0176,3,6297.998,19,Growing Regulars
+C0177,7,25735.1999,127,Slipping Loyalists
+C0178,2,4498.0,198,Lapsed Low-Engagement
+C0179,7,17989.0,221,Slipping Loyalists
+C0180,13,20581.5998,5,Champions
+C0181,1,1198.0,349,Lapsed Low-Engagement
+C0182,14,41424.0,2,Champions
+C0183,14,36921.0,36,Champions
+C0184,6,14935.0,39,Champions
+C0185,6,18790.0,213,Slipping Loyalists
+C0186,7,12482.0,256,Slipping Loyalists
+C0187,10,15535.0,176,Slipping Loyalists
+C0188,5,19492.0,125,Slipping Loyalists
+C0189,3,2045.0,272,Slipping Loyalists
+C0190,1,1299.0,308,Lapsed Low-Engagement
+C0191,5,18091.299899999998,157,Slipping Loyalists
+C0192,6,11191.0,162,Slipping Loyalists
+C0193,4,11796.598,61,Growing Regulars
+C0194,11,24530.0,3,Champions
+C0195,2,3697.0,312,Lapsed Low-Engagement
+C0196,6,22589.0,26,Champions
+C0197,11,31882.0,3,Champions
+C0198,4,5496.0,160,Slipping Loyalists
+C0199,5,10790.499,1,Growing Regulars
+C0200,1,499.0,339,Lapsed Low-Engagement
+C0201,2,4095.0,301,Lapsed Low-Engagement
+C0202,13,27581.0,31,Champions
+C0203,2,948.0,312,Lapsed Low-Engagement
+C0204,5,12387.0,210,Slipping Loyalists
+C0205,3,850.697,176,Slipping Loyalists
+C0206,3,3246.0,199,Slipping Loyalists
+C0207,3,8992.0,88,Growing Regulars
+C0208,19,24871.0,10,Champions
+C0209,3,10794.0,11,Growing Regulars
+C0210,3,3597.0,89,Growing Regulars
+C0211,1,1198.0,201,Lapsed Low-Engagement
+C0212,2,3595.0,72,New / Occasional
+C0213,2,3798.0,234,Lapsed Low-Engagement
+C0214,1,599.0,1,New / Occasional
+C0215,1,1797.0,282,Lapsed Low-Engagement
+C0216,12,14684.0,155,Slipping Loyalists
+C0217,1,1047.0,310,Lapsed Low-Engagement
+C0218,9,15588.2598,20,Champions
+C0219,1,4796.0,308,Lapsed Low-Engagement
+C0220,11,29926.9998,18,Champions
+C0221,1,1047.0,47,New / Occasional
+C0222,2,7497.0,318,Lapsed Low-Engagement
+C0223,6,9792.0,13,Champions
+C0224,1,8997.0,219,Lapsed Low-Engagement
+C0225,2,1898.0,173,Lapsed Low-Engagement
+C0226,5,13594.0,118,Slipping Loyalists
+C0227,1,1797.0,356,Lapsed Low-Engagement
+C0228,2,2348.0,2,New / Occasional
+C0229,5,8592.0,91,Slipping Loyalists
+C0230,2,4295.0,199,Lapsed Low-Engagement
+C0231,11,15484.0,8,Champions
+C0232,4,10793.0,231,Slipping Loyalists
+C0233,2,4296.499,351,Lapsed Low-Engagement
+C0234,6,9488.1499,47,Champions
+C0235,5,12140.0,87,Growing Regulars
+C0236,12,21382.1588,207,Slipping Loyalists
+C0237,11,26180.0,112,Slipping Loyalists
+C0238,5,8742.0,45,Growing Regulars
+C0239,1,1799.0,2,New / Occasional
+C0240,2,6596.4999,30,New / Occasional
+C0241,3,7596.0,269,Slipping Loyalists
+C0242,2,4196.0,302,Lapsed Low-Engagement
+C0243,3,3296.0,146,Slipping Loyalists
+C0244,5,8593.0,204,Slipping Loyalists
+C0245,5,14494.0,8,Growing Regulars
+C0246,4,8595.0,159,Slipping Loyalists
+C0247,3,7594.0,17,Growing Regulars
+C0248,7,14784.697,166,Slipping Loyalists
+C0249,2,2497.0,18,New / Occasional
+C0250,1,1999.0,313,Lapsed Low-Engagement
+C0251,2,4597.0,298,Lapsed Low-Engagement
+C0252,4,9392.0,151,Slipping Loyalists
+C0253,10,17633.798,39,Champions
+C0254,2,5196.0,121,Lapsed Low-Engagement
+C0255,1,349.0,307,Lapsed Low-Engagement
+C0256,1,1299.0,362,Lapsed Low-Engagement
+C0257,11,20635.599000000002,6,Champions
+C0258,1,499.0,267,Lapsed Low-Engagement
+C0259,1,499.0,52,New / Occasional
+C0260,4,7992.0,100,Slipping Loyalists
+C0261,5,21588.0,259,Slipping Loyalists
+C0262,4,5391.0,237,Slipping Loyalists
+C0263,3,4196.0,158,Slipping Loyalists
+C0264,11,12580.349,16,Champions
+C0265,4,12038.0,331,Slipping Loyalists
+C0266,3,5696.0,44,Growing Regulars
+C0267,1,2499.0,298,Lapsed Low-Engagement
+C0268,7,20388.1999,196,Slipping Loyalists
+C0269,1,349.0,278,Lapsed Low-Engagement
+C0270,2,7147.0,271,Lapsed Low-Engagement
+C0271,4,3794.0,97,Slipping Loyalists
+C0272,11,13030.0,27,Champions
+C0273,5,16092.598,239,Slipping Loyalists
+C0274,2,7296.0,143,Lapsed Low-Engagement
+C0275,9,16689.597999999998,120,Slipping Loyalists
+C0276,5,15590.0,178,Slipping Loyalists
+C0277,7,11390.0,33,Champions
+C0278,8,15938.0,239,Slipping Loyalists
+C0279,14,22172.0,21,Champions
+C0280,1,1999.0,344,Lapsed Low-Engagement
+C0281,4,8992.0,8,Growing Regulars
+C0282,1,1598.0,11,New / Occasional
+C0283,8,19286.0,15,Champions
+C0284,5,22188.0,7,Growing Regulars
+C0285,9,18034.0,11,Champions
+C0286,1,2499.0,304,Lapsed Low-Engagement
+C0287,14,34285.798,26,Champions
+C0288,2,2094.0,317,Lapsed Low-Engagement
+C0289,1,1999.0,20,New / Occasional
+C0290,4,6291.0,252,Slipping Loyalists
+C0291,2,4696.4998,121,Lapsed Low-Engagement
+C0292,15,33466.0,69,Champions
+C0293,2,4597.0,236,Lapsed Low-Engagement
+C0294,1,1299.0,81,New / Occasional
+C0295,1,698.0,110,Lapsed Low-Engagement
+C0296,13,22172.1799,18,Champions
+C0297,7,5339.0,15,Champions
+C0298,6,18789.0,21,Champions
+C0299,1,1499.0,169,Lapsed Low-Engagement
+C0300,7,18135.0,37,Champions

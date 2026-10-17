@@ -1,0 +1,1721 @@
+order_id,customer_id,order_date,product,category,unit_price,quantity,payment_method,city,revenue,month,weekday,is_weekend
+ORD-10001,C0044,2025-10-01,Backpack,Fashion,1499.0,1,Card,Delhi,1499.0,2025-10,Wednesday,False
+ORD-10002,C0187,2025-10-01,Desk Lamp,Home & Kitchen,899.0,1,UPI,Chennai,899.0,2025-10,Wednesday,False
+ORD-10003,C0279,2025-10-01,Cushion Set,Home & Kitchen,799.0,3,UPI,Delhi,2397.0,2025-10,Wednesday,False
+ORD-10004,C0083,2025-10-02,Cotton T-Shirt,Fashion,599.0,3,UPI,Mumbai,1797.0,2025-10,Thursday,False
+ORD-10005,C0113,2025-10-02,Green Tea Pack,Health & Wellness,349.0,1,Card,Hyderabad,349.0,2025-10,Thursday,False
+ORD-10006,C0123,2025-10-02,Power Bank,Electronics,1299.0,1,UPI,Kolkata,1299.0,2025-10,Thursday,False
+ORD-10007,C0139,2025-10-02,Cushion Set,Home & Kitchen,799.0,2,UPI,Hyderabad,1598.0,2025-10,Thursday,False
+ORD-10008,C0180,2025-10-02,Backpack,Fashion,1499.0,1,COD,Mumbai,1499.0,2025-10,Thursday,False
+ORD-10361,C0183,2025-11-24,Protein Powder,Health & Wellness,1799.0,1,UPI,Jaipur,1799.0,2025-11,Monday,False
+ORD-10009,C0279,2025-10-02,Desk Lamp,Home & Kitchen,899.0,3,COD,Delhi,2697.0,2025-10,Thursday,False
+ORD-10010,C0100,2025-10-03,Bluetooth Speaker,Electronics,2499.0,2,Card,Jaipur,4998.0,2025-10,Friday,False
+ORD-10011,C0127,2025-10-03,Power Bank,Electronics,1299.0,1,UPI,Mumbai,1299.0,2025-10,Friday,False
+ORD-10012,C0279,2025-10-03,Water Bottle,Home & Kitchen,499.0,2,Wallet,Delhi,998.0,2025-10,Friday,False
+ORD-10013,C0032,2025-10-04,Water Bottle,Home & Kitchen,499.0,1,UPI,Delhi,499.0,2025-10,Saturday,True
+ORD-10014,C0127,2025-10-04,Cotton T-Shirt,Fashion,599.0,2,COD,Mumbai,1198.0,2025-10,Saturday,True
+ORD-10015,C0152,2025-10-04,Backpack,Fashion,1499.0,2,UPI,Delhi,2998.0,2025-10,Saturday,True
+ORD-10016,C0175,2025-10-04,Protein Powder,Health & Wellness,1799.0,1,UPI,Pune,1799.0,2025-10,Saturday,True
+ORD-10017,C0195,2025-10-04,Running Shoes,Fashion,2999.0,1,UPI,Pune,2999.0,2025-10,Saturday,True
+ORD-10018,C0236,2025-10-04,Protein Powder,Health & Wellness,1799.0,1,UPI,Mumbai,1799.0,2025-10,Saturday,True
+ORD-10019,C0256,2025-10-04,Power Bank,Electronics,1299.0,1,UPI,Bengaluru,1299.0,2025-10,Saturday,True
+ORD-10020,C0027,2025-10-05,Green Tea Pack,Health & Wellness,349.0,2,UPI,Kolkata,698.0,2025-10,Sunday,True
+ORD-10021,C0118,2025-10-05,Smartwatch,Electronics,4999.0,2,UPI,Delhi,9998.0,2025-10,Sunday,True
+ORD-10021,C0118,2025-10-05,Wireless Earbuds,Electronics,1999.0,1,UPI,Delhi,1999.0,2025-10,Sunday,True
+ORD-10022,C0199,2025-10-05,Cotton T-Shirt,Fashion,599.0,2,Card,Delhi,1198.0,2025-10,Sunday,True
+ORD-10023,C0253,2025-10-05,Water Bottle,Home & Kitchen,499.0,3,UPI,Pune,1497.0,2025-10,Sunday,True
+ORD-10023,C0253,2025-10-05,Desk Lamp,Home & Kitchen,899.0,2,UPI,Pune,1798.0,2025-10,Sunday,True
+ORD-11236,C0049,2026-08-07,Green Tea Pack,Health & Wellness,349.0,1,Card,Bengaluru,349.0,2026-08,Friday,False
+ORD-10024,C0265,2025-10-05,Protein Powder,Health & Wellness,1799.0,1,Card,Bengaluru,1799.0,2025-10,Sunday,True
+ORD-10024,C0265,2025-10-05,Water Bottle,Home & Kitchen,499.0,3,Card,Bengaluru,1497.0,2025-10,Sunday,True
+ORD-10025,C0030,2025-10-06,Green Tea Pack,Health & Wellness,349.0,1,UPI,Hyderabad,349.0,2025-10,Monday,False
+ORD-10026,C0040,2025-10-06,Protein Powder,Health & Wellness,1799.0,1,Card,Mumbai,1799.0,2025-10,Monday,False
+ORD-10026,C0040,2025-10-06,Bluetooth Speaker,Electronics,2499.0,1,Card,Mumbai,2499.0,2025-10,Monday,False
+ORD-10027,C0075,2025-10-06,Cotton T-Shirt,Fashion,0.599,2,UPI,Hyderabad,1.198,2025-10,Monday,False
+ORD-10027,C0075,2025-10-06,Power Bank,Electronics,1299.0,1,UPI,Hyderabad,1299.0,2025-10,Monday,False
+ORD-10028,C0084,2025-10-06,Water Bottle,Home & Kitchen,499.0,2,COD,Delhi,998.0,2025-10,Monday,False
+ORD-10029,C0120,2025-10-06,Cotton T-Shirt,Fashion,599.0,1,UPI,Kolkata,599.0,2025-10,Monday,False
+ORD-10030,C0160,2025-10-06,Power Bank,Electronics,1299.0,2,UPI,Hyderabad,2598.0,2025-10,Monday,False
+ORD-10031,C0218,2025-10-06,Backpack,Fashion,1499.0,1,UPI,Chennai,1499.0,2025-10,Monday,False
+ORD-10032,C0251,2025-10-06,Power Bank,Electronics,1299.0,1,UPI,Kolkata,1299.0,2025-10,Monday,False
+ORD-10033,C0272,2025-10-06,Protein Powder,Health & Wellness,1799.0,1,UPI,Jaipur,1799.0,2025-10,Monday,False
+ORD-10034,C0002,2025-10-07,Protein Powder,Health & Wellness,1799.0,1,COD,Mumbai,1799.0,2025-10,Tuesday,False
+ORD-10034,C0002,2025-10-07,Water Bottle,Home & Kitchen,499.0,1,COD,Mumbai,499.0,2025-10,Tuesday,False
+ORD-10035,C0021,2025-10-07,Cotton T-Shirt,Fashion,599.0,1,Card,Bengaluru,599.0,2025-10,Tuesday,False
+ORD-10036,C0069,2025-10-07,Water Bottle,Home & Kitchen,499.0,1,Card,Mumbai,499.0,2025-10,Tuesday,False
+ORD-10037,C0180,2025-10-07,Cotton T-Shirt,Fashion,599.0,2,UPI,Mumbai,1198.0,2025-10,Tuesday,False
+ORD-10038,C0075,2025-10-08,Desk Lamp,Home & Kitchen,899.0,1,UPI,Hyderabad,899.0,2025-10,Wednesday,False
+ORD-10039,C0075,2025-10-08,Running Shoes,Fashion,2999.0,1,UPI,Hyderabad,2999.0,2025-10,Wednesday,False
+ORD-10501,C0237,2025-12-15,Running Shoes,Fashion,2999.0,1,COD,Hyderabad,2999.0,2025-12,Monday,False
+ORD-10040,C0199,2025-10-08,Cotton T-Shirt,Fashion,599.0,3,Card,Delhi,1797.0,2025-10,Wednesday,False
+ORD-10041,C0242,2025-10-08,Cushion Set,Home & Kitchen,799.0,3,Wallet,Delhi,2397.0,2025-10,Wednesday,False
+ORD-10042,C0261,2025-10-08,Smartwatch,Electronics,4999.0,1,Card,Pune,4999.0,2025-10,Wednesday,False
+ORD-10042,C0261,2025-10-08,Wireless Earbuds,Electronics,1999.0,1,Card,Pune,1999.0,2025-10,Wednesday,False
+ORD-10042,C0261,2025-10-08,Water Bottle,Home & Kitchen,499.0,3,Card,Pune,1497.0,2025-10,Wednesday,False
+ORD-10043,C0157,2025-10-09,Wireless Earbuds,Electronics,1999.0,2,Wallet,Jaipur,3998.0,2025-10,Thursday,False
+ORD-10043,C0157,2025-10-09,Power Bank,Electronics,1299.0,1,Wallet,Jaipur,1299.0,2025-10,Thursday,False
+ORD-10044,C0180,2025-10-09,Power Bank,Electronics,1299.0,1,COD,Mumbai,1299.0,2025-10,Thursday,False
+ORD-10044,C0180,2025-10-09,Running Shoes,Fashion,0.2999,2,COD,Mumbai,0.5998,2025-10,Thursday,False
+ORD-10045,C0265,2025-10-09,Green Tea Pack,Health & Wellness,349.0,2,UPI,Bengaluru,698.0,2025-10,Thursday,False
+ORD-10046,C0277,2025-10-09,Cotton T-Shirt,Fashion,599.0,2,UPI,Chennai,1198.0,2025-10,Thursday,False
+ORD-10046,C0277,2025-10-09,Protein Powder,Health & Wellness,1799.0,1,UPI,Chennai,1799.0,2025-10,Thursday,False
+ORD-10047,C0015,2025-10-10,Water Bottle,Home & Kitchen,499.0,3,UPI,Mumbai,1497.0,2025-10,Friday,False
+ORD-10048,C0021,2025-10-10,Cotton T-Shirt,Fashion,599.0,3,Card,Bengaluru,1797.0,2025-10,Friday,False
+ORD-10049,C0035,2025-10-10,Cotton T-Shirt,Fashion,599.0,2,Wallet,Mumbai,1198.0,2025-10,Friday,False
+ORD-10050,C0046,2025-10-10,Backpack,Fashion,1499.0,2,COD,Mumbai,2998.0,2025-10,Friday,False
+ORD-10051,C0047,2025-10-10,Smartwatch,Electronics,4999.0,1,Card,Bengaluru,4999.0,2025-10,Friday,False
+ORD-10052,C0097,2025-10-10,Green Tea Pack,Health & Wellness,349.0,3,UPI,Bengaluru,1047.0,2025-10,Friday,False
+ORD-10053,C0128,2025-10-10,Wireless Earbuds,Electronics,1999.0,2,Card,Pune,3998.0,2025-10,Friday,False
+ORD-10053,C0128,2025-10-10,Power Bank,Electronics,1299.0,1,Card,Pune,1299.0,2025-10,Friday,False
+ORD-10054,C0197,2025-10-10,Power Bank,Electronics,1299.0,1,Unknown,Hyderabad,1299.0,2025-10,Friday,False
+ORD-10055,C0227,2025-10-10,Cotton T-Shirt,Fashion,599.0,3,Card,Kolkata,1797.0,2025-10,Friday,False
+ORD-10056,C0011,2025-10-11,Wireless Earbuds,Electronics,1999.0,1,UPI,Mumbai,1999.0,2025-10,Saturday,True
+ORD-10057,C0028,2025-10-11,Water Bottle,Home & Kitchen,499.0,1,Card,Mumbai,499.0,2025-10,Saturday,True
+ORD-10057,C0028,2025-10-11,Backpack,Fashion,1499.0,1,Card,Mumbai,1499.0,2025-10,Saturday,True
+ORD-10058,C0160,2025-10-11,Bluetooth Speaker,Electronics,2499.0,1,Wallet,Hyderabad,2499.0,2025-10,Saturday,True
+ORD-10059,C0177,2025-10-11,Smartwatch,Electronics,4999.0,1,UPI,Delhi,4999.0,2025-10,Saturday,True
+ORD-10059,C0177,2025-10-11,Power Bank,Electronics,1299.0,1,UPI,Delhi,1299.0,2025-10,Saturday,True
+ORD-10060,C0188,2025-10-11,Protein Powder,Health & Wellness,1799.0,1,UPI,Delhi,1799.0,2025-10,Saturday,True
+ORD-10061,C0191,2025-10-11,Running Shoes,Fashion,2999.0,2,UPI,Mumbai,5998.0,2025-10,Saturday,True
+ORD-10062,C0208,2025-10-11,Smartwatch,Electronics,4999.0,1,UPI,Bengaluru,4999.0,2025-10,Saturday,True
+ORD-10063,C0226,2025-10-11,Wireless Earbuds,Electronics,1999.0,1,COD,Mumbai,1999.0,2025-10,Saturday,True
+ORD-10064,C0244,2025-10-11,Cotton T-Shirt,Fashion,599.0,1,UPI,Chennai,599.0,2025-10,Saturday,True
+ORD-10065,C0261,2025-10-11,Running Shoes,Fashion,2999.0,2,COD,Pune,5998.0,2025-10,Saturday,True
+ORD-10066,C0300,2025-10-11,Protein Powder,Health & Wellness,1799.0,2,Card,Bengaluru,3598.0,2025-10,Saturday,True
+ORD-10067,C0027,2025-10-12,Bluetooth Speaker,Electronics,2499.0,2,COD,Kolkata,4998.0,2025-10,Sunday,True
+ORD-10068,C0087,2025-10-12,Water Bottle,Home & Kitchen,499.0,1,UPI,Kolkata,499.0,2025-10,Sunday,True
+ORD-10069,C0112,2025-10-12,Cotton T-Shirt,Fashion,599.0,3,UPI,Kolkata,1797.0,2025-10,Sunday,True
+ORD-10070,C0144,2025-10-12,Wireless Earbuds,Electronics,1999.0,1,UPI,Jaipur,1999.0,2025-10,Sunday,True
+ORD-10070,C0144,2025-10-12,Power Bank,Electronics,1299.0,1,UPI,Jaipur,1299.0,2025-10,Sunday,True
+ORD-10071,C0177,2025-10-12,Wireless Earbuds,Electronics,1999.0,1,UPI,Delhi,1999.0,2025-10,Sunday,True
+ORD-10072,C0179,2025-10-12,Cotton T-Shirt,Fashion,599.0,1,Card,Hyderabad,599.0,2025-10,Sunday,True
+ORD-10073,C0192,2025-10-12,Cushion Set,Home & Kitchen,799.0,1,UPI,Delhi,799.0,2025-10,Sunday,True
+ORD-10073,C0192,2025-10-12,Desk Lamp,Home & Kitchen,899.0,1,UPI,Delhi,899.0,2025-10,Sunday,True
+ORD-10074,C0233,2025-10-12,Protein Powder,Health & Wellness,1799.0,2,UPI,Bengaluru,3598.0,2025-10,Sunday,True
+ORD-10074,C0233,2025-10-12,Water Bottle,Home & Kitchen,0.499,1,UPI,Bengaluru,0.499,2025-10,Sunday,True
+ORD-10075,C0287,2025-10-12,Wireless Earbuds,Electronics,1999.0,1,COD,Bengaluru,1999.0,2025-10,Sunday,True
+ORD-10076,C0102,2025-10-13,Bluetooth Speaker,Electronics,2499.0,2,Card,Chennai,4998.0,2025-10,Monday,False
+ORD-10077,C0231,2025-10-13,Backpack,Fashion,1499.0,2,Card,Delhi,2998.0,2025-10,Monday,False
+ORD-10079,C0035,2025-10-14,Backpack,Fashion,1499.0,1,COD,Mumbai,1499.0,2025-10,Tuesday,False
+ORD-10080,C0094,2025-10-14,Water Bottle,Home & Kitchen,499.0,2,Card,Chennai,998.0,2025-10,Tuesday,False
+ORD-10080,C0094,2025-10-14,Desk Lamp,Home & Kitchen,899.0,1,Card,Chennai,899.0,2025-10,Tuesday,False
+ORD-10081,C0182,2025-10-14,Running Shoes,Fashion,2999.0,1,UPI,Hyderabad,2999.0,2025-10,Tuesday,False
+ORD-10081,C0182,2025-10-14,Cotton T-Shirt,Fashion,599.0,3,UPI,Hyderabad,1797.0,2025-10,Tuesday,False
+ORD-10082,C0206,2025-10-14,Cotton T-Shirt,Fashion,599.0,1,UPI,Bengaluru,599.0,2025-10,Tuesday,False
+ORD-10083,C0236,2025-10-14,Power Bank,Electronics,0.1299,2,Wallet,Mumbai,0.2598,2025-10,Tuesday,False
+ORD-10084,C0272,2025-10-14,Green Tea Pack,Health & Wellness,349.0,3,Card,Jaipur,1047.0,2025-10,Tuesday,False
+ORD-10085,C0114,2025-10-15,Cotton T-Shirt,Fashion,599.0,2,UPI,Hyderabad,1198.0,2025-10,Wednesday,False
+ORD-10086,C0143,2025-10-15,Backpack,Fashion,1499.0,1,Card,Bengaluru,1499.0,2025-10,Wednesday,False
+ORD-10086,C0143,2025-10-15,Water Bottle,Home & Kitchen,499.0,1,Card,Bengaluru,499.0,2025-10,Wednesday,False
+ORD-11261,C0160,2026-08-20,Water Bottle,Home & Kitchen,499.0,3,Wallet,Hyderabad,1497.0,2026-08,Thursday,False
+ORD-10087,C0167,2025-10-15,Wireless Earbuds,Electronics,1999.0,2,Card,Bengaluru,3998.0,2025-10,Wednesday,False
+ORD-10087,C0167,2025-10-15,Power Bank,Electronics,1299.0,1,Card,Bengaluru,1299.0,2025-10,Wednesday,False
+ORD-10088,C0175,2025-10-15,Water Bottle,Home & Kitchen,499.0,1,UPI,Pune,499.0,2025-10,Wednesday,False
+ORD-10089,C0233,2025-10-15,Green Tea Pack,Health & Wellness,349.0,2,Card,Bengaluru,698.0,2025-10,Wednesday,False
+ORD-10090,C0248,2025-10-15,Desk Lamp,Home & Kitchen,899.0,1,Card,Delhi,899.0,2025-10,Wednesday,False
+ORD-10091,C0144,2025-10-16,Wireless Earbuds,Electronics,1999.0,2,COD,Jaipur,3998.0,2025-10,Thursday,False
+ORD-10092,C0155,2025-10-16,Water Bottle,Home & Kitchen,499.0,1,COD,Chennai,499.0,2025-10,Thursday,False
+ORD-10093,C0198,2025-10-16,Cushion Set,Home & Kitchen,799.0,1,COD,Jaipur,799.0,2025-10,Thursday,False
+ORD-10094,C0220,2025-10-16,Wireless Earbuds,Electronics,1999.0,2,UPI,Pune,3998.0,2025-10,Thursday,False
+ORD-10095,C0231,2025-10-16,Backpack,Fashion,1499.0,1,Card,Delhi,1499.0,2025-10,Thursday,False
+ORD-11210,C0039,2026-07-25,Water Bottle,Home & Kitchen,499.0,2,UPI,Delhi,998.0,2026-07,Saturday,True
+ORD-10096,C0237,2025-10-16,Running Shoes,Fashion,2999.0,1,COD,Hyderabad,2999.0,2025-10,Thursday,False
+ORD-10097,C0281,2025-10-16,Cotton T-Shirt,Fashion,599.0,2,UPI,Delhi,1198.0,2025-10,Thursday,False
+ORD-10098,C0075,2025-10-17,Cotton T-Shirt,Fashion,599.0,3,UPI,Hyderabad,1797.0,2025-10,Friday,False
+ORD-10099,C0077,2025-10-17,Cotton T-Shirt,Fashion,599.0,1,UPI,Delhi,599.0,2025-10,Friday,False
+ORD-10100,C0181,2025-10-17,Cotton T-Shirt,Fashion,599.0,2,UPI,Delhi,1198.0,2025-10,Friday,False
+ORD-10101,C0208,2025-10-17,Green Tea Pack,Health & Wellness,349.0,1,UPI,Bengaluru,349.0,2025-10,Friday,False
+ORD-10102,C0253,2025-10-17,Running Shoes,Fashion,2999.0,1,Card,Pune,2999.0,2025-10,Friday,False
+ORD-10103,C0039,2025-10-18,Water Bottle,Home & Kitchen,499.0,1,UPI,Delhi,499.0,2025-10,Saturday,True
+ORD-10104,C0102,2025-10-18,Cotton T-Shirt,Fashion,599.0,1,UPI,Chennai,599.0,2025-10,Saturday,True
+ORD-10106,C0261,2025-10-18,Backpack,Fashion,1499.0,1,Card,Pune,1499.0,2025-10,Saturday,True
+ORD-10107,C0265,2025-10-18,Protein Powder,Health & Wellness,1799.0,2,UPI,Bengaluru,3598.0,2025-10,Saturday,True
+ORD-10107,C0265,2025-10-18,Water Bottle,Home & Kitchen,499.0,1,UPI,Bengaluru,499.0,2025-10,Saturday,True
+ORD-10108,C0031,2025-10-19,Green Tea Pack,Health & Wellness,349.0,1,COD,Mumbai,349.0,2025-10,Sunday,True
+ORD-10109,C0057,2025-10-19,Wireless Earbuds,Electronics,1999.0,1,Card,Bengaluru,1999.0,2025-10,Sunday,True
+ORD-10109,C0057,2025-10-19,Cotton T-Shirt,Fashion,599.0,1,Card,Bengaluru,599.0,2025-10,Sunday,True
+ORD-10110,C0278,2025-10-19,Wireless Earbuds,Electronics,1999.0,2,Card,Bengaluru,3998.0,2025-10,Sunday,True
+ORD-10110,C0278,2025-10-19,Running Shoes,Fashion,2999.0,1,Card,Bengaluru,2999.0,2025-10,Sunday,True
+ORD-10111,C0083,2025-10-20,Cotton T-Shirt,Fashion,599.0,3,Card,Mumbai,1797.0,2025-10,Monday,False
+ORD-10112,C0131,2025-10-20,Cotton T-Shirt,Fashion,599.0,3,UPI,Delhi,1797.0,2025-10,Monday,False
+ORD-10113,C0194,2025-10-20,Desk Lamp,Home & Kitchen,899.0,2,UPI,Jaipur,1798.0,2025-10,Monday,False
+ORD-10114,C0017,2025-10-21,Cotton T-Shirt,Fashion,599.0,1,UPI,Bengaluru,599.0,2025-10,Tuesday,False
+ORD-10114,C0017,2025-10-21,Running Shoes,Fashion,2999.0,1,UPI,Bengaluru,2999.0,2025-10,Tuesday,False
+ORD-10115,C0182,2025-10-21,Running Shoes,Fashion,2999.0,1,UPI,Hyderabad,2999.0,2025-10,Tuesday,False
+ORD-10115,C0182,2025-10-21,Wireless Earbuds,Electronics,1999.0,2,UPI,Hyderabad,3998.0,2025-10,Tuesday,False
+ORD-10115,C0182,2025-10-21,Backpack,Fashion,1499.0,1,UPI,Hyderabad,1499.0,2025-10,Tuesday,False
+ORD-10116,C0194,2025-10-21,Protein Powder,Health & Wellness,1799.0,1,COD,Jaipur,1799.0,2025-10,Tuesday,False
+ORD-10116,C0194,2025-10-21,Cotton T-Shirt,Fashion,599.0,1,COD,Jaipur,599.0,2025-10,Tuesday,False
+ORD-10117,C0279,2025-10-21,Protein Powder,Health & Wellness,1799.0,1,Card,Delhi,1799.0,2025-10,Tuesday,False
+ORD-10118,C0049,2025-10-22,Protein Powder,Health & Wellness,1799.0,1,UPI,Bengaluru,1799.0,2025-10,Wednesday,False
+ORD-10119,C0187,2025-10-22,Green Tea Pack,Health & Wellness,349.0,3,Wallet,Chennai,1047.0,2025-10,Wednesday,False
+ORD-10120,C0226,2025-10-22,Wireless Earbuds,Electronics,1999.0,1,Card,Mumbai,1999.0,2025-10,Wednesday,False
+ORD-10121,C0280,2025-10-22,Wireless Earbuds,Electronics,1999.0,1,UPI,Jaipur,1999.0,2025-10,Wednesday,False
+ORD-10122,C0043,2025-10-23,Protein Powder,Health & Wellness,1799.0,1,Wallet,Delhi,1799.0,2025-10,Thursday,False
+ORD-10123,C0060,2025-10-23,Green Tea Pack,Health & Wellness,349.0,1,Wallet,Kolkata,349.0,2025-10,Thursday,False
+ORD-10123,C0060,2025-10-23,Bluetooth Speaker,Electronics,2499.0,2,Wallet,Kolkata,4998.0,2025-10,Thursday,False
+ORD-10124,C0092,2025-10-23,Cotton T-Shirt,Fashion,599.0,3,UPI,Pune,1797.0,2025-10,Thursday,False
+ORD-10125,C0172,2025-10-23,Backpack,Fashion,1499.0,1,COD,Jaipur,1499.0,2025-10,Thursday,False
+ORD-10126,C0006,2025-10-24,Cotton T-Shirt,Fashion,599.0,1,UPI,Bengaluru,599.0,2025-10,Friday,False
+ORD-10127,C0116,2025-10-24,Cotton T-Shirt,Fashion,599.0,3,Card,Chennai,1797.0,2025-10,Friday,False
+ORD-10128,C0144,2025-10-24,Wireless Earbuds,Electronics,1999.0,1,UPI,Jaipur,1999.0,2025-10,Friday,False
+ORD-10128,C0144,2025-10-24,Power Bank,Electronics,1299.0,2,UPI,Jaipur,2598.0,2025-10,Friday,False
+ORD-10129,C0164,2025-10-24,Green Tea Pack,Health & Wellness,349.0,1,UPI,Delhi,349.0,2025-10,Friday,False
+ORD-10130,C0055,2025-10-25,Bluetooth Speaker,Electronics,2499.0,1,Card,Kolkata,2499.0,2025-10,Saturday,True
+ORD-10131,C0065,2025-10-25,Green Tea Pack,Health & Wellness,349.0,1,UPI,Pune,349.0,2025-10,Saturday,True
+ORD-10132,C0127,2025-10-25,Wireless Earbuds,Electronics,1999.0,1,UPI,Mumbai,1999.0,2025-10,Saturday,True
+ORD-10133,C0161,2025-10-25,Backpack,Fashion,1499.0,1,Card,Jaipur,1499.0,2025-10,Saturday,True
+ORD-10134,C0218,2025-10-25,Running Shoes,Fashion,2999.0,1,UPI,Chennai,2999.0,2025-10,Saturday,True
+ORD-10135,C0271,2025-10-25,Green Tea Pack,Health & Wellness,349.0,3,COD,Hyderabad,1047.0,2025-10,Saturday,True
+ORD-10136,C0039,2025-10-26,Water Bottle,Home & Kitchen,499.0,1,Wallet,Delhi,499.0,2025-10,Sunday,True
+ORD-10136,C0039,2025-10-26,Desk Lamp,Home & Kitchen,899.0,2,Wallet,Delhi,1798.0,2025-10,Sunday,True
+ORD-10137,C0146,2025-10-26,Protein Powder,Health & Wellness,1799.0,1,UPI,Delhi,1799.0,2025-10,Sunday,True
+ORD-10137,C0146,2025-10-26,Wireless Earbuds,Electronics,1999.0,1,UPI,Delhi,1999.0,2025-10,Sunday,True
+ORD-10138,C0277,2025-10-26,Backpack,Fashion,1499.0,1,UPI,Chennai,1499.0,2025-10,Sunday,True
+ORD-10138,C0277,2025-10-26,Cotton T-Shirt,Fashion,599.0,1,UPI,Chennai,599.0,2025-10,Sunday,True
+ORD-10139,C0285,2025-10-26,Wireless Earbuds,Electronics,1999.0,2,UPI,Mumbai,3998.0,2025-10,Sunday,True
+ORD-10140,C0288,2025-10-26,Green Tea Pack,Health & Wellness,349.0,3,UPI,Hyderabad,1047.0,2025-10,Sunday,True
+ORD-10141,C0026,2025-10-27,Running Shoes,Fashion,2999.0,1,Card,Pune,2999.0,2025-10,Monday,False
+ORD-10142,C0094,2025-10-27,Water Bottle,Home & Kitchen,499.0,1,UPI,Chennai,499.0,2025-10,Monday,False
+ORD-10143,C0109,2025-10-27,Smartwatch,Electronics,4999.0,1,COD,Bengaluru,4999.0,2025-10,Monday,False
+ORD-10144,C0185,2025-10-27,Bluetooth Speaker,Electronics,2499.0,2,UPI,Mumbai,4998.0,2025-10,Monday,False
+ORD-10145,C0200,2025-10-27,Water Bottle,Home & Kitchen,499.0,1,Card,Delhi,499.0,2025-10,Monday,False
+ORD-10146,C0172,2025-10-28,Wireless Earbuds,Electronics,1999.0,1,Card,Jaipur,1999.0,2025-10,Tuesday,False
+ORD-10147,C0235,2025-10-28,Protein Powder,Health & Wellness,1799.0,1,COD,Mumbai,1799.0,2025-10,Tuesday,False
+ORD-10148,C0278,2025-10-28,Cotton T-Shirt,Fashion,599.0,2,Unknown,Bengaluru,1198.0,2025-10,Tuesday,False
+ORD-10149,C0064,2025-10-29,Green Tea Pack,Health & Wellness,349.0,1,UPI,Mumbai,349.0,2025-10,Wednesday,False
+ORD-10150,C0109,2025-10-29,Backpack,Fashion,1499.0,1,Unknown,Bengaluru,1499.0,2025-10,Wednesday,False
+ORD-10151,C0175,2025-10-29,Desk Lamp,Home & Kitchen,899.0,1,COD,Pune,899.0,2025-10,Wednesday,False
+ORD-10151,C0175,2025-10-29,Cushion Set,Home & Kitchen,799.0,1,COD,Pune,799.0,2025-10,Wednesday,False
+ORD-10152,C0187,2025-10-29,Green Tea Pack,Health & Wellness,349.0,2,COD,Chennai,698.0,2025-10,Wednesday,False
+ORD-10153,C0236,2025-10-29,Water Bottle,Home & Kitchen,499.0,1,Card,Mumbai,499.0,2025-10,Wednesday,False
+ORD-10154,C0296,2025-10-29,Green Tea Pack,Health & Wellness,349.0,2,UPI,Mumbai,698.0,2025-10,Wednesday,False
+ORD-10154,C0296,2025-10-29,Protein Powder,Health & Wellness,1799.0,1,UPI,Mumbai,1799.0,2025-10,Wednesday,False
+ORD-10155,C0033,2025-10-30,Backpack,Fashion,1499.0,1,UPI,Chennai,1499.0,2025-10,Thursday,False
+ORD-10156,C0041,2025-10-30,Running Shoes,Fashion,2999.0,2,UPI,Kolkata,5998.0,2025-10,Thursday,False
+ORD-10157,C0144,2025-10-30,Power Bank,Electronics,1299.0,1,Card,Jaipur,1299.0,2025-10,Thursday,False
+ORD-10158,C0146,2025-10-30,Protein Powder,Health & Wellness,1799.0,1,Card,Delhi,1799.0,2025-10,Thursday,False
+ORD-10159,C0168,2025-10-30,Backpack,Fashion,1499.0,1,Unknown,Jaipur,1499.0,2025-10,Thursday,False
+ORD-10160,C0169,2025-10-30,Cotton T-Shirt,Fashion,599.0,3,Wallet,Delhi,1797.0,2025-10,Thursday,False
+ORD-10162,C0292,2025-10-30,Water Bottle,Home & Kitchen,499.0,3,Card,Mumbai,1497.0,2025-10,Thursday,False
+ORD-10163,C0293,2025-10-30,Power Bank,Electronics,1299.0,1,UPI,Delhi,1299.0,2025-10,Thursday,False
+ORD-10164,C0016,2025-10-31,Power Bank,Electronics,1299.0,1,Card,Bengaluru,1299.0,2025-10,Friday,False
+ORD-10165,C0034,2025-10-31,Water Bottle,Home & Kitchen,499.0,3,COD,Delhi,1497.0,2025-10,Friday,False
+ORD-10766,C0151,2026-02-19,Desk Lamp,Home & Kitchen,899.0,1,COD,Mumbai,899.0,2026-02,Thursday,False
+ORD-10166,C0125,2025-10-31,Water Bottle,Home & Kitchen,499.0,3,UPI,Kolkata,1497.0,2025-10,Friday,False
+ORD-10167,C0144,2025-10-31,Wireless Earbuds,Electronics,1999.0,1,UPI,Jaipur,1999.0,2025-10,Friday,False
+ORD-10168,C0206,2025-10-31,Protein Powder,Health & Wellness,1799.0,1,Card,Bengaluru,1799.0,2025-10,Friday,False
+ORD-10168,C0206,2025-10-31,Water Bottle,Home & Kitchen,499.0,1,Card,Bengaluru,499.0,2025-10,Friday,False
+ORD-10169,C0253,2025-10-31,Cotton T-Shirt,Fashion,599.0,3,Card,Pune,1797.0,2025-10,Friday,False
+ORD-10170,C0027,2025-11-01,Protein Powder,Health & Wellness,1799.0,1,Card,Kolkata,1799.0,2025-11,Saturday,True
+ORD-10258,C0177,2025-11-11,Power Bank,Electronics,1299.0,1,UPI,Delhi,1299.0,2025-11,Tuesday,False
+ORD-10170,C0027,2025-11-01,Wireless Earbuds,Electronics,1999.0,1,Card,Kolkata,1999.0,2025-11,Saturday,True
+ORD-10171,C0028,2025-11-01,Water Bottle,Home & Kitchen,499.0,3,UPI,Mumbai,1497.0,2025-11,Saturday,True
+ORD-10172,C0043,2025-11-01,Backpack,Fashion,1499.0,1,UPI,Delhi,1499.0,2025-11,Saturday,True
+ORD-10173,C0053,2025-11-01,Bluetooth Speaker,Electronics,2499.0,1,Card,Kolkata,2499.0,2025-11,Saturday,True
+ORD-10174,C0126,2025-11-01,Bluetooth Speaker,Electronics,2499.0,1,Card,Mumbai,2499.0,2025-11,Saturday,True
+ORD-10175,C0137,2025-11-01,Cotton T-Shirt,Fashion,599.0,1,COD,Mumbai,599.0,2025-11,Saturday,True
+ORD-10176,C0147,2025-11-01,Green Tea Pack,Health & Wellness,349.0,3,UPI,Bengaluru,1047.0,2025-11,Saturday,True
+ORD-10176,C0147,2025-11-01,Protein Powder,Health & Wellness,1799.0,1,UPI,Bengaluru,1799.0,2025-11,Saturday,True
+ORD-10177,C0175,2025-11-01,Backpack,Fashion,1499.0,1,Unknown,Pune,1499.0,2025-11,Saturday,True
+ORD-10178,C0182,2025-11-01,Cotton T-Shirt,Fashion,599.0,1,UPI,Hyderabad,599.0,2025-11,Saturday,True
+ORD-10179,C0218,2025-11-01,Running Shoes,Fashion,2999.0,1,COD,Chennai,2999.0,2025-11,Saturday,True
+ORD-10180,C0226,2025-11-01,Wireless Earbuds,Electronics,1999.0,1,UPI,Mumbai,1999.0,2025-11,Saturday,True
+ORD-10181,C0257,2025-11-01,Cotton T-Shirt,Fashion,599.0,3,UPI,Pune,1797.0,2025-11,Saturday,True
+ORD-10182,C0268,2025-11-01,Wireless Earbuds,Electronics,1999.0,1,COD,Kolkata,1999.0,2025-11,Saturday,True
+ORD-10182,C0268,2025-11-01,Power Bank,Electronics,1299.0,1,COD,Kolkata,1299.0,2025-11,Saturday,True
+ORD-10183,C0275,2025-11-01,Backpack,Fashion,1499.0,1,UPI,Kolkata,1499.0,2025-11,Saturday,True
+ORD-10184,C0285,2025-11-01,Cotton T-Shirt,Fashion,599.0,1,UPI,Mumbai,599.0,2025-11,Saturday,True
+ORD-10185,C0287,2025-11-01,Wireless Earbuds,Electronics,1999.0,1,Card,Bengaluru,1999.0,2025-11,Saturday,True
+ORD-10186,C0164,2025-11-02,Green Tea Pack,Health & Wellness,349.0,3,UPI,Delhi,1047.0,2025-11,Sunday,True
+ORD-10187,C0202,2025-11-02,Water Bottle,Home & Kitchen,499.0,1,Card,Hyderabad,499.0,2025-11,Sunday,True
+ORD-10187,C0202,2025-11-02,Wireless Earbuds,Electronics,1999.0,2,Card,Hyderabad,3998.0,2025-11,Sunday,True
+ORD-10188,C0234,2025-11-02,Cushion Set,Home & Kitchen,799.0,3,UPI,Delhi,2397.0,2025-11,Sunday,True
+ORD-10188,C0234,2025-11-02,Cotton T-Shirt,Fashion,599.0,2,UPI,Delhi,1198.0,2025-11,Sunday,True
+ORD-10189,C0237,2025-11-02,Bluetooth Speaker,Electronics,2499.0,1,Card,Hyderabad,2499.0,2025-11,Sunday,True
+ORD-10190,C0292,2025-11-02,Running Shoes,Fashion,2999.0,1,Card,Mumbai,2999.0,2025-11,Sunday,True
+ORD-10191,C0084,2025-11-03,Water Bottle,Home & Kitchen,0.499,1,UPI,Delhi,0.499,2025-11,Monday,False
+ORD-10192,C0092,2025-11-03,Water Bottle,Home & Kitchen,499.0,2,COD,Pune,998.0,2025-11,Monday,False
+ORD-10193,C0116,2025-11-03,Cotton T-Shirt,Fashion,599.0,1,COD,Chennai,599.0,2025-11,Monday,False
+ORD-10194,C0143,2025-11-03,Water Bottle,Home & Kitchen,499.0,1,Card,Bengaluru,499.0,2025-11,Monday,False
+ORD-10195,C0167,2025-11-03,Cotton T-Shirt,Fashion,599.0,1,UPI,Bengaluru,599.0,2025-11,Monday,False
+ORD-10195,C0167,2025-11-03,Wireless Earbuds,Electronics,1999.0,1,UPI,Bengaluru,1999.0,2025-11,Monday,False
+ORD-10196,C0169,2025-11-03,Water Bottle,Home & Kitchen,499.0,1,COD,Delhi,499.0,2025-11,Monday,False
+ORD-10197,C0186,2025-11-03,Cushion Set,Home & Kitchen,799.0,1,UPI,Delhi,799.0,2025-11,Monday,False
+ORD-10728,C0275,2026-02-06,Cushion Set,Home & Kitchen,0.799,2,Wallet,Kolkata,1.598,2026-02,Friday,False
+ORD-10197,C0186,2025-11-03,Water Bottle,Home & Kitchen,499.0,2,UPI,Delhi,998.0,2025-11,Monday,False
+ORD-10198,C0223,2025-11-03,Backpack,Fashion,1499.0,2,UPI,Bengaluru,2998.0,2025-11,Monday,False
+ORD-10199,C0091,2025-11-04,Water Bottle,Home & Kitchen,499.0,1,UPI,Bengaluru,499.0,2025-11,Tuesday,False
+ORD-10200,C0098,2025-11-04,Backpack,Fashion,1499.0,1,COD,Delhi,1499.0,2025-11,Tuesday,False
+ORD-10201,C0146,2025-11-04,Bluetooth Speaker,Electronics,2499.0,1,Card,Delhi,2499.0,2025-11,Tuesday,False
+ORD-10202,C0209,2025-11-04,Running Shoes,Fashion,2999.0,2,UPI,Chennai,5998.0,2025-11,Tuesday,False
+ORD-10202,C0209,2025-11-04,Cotton T-Shirt,Fashion,599.0,2,UPI,Chennai,1198.0,2025-11,Tuesday,False
+ORD-10203,C0243,2025-11-04,Cotton T-Shirt,Fashion,599.0,2,UPI,Delhi,1198.0,2025-11,Tuesday,False
+ORD-10204,C0265,2025-11-04,Green Tea Pack,Health & Wellness,349.0,1,UPI,Bengaluru,349.0,2025-11,Tuesday,False
+ORD-10503,C0043,2025-12-16,Protein Powder,Health & Wellness,1799.0,1,COD,Delhi,1799.0,2025-12,Tuesday,False
+ORD-10204,C0265,2025-11-04,Protein Powder,Health & Wellness,1799.0,2,UPI,Bengaluru,3598.0,2025-11,Tuesday,False
+ORD-10205,C0016,2025-11-05,Water Bottle,Home & Kitchen,499.0,3,Wallet,Bengaluru,1497.0,2025-11,Wednesday,False
+ORD-10206,C0044,2025-11-05,Running Shoes,Fashion,2999.0,2,UPI,Delhi,5998.0,2025-11,Wednesday,False
+ORD-10207,C0044,2025-11-05,Cotton T-Shirt,Fashion,599.0,1,Card,Delhi,599.0,2025-11,Wednesday,False
+ORD-10208,C0045,2025-11-05,Protein Powder,Health & Wellness,1799.0,1,UPI,Bengaluru,1799.0,2025-11,Wednesday,False
+ORD-10209,C0128,2025-11-05,Running Shoes,Fashion,2999.0,1,UPI,Pune,2999.0,2025-11,Wednesday,False
+ORD-10209,C0128,2025-11-05,Backpack,Fashion,1499.0,1,UPI,Pune,1499.0,2025-11,Wednesday,False
+ORD-10210,C0142,2025-11-05,Wireless Earbuds,Electronics,1999.0,1,COD,Delhi,1999.0,2025-11,Wednesday,False
+ORD-10210,C0142,2025-11-05,Power Bank,Electronics,1299.0,1,COD,Delhi,1299.0,2025-11,Wednesday,False
+ORD-10211,C0144,2025-11-05,Wireless Earbuds,Electronics,1999.0,1,COD,Jaipur,1999.0,2025-11,Wednesday,False
+ORD-10211,C0144,2025-11-05,Power Bank,Electronics,1299.0,1,COD,Jaipur,1299.0,2025-11,Wednesday,False
+ORD-10212,C0144,2025-11-05,Desk Lamp,Home & Kitchen,899.0,3,Wallet,Jaipur,2697.0,2025-11,Wednesday,False
+ORD-10212,C0144,2025-11-05,Cushion Set,Home & Kitchen,799.0,1,Wallet,Jaipur,799.0,2025-11,Wednesday,False
+ORD-10213,C0161,2025-11-05,Cotton T-Shirt,Fashion,599.0,2,UPI,Jaipur,1198.0,2025-11,Wednesday,False
+ORD-10214,C0216,2025-11-05,Power Bank,Electronics,1299.0,1,UPI,Bengaluru,1299.0,2025-11,Wednesday,False
+ORD-10215,C0222,2025-11-05,Water Bottle,Home & Kitchen,499.0,1,Card,Hyderabad,499.0,2025-11,Wednesday,False
+ORD-10216,C0232,2025-11-05,Protein Powder,Health & Wellness,1799.0,1,Card,Chennai,1799.0,2025-11,Wednesday,False
+ORD-10217,C0248,2025-11-05,Desk Lamp,Home & Kitchen,899.0,3,UPI,Delhi,2697.0,2025-11,Wednesday,False
+ORD-10218,C0045,2025-11-06,Power Bank,Electronics,1299.0,2,UPI,Bengaluru,2598.0,2025-11,Thursday,False
+ORD-10219,C0180,2025-11-06,Backpack,Fashion,1499.0,1,Card,Mumbai,1499.0,2025-11,Thursday,False
+ORD-11367,C0004,2026-09-22,Backpack,Fashion,1499.0,1,UPI,Delhi,1499.0,2026-09,Tuesday,False
+ORD-10220,C0192,2025-11-06,Cotton T-Shirt,Fashion,599.0,2,UPI,Delhi,1198.0,2025-11,Thursday,False
+ORD-10221,C0237,2025-11-06,Backpack,Fashion,1499.0,1,Card,Hyderabad,1499.0,2025-11,Thursday,False
+ORD-10222,C0252,2025-11-06,Cotton T-Shirt,Fashion,599.0,1,Card,Chennai,599.0,2025-11,Thursday,False
+ORD-10222,C0252,2025-11-06,Backpack,Fashion,1499.0,2,Card,Chennai,2998.0,2025-11,Thursday,False
+ORD-10223,C0290,2025-11-06,Green Tea Pack,Health & Wellness,349.0,2,UPI,Hyderabad,698.0,2025-11,Thursday,False
+ORD-10224,C0029,2025-11-07,Water Bottle,Home & Kitchen,499.0,3,COD,Mumbai,1497.0,2025-11,Friday,False
+ORD-10225,C0050,2025-11-07,Water Bottle,Home & Kitchen,499.0,1,Card,Bengaluru,499.0,2025-11,Friday,False
+ORD-10226,C0100,2025-11-07,Power Bank,Electronics,1299.0,1,Card,Jaipur,1299.0,2025-11,Friday,False
+ORD-10227,C0165,2025-11-07,Desk Lamp,Home & Kitchen,899.0,3,UPI,Mumbai,2697.0,2025-11,Friday,False
+ORD-10227,C0165,2025-11-07,Cushion Set,Home & Kitchen,799.0,2,UPI,Mumbai,1598.0,2025-11,Friday,False
+ORD-10228,C0209,2025-11-07,Cotton T-Shirt,Fashion,599.0,1,Card,Chennai,599.0,2025-11,Friday,False
+ORD-10229,C0292,2025-11-07,Cushion Set,Home & Kitchen,799.0,1,Card,Mumbai,799.0,2025-11,Friday,False
+ORD-10230,C0002,2025-11-08,Wireless Earbuds,Electronics,1999.0,1,Card,Mumbai,1999.0,2025-11,Saturday,True
+ORD-10231,C0014,2025-11-08,Protein Powder,Health & Wellness,1799.0,2,Card,Chennai,3598.0,2025-11,Saturday,True
+ORD-10231,C0014,2025-11-08,Water Bottle,Home & Kitchen,499.0,1,Card,Chennai,499.0,2025-11,Saturday,True
+ORD-10231,C0014,2025-11-08,Green Tea Pack,Health & Wellness,349.0,3,Card,Chennai,1047.0,2025-11,Saturday,True
+ORD-10232,C0060,2025-11-08,Wireless Earbuds,Electronics,1999.0,2,Card,Kolkata,3998.0,2025-11,Saturday,True
+ORD-10232,C0060,2025-11-08,Power Bank,Electronics,1299.0,1,Card,Kolkata,1299.0,2025-11,Saturday,True
+ORD-10233,C0082,2025-11-08,Bluetooth Speaker,Electronics,2499.0,1,UPI,Mumbai,2499.0,2025-11,Saturday,True
+ORD-10234,C0205,2025-11-08,Desk Lamp,Home & Kitchen,0.899,3,UPI,Jaipur,2.697,2025-11,Saturday,True
+ORD-10235,C0216,2025-11-08,Green Tea Pack,Health & Wellness,349.0,1,Card,Bengaluru,349.0,2025-11,Saturday,True
+ORD-10236,C0218,2025-11-08,Cushion Set,Home & Kitchen,799.0,2,UPI,Chennai,1598.0,2025-11,Saturday,True
+ORD-10237,C0237,2025-11-08,Backpack,Fashion,1499.0,1,UPI,Hyderabad,1499.0,2025-11,Saturday,True
+ORD-10238,C0257,2025-11-08,Cotton T-Shirt,Fashion,0.599,1,Card,Pune,0.599,2025-11,Saturday,True
+ORD-10239,C0041,2025-11-09,Cotton T-Shirt,Fashion,599.0,1,Card,Kolkata,599.0,2025-11,Sunday,True
+ORD-10240,C0055,2025-11-09,Wireless Earbuds,Electronics,1999.0,1,UPI,Kolkata,1999.0,2025-11,Sunday,True
+ORD-10240,C0055,2025-11-09,Power Bank,Electronics,1299.0,1,UPI,Kolkata,1299.0,2025-11,Sunday,True
+ORD-10241,C0203,2025-11-09,Cotton T-Shirt,Fashion,599.0,1,UPI,Chennai,599.0,2025-11,Sunday,True
+ORD-10242,C0243,2025-11-09,Cotton T-Shirt,Fashion,599.0,1,UPI,Delhi,599.0,2025-11,Sunday,True
+ORD-10243,C0262,2025-11-09,Cotton T-Shirt,Fashion,599.0,2,COD,Kolkata,1198.0,2025-11,Sunday,True
+ORD-10244,C0268,2025-11-09,Smartwatch,Electronics,4999.0,1,UPI,Kolkata,4999.0,2025-11,Sunday,True
+ORD-10244,C0268,2025-11-09,Wireless Earbuds,Electronics,0.1999,1,UPI,Kolkata,0.1999,2025-11,Sunday,True
+ORD-10245,C0278,2025-11-09,Green Tea Pack,Health & Wellness,349.0,1,UPI,Bengaluru,349.0,2025-11,Sunday,True
+ORD-10246,C0287,2025-11-09,Wireless Earbuds,Electronics,1999.0,1,UPI,Bengaluru,1999.0,2025-11,Sunday,True
+ORD-10246,C0287,2025-11-09,Power Bank,Electronics,1299.0,1,UPI,Bengaluru,1299.0,2025-11,Sunday,True
+ORD-10247,C0297,2025-11-09,Water Bottle,Home & Kitchen,499.0,3,UPI,Hyderabad,1497.0,2025-11,Sunday,True
+ORD-10248,C0063,2025-11-10,Power Bank,Electronics,1299.0,1,COD,Bengaluru,1299.0,2025-11,Monday,False
+ORD-10249,C0094,2025-11-10,Bluetooth Speaker,Electronics,2499.0,2,UPI,Chennai,4998.0,2025-11,Monday,False
+ORD-10250,C0133,2025-11-10,Wireless Earbuds,Electronics,1999.0,1,UPI,Mumbai,1999.0,2025-11,Monday,False
+ORD-10251,C0172,2025-11-10,Backpack,Fashion,1499.0,1,Card,Jaipur,1499.0,2025-11,Monday,False
+ORD-10253,C0202,2025-11-10,Power Bank,Electronics,1299.0,1,Card,Hyderabad,1299.0,2025-11,Monday,False
+ORD-10254,C0253,2025-11-10,Wireless Earbuds,Electronics,1999.0,1,UPI,Pune,1999.0,2025-11,Monday,False
+ORD-10254,C0253,2025-11-10,Desk Lamp,Home & Kitchen,0.899,2,UPI,Pune,1.798,2025-11,Monday,False
+ORD-10255,C0027,2025-11-11,Protein Powder,Health & Wellness,1799.0,1,UPI,Kolkata,1799.0,2025-11,Tuesday,False
+ORD-10255,C0027,2025-11-11,Water Bottle,Home & Kitchen,499.0,1,UPI,Kolkata,499.0,2025-11,Tuesday,False
+ORD-10256,C0146,2025-11-11,Green Tea Pack,Health & Wellness,349.0,1,UPI,Delhi,349.0,2025-11,Tuesday,False
+ORD-10257,C0171,2025-11-11,Smartwatch,Electronics,4999.0,2,Card,Chennai,9998.0,2025-11,Tuesday,False
+ORD-10258,C0177,2025-11-11,Wireless Earbuds,Electronics,1999.0,1,UPI,Delhi,1999.0,2025-11,Tuesday,False
+ORD-10259,C0183,2025-11-11,Backpack,Fashion,1499.0,1,Card,Jaipur,1499.0,2025-11,Tuesday,False
+ORD-10260,C0292,2025-11-11,Desk Lamp,Home & Kitchen,899.0,1,Card,Mumbai,899.0,2025-11,Tuesday,False
+ORD-10261,C0062,2025-11-12,Green Tea Pack,Health & Wellness,0.349,3,COD,Delhi,1.047,2025-11,Wednesday,False
+ORD-10262,C0136,2025-11-12,Desk Lamp,Home & Kitchen,899.0,1,Card,Pune,899.0,2025-11,Wednesday,False
+ORD-10262,C0136,2025-11-12,Cushion Set,Home & Kitchen,799.0,1,Card,Pune,799.0,2025-11,Wednesday,False
+ORD-10263,C0202,2025-11-12,Cushion Set,Home & Kitchen,799.0,1,UPI,Hyderabad,799.0,2025-11,Wednesday,False
+ORD-10264,C0234,2025-11-12,Water Bottle,Home & Kitchen,499.0,2,Wallet,Delhi,998.0,2025-11,Wednesday,False
+ORD-10265,C0011,2025-11-13,Bluetooth Speaker,Electronics,2499.0,1,Card,Mumbai,2499.0,2025-11,Thursday,False
+ORD-10266,C0019,2025-11-13,Wireless Earbuds,Electronics,1999.0,1,UPI,Mumbai,1999.0,2025-11,Thursday,False
+ORD-10267,C0141,2025-11-13,Water Bottle,Home & Kitchen,499.0,1,Card,Bengaluru,499.0,2025-11,Thursday,False
+ORD-10268,C0158,2025-11-13,Green Tea Pack,Health & Wellness,349.0,2,COD,Kolkata,698.0,2025-11,Thursday,False
+ORD-10269,C0208,2025-11-13,Backpack,Fashion,1499.0,1,Card,Bengaluru,1499.0,2025-11,Thursday,False
+ORD-10270,C0257,2025-11-13,Running Shoes,Fashion,2999.0,1,COD,Pune,2999.0,2025-11,Thursday,False
+ORD-10271,C0039,2025-11-14,Cushion Set,Home & Kitchen,799.0,1,Wallet,Delhi,799.0,2025-11,Friday,False
+ORD-10272,C0058,2025-11-14,Power Bank,Electronics,1299.0,1,UPI,Delhi,1299.0,2025-11,Friday,False
+ORD-10272,C0058,2025-11-14,Water Bottle,Home & Kitchen,499.0,2,UPI,Delhi,998.0,2025-11,Friday,False
+ORD-10273,C0094,2025-11-14,Water Bottle,Home & Kitchen,499.0,1,UPI,Chennai,499.0,2025-11,Friday,False
+ORD-10274,C0096,2025-11-14,Cushion Set,Home & Kitchen,0.799,3,UPI,Mumbai,2.3970000000000002,2025-11,Friday,False
+ORD-10275,C0216,2025-11-14,Green Tea Pack,Health & Wellness,349.0,1,UPI,Bengaluru,349.0,2025-11,Friday,False
+ORD-10276,C0252,2025-11-14,Wireless Earbuds,Electronics,1999.0,1,Card,Chennai,1999.0,2025-11,Friday,False
+ORD-10276,C0252,2025-11-14,Power Bank,Electronics,1299.0,2,Card,Chennai,2598.0,2025-11,Friday,False
+ORD-10277,C0263,2025-11-14,Cotton T-Shirt,Fashion,599.0,1,UPI,Delhi,599.0,2025-11,Friday,False
+ORD-10278,C0281,2025-11-14,Cotton T-Shirt,Fashion,599.0,2,Wallet,Delhi,1198.0,2025-11,Friday,False
+ORD-10279,C0287,2025-11-14,Cotton T-Shirt,Fashion,599.0,1,UPI,Bengaluru,599.0,2025-11,Friday,False
+ORD-10280,C0036,2025-11-15,Cushion Set,Home & Kitchen,799.0,1,UPI,Mumbai,799.0,2025-11,Saturday,True
+ORD-10281,C0108,2025-11-15,Water Bottle,Home & Kitchen,499.0,2,Card,Mumbai,998.0,2025-11,Saturday,True
+ORD-10282,C0156,2025-11-15,Power Bank,Electronics,1299.0,1,COD,Delhi,1299.0,2025-11,Saturday,True
+ORD-10283,C0174,2025-11-15,Bluetooth Speaker,Electronics,2499.0,1,Card,Bengaluru,2499.0,2025-11,Saturday,True
+ORD-10284,C0182,2025-11-15,Cotton T-Shirt,Fashion,599.0,1,Card,Hyderabad,599.0,2025-11,Saturday,True
+ORD-10285,C0234,2025-11-15,Desk Lamp,Home & Kitchen,899.0,1,UPI,Delhi,899.0,2025-11,Saturday,True
+ORD-10285,C0234,2025-11-15,Backpack,Fashion,0.1499,1,UPI,Delhi,0.1499,2025-11,Saturday,True
+ORD-10286,C0039,2025-11-16,Water Bottle,Home & Kitchen,499.0,1,Card,Delhi,499.0,2025-11,Sunday,True
+ORD-10286,C0039,2025-11-16,Cushion Set,Home & Kitchen,799.0,1,Card,Delhi,799.0,2025-11,Sunday,True
+ORD-10287,C0055,2025-11-16,Water Bottle,Home & Kitchen,499.0,2,COD,Kolkata,998.0,2025-11,Sunday,True
+ORD-10288,C0101,2025-11-16,Green Tea Pack,Health & Wellness,349.0,2,Card,Chennai,698.0,2025-11,Sunday,True
+ORD-10288,C0101,2025-11-16,Water Bottle,Home & Kitchen,499.0,1,Card,Chennai,499.0,2025-11,Sunday,True
+ORD-10289,C0137,2025-11-16,Cotton T-Shirt,Fashion,599.0,1,Wallet,Mumbai,599.0,2025-11,Sunday,True
+ORD-10290,C0187,2025-11-16,Protein Powder,Health & Wellness,1799.0,2,UPI,Chennai,3598.0,2025-11,Sunday,True
+ORD-10291,C0198,2025-11-16,Bluetooth Speaker,Electronics,2499.0,1,UPI,Jaipur,2499.0,2025-11,Sunday,True
+ORD-10292,C0264,2025-11-16,Green Tea Pack,Health & Wellness,349.0,2,UPI,Bengaluru,698.0,2025-11,Sunday,True
+ORD-10293,C0002,2025-11-17,Wireless Earbuds,Electronics,1999.0,1,UPI,Mumbai,1999.0,2025-11,Monday,False
+ORD-10293,C0002,2025-11-17,Water Bottle,Home & Kitchen,499.0,1,UPI,Mumbai,499.0,2025-11,Monday,False
+ORD-10294,C0028,2025-11-17,Bluetooth Speaker,Electronics,2499.0,2,Card,Mumbai,4998.0,2025-11,Monday,False
+ORD-10294,C0028,2025-11-17,Water Bottle,Home & Kitchen,499.0,1,Card,Mumbai,499.0,2025-11,Monday,False
+ORD-10295,C0124,2025-11-17,Green Tea Pack,Health & Wellness,349.0,1,UPI,Jaipur,349.0,2025-11,Monday,False
+ORD-10582,C0142,2026-01-01,Power Bank,Electronics,1299.0,2,UPI,Delhi,2598.0,2026-01,Thursday,False
+ORD-10296,C0146,2025-11-17,Protein Powder,Health & Wellness,1799.0,1,UPI,Delhi,1799.0,2025-11,Monday,False
+ORD-10297,C0150,2025-11-17,Cotton T-Shirt,Fashion,599.0,2,UPI,Bengaluru,1198.0,2025-11,Monday,False
+ORD-10297,C0150,2025-11-17,Backpack,Fashion,1499.0,2,UPI,Bengaluru,2998.0,2025-11,Monday,False
+ORD-10298,C0184,2025-11-17,Green Tea Pack,Health & Wellness,349.0,1,UPI,Kolkata,349.0,2025-11,Monday,False
+ORD-10299,C0186,2025-11-17,Desk Lamp,Home & Kitchen,899.0,3,Card,Delhi,2697.0,2025-11,Monday,False
+ORD-10300,C0222,2025-11-17,Smartwatch,Electronics,4999.0,1,UPI,Hyderabad,4999.0,2025-11,Monday,False
+ORD-10300,C0222,2025-11-17,Wireless Earbuds,Electronics,1999.0,1,UPI,Hyderabad,1999.0,2025-11,Monday,False
+ORD-10301,C0089,2025-11-18,Wireless Earbuds,Electronics,1999.0,1,COD,Pune,1999.0,2025-11,Tuesday,False
+ORD-10301,C0089,2025-11-18,Power Bank,Electronics,1299.0,1,COD,Pune,1299.0,2025-11,Tuesday,False
+ORD-10302,C0218,2025-11-18,Backpack,Fashion,1499.0,1,Wallet,Chennai,1499.0,2025-11,Tuesday,False
+ORD-10303,C0238,2025-11-18,Protein Powder,Health & Wellness,1799.0,1,UPI,Pune,1799.0,2025-11,Tuesday,False
+ORD-10303,C0238,2025-11-18,Green Tea Pack,Health & Wellness,349.0,1,UPI,Pune,349.0,2025-11,Tuesday,False
+ORD-10304,C0241,2025-11-18,Wireless Earbuds,Electronics,1999.0,1,UPI,Bengaluru,1999.0,2025-11,Tuesday,False
+ORD-10305,C0273,2025-11-18,Cushion Set,Home & Kitchen,0.799,2,Card,Bengaluru,1.598,2025-11,Tuesday,False
+ORD-10306,C0288,2025-11-18,Green Tea Pack,Health & Wellness,349.0,3,Card,Hyderabad,1047.0,2025-11,Tuesday,False
+ORD-10307,C0040,2025-11-19,Green Tea Pack,Health & Wellness,349.0,1,UPI,Mumbai,349.0,2025-11,Wednesday,False
+ORD-10308,C0142,2025-11-19,Power Bank,Electronics,1299.0,1,UPI,Delhi,1299.0,2025-11,Wednesday,False
+ORD-10309,C0168,2025-11-19,Desk Lamp,Home & Kitchen,899.0,2,UPI,Jaipur,1798.0,2025-11,Wednesday,False
+ORD-10309,C0168,2025-11-19,Power Bank,Electronics,1299.0,1,UPI,Jaipur,1299.0,2025-11,Wednesday,False
+ORD-10310,C0208,2025-11-19,Power Bank,Electronics,1299.0,1,Card,Bengaluru,1299.0,2025-11,Wednesday,False
+ORD-10311,C0220,2025-11-19,Wireless Earbuds,Electronics,1999.0,2,UPI,Pune,3998.0,2025-11,Wednesday,False
+ORD-10311,C0220,2025-11-19,Power Bank,Electronics,1299.0,1,UPI,Pune,1299.0,2025-11,Wednesday,False
+ORD-10311,C0220,2025-11-19,Cotton T-Shirt,Fashion,599.0,2,UPI,Pune,1198.0,2025-11,Wednesday,False
+ORD-10312,C0244,2025-11-19,Backpack,Fashion,1499.0,1,Wallet,Chennai,1499.0,2025-11,Wednesday,False
+ORD-10313,C0279,2025-11-19,Power Bank,Electronics,1299.0,1,UPI,Delhi,1299.0,2025-11,Wednesday,False
+ORD-10314,C0297,2025-11-19,Water Bottle,Home & Kitchen,499.0,1,UPI,Hyderabad,499.0,2025-11,Wednesday,False
+ORD-10315,C0001,2025-11-20,Backpack,Fashion,1499.0,1,Card,Bengaluru,1499.0,2025-11,Thursday,False
+ORD-10315,C0001,2025-11-20,Cotton T-Shirt,Fashion,599.0,1,Card,Bengaluru,599.0,2025-11,Thursday,False
+ORD-10316,C0028,2025-11-20,Water Bottle,Home & Kitchen,499.0,3,Card,Mumbai,1497.0,2025-11,Thursday,False
+ORD-10317,C0028,2025-11-20,Cushion Set,Home & Kitchen,799.0,3,UPI,Mumbai,2397.0,2025-11,Thursday,False
+ORD-10318,C0045,2025-11-20,Protein Powder,Health & Wellness,0.1799,1,UPI,Bengaluru,0.1799,2025-11,Thursday,False
+ORD-10319,C0048,2025-11-20,Cotton T-Shirt,Fashion,599.0,1,UPI,Kolkata,599.0,2025-11,Thursday,False
+ORD-10320,C0170,2025-11-20,Cotton T-Shirt,Fashion,599.0,1,Card,Bengaluru,599.0,2025-11,Thursday,False
+ORD-10321,C0179,2025-11-20,Running Shoes,Fashion,2999.0,1,Card,Hyderabad,2999.0,2025-11,Thursday,False
+ORD-10321,C0179,2025-11-20,Cotton T-Shirt,Fashion,599.0,1,Card,Hyderabad,599.0,2025-11,Thursday,False
+ORD-10321,C0179,2025-11-20,Backpack,Fashion,1499.0,1,Card,Hyderabad,1499.0,2025-11,Thursday,False
+ORD-10322,C0252,2025-11-20,Cotton T-Shirt,Fashion,599.0,1,Card,Chennai,599.0,2025-11,Thursday,False
+ORD-10323,C0261,2025-11-20,Backpack,Fashion,1499.0,2,Wallet,Pune,2998.0,2025-11,Thursday,False
+ORD-10324,C0262,2025-11-20,Cotton T-Shirt,Fashion,599.0,2,UPI,Kolkata,1198.0,2025-11,Thursday,False
+ORD-10325,C0292,2025-11-20,Water Bottle,Home & Kitchen,499.0,1,COD,Mumbai,499.0,2025-11,Thursday,False
+ORD-10325,C0292,2025-11-20,Wireless Earbuds,Electronics,1999.0,2,COD,Mumbai,3998.0,2025-11,Thursday,False
+ORD-10326,C0009,2025-11-21,Water Bottle,Home & Kitchen,0.499,3,Card,Hyderabad,1.4969999999999999,2025-11,Friday,False
+ORD-10326,C0009,2025-11-21,Backpack,Fashion,1499.0,2,Card,Hyderabad,2998.0,2025-11,Friday,False
+ORD-10327,C0014,2025-11-21,Protein Powder,Health & Wellness,1799.0,1,Wallet,Chennai,1799.0,2025-11,Friday,False
+ORD-10327,C0014,2025-11-21,Water Bottle,Home & Kitchen,499.0,1,Wallet,Chennai,499.0,2025-11,Friday,False
+ORD-10328,C0018,2025-11-21,Wireless Earbuds,Electronics,1999.0,2,UPI,Delhi,3998.0,2025-11,Friday,False
+ORD-10329,C0026,2025-11-21,Running Shoes,Fashion,2999.0,1,Card,Pune,2999.0,2025-11,Friday,False
+ORD-10329,C0026,2025-11-21,Wireless Earbuds,Electronics,1999.0,2,Card,Pune,3998.0,2025-11,Friday,False
+ORD-10330,C0046,2025-11-21,Protein Powder,Health & Wellness,1799.0,1,Card,Mumbai,1799.0,2025-11,Friday,False
+ORD-10330,C0046,2025-11-21,Cotton T-Shirt,Fashion,599.0,2,Card,Mumbai,1198.0,2025-11,Friday,False
+ORD-10331,C0115,2025-11-21,Desk Lamp,Home & Kitchen,899.0,3,Card,Mumbai,2697.0,2025-11,Friday,False
+ORD-10332,C0179,2025-11-21,Backpack,Fashion,1499.0,1,Wallet,Hyderabad,1499.0,2025-11,Friday,False
+ORD-10333,C0180,2025-11-21,Cushion Set,Home & Kitchen,799.0,1,Card,Mumbai,799.0,2025-11,Friday,False
+ORD-10334,C0268,2025-11-21,Power Bank,Electronics,1299.0,1,Card,Kolkata,1299.0,2025-11,Friday,False
+ORD-10335,C0071,2025-11-22,Desk Lamp,Home & Kitchen,899.0,3,UPI,Mumbai,2697.0,2025-11,Saturday,True
+ORD-10336,C0075,2025-11-22,Water Bottle,Home & Kitchen,499.0,1,Card,Hyderabad,499.0,2025-11,Saturday,True
+ORD-10337,C0092,2025-11-22,Wireless Earbuds,Electronics,1999.0,1,UPI,Pune,1999.0,2025-11,Saturday,True
+ORD-10338,C0202,2025-11-22,Power Bank,Electronics,1299.0,2,UPI,Hyderabad,2598.0,2025-11,Saturday,True
+ORD-10339,C0208,2025-11-22,Protein Powder,Health & Wellness,1799.0,1,UPI,Bengaluru,1799.0,2025-11,Saturday,True
+ORD-10340,C0232,2025-11-22,Desk Lamp,Home & Kitchen,899.0,1,UPI,Chennai,899.0,2025-11,Saturday,True
+ORD-10340,C0232,2025-11-22,Cushion Set,Home & Kitchen,799.0,1,UPI,Chennai,799.0,2025-11,Saturday,True
+ORD-10341,C0250,2025-11-22,Wireless Earbuds,Electronics,1999.0,1,Card,Bengaluru,1999.0,2025-11,Saturday,True
+ORD-10342,C0274,2025-11-22,Backpack,Fashion,1499.0,2,Card,Pune,2998.0,2025-11,Saturday,True
+ORD-10342,C0274,2025-11-22,Running Shoes,Fashion,2999.0,1,Card,Pune,2999.0,2025-11,Saturday,True
+ORD-10343,C0278,2025-11-22,Protein Powder,Health & Wellness,1799.0,1,UPI,Bengaluru,1799.0,2025-11,Saturday,True
+ORD-10344,C0003,2025-11-23,Green Tea Pack,Health & Wellness,349.0,2,COD,Mumbai,698.0,2025-11,Sunday,True
+ORD-10345,C0027,2025-11-23,Bluetooth Speaker,Electronics,2499.0,1,Card,Kolkata,2499.0,2025-11,Sunday,True
+ORD-10345,C0027,2025-11-23,Protein Powder,Health & Wellness,1799.0,1,Card,Kolkata,1799.0,2025-11,Sunday,True
+ORD-10346,C0049,2025-11-23,Green Tea Pack,Health & Wellness,349.0,2,COD,Bengaluru,698.0,2025-11,Sunday,True
+ORD-10346,C0049,2025-11-23,Power Bank,Electronics,1299.0,1,COD,Bengaluru,1299.0,2025-11,Sunday,True
+ORD-10347,C0135,2025-11-23,Green Tea Pack,Health & Wellness,349.0,1,UPI,Bengaluru,349.0,2025-11,Sunday,True
+ORD-10348,C0148,2025-11-23,Green Tea Pack,Health & Wellness,349.0,3,Wallet,Mumbai,1047.0,2025-11,Sunday,True
+ORD-10349,C0179,2025-11-23,Running Shoes,Fashion,2999.0,1,COD,Hyderabad,2999.0,2025-11,Sunday,True
+ORD-10350,C0184,2025-11-23,Green Tea Pack,Health & Wellness,349.0,3,UPI,Kolkata,1047.0,2025-11,Sunday,True
+ORD-10351,C0192,2025-11-23,Running Shoes,Fashion,2999.0,1,Card,Delhi,2999.0,2025-11,Sunday,True
+ORD-10352,C0195,2025-11-23,Green Tea Pack,Health & Wellness,349.0,2,UPI,Pune,698.0,2025-11,Sunday,True
+ORD-10353,C0203,2025-11-23,Green Tea Pack,Health & Wellness,349.0,1,UPI,Chennai,349.0,2025-11,Sunday,True
+ORD-10354,C0207,2025-11-23,Cotton T-Shirt,Fashion,599.0,1,UPI,Delhi,599.0,2025-11,Sunday,True
+ORD-10354,C0207,2025-11-23,Running Shoes,Fashion,2999.0,1,UPI,Delhi,2999.0,2025-11,Sunday,True
+ORD-10355,C0268,2025-11-23,Power Bank,Electronics,1299.0,1,Card,Kolkata,1299.0,2025-11,Sunday,True
+ORD-10356,C0275,2025-11-23,Cotton T-Shirt,Fashion,599.0,1,UPI,Kolkata,599.0,2025-11,Sunday,True
+ORD-10357,C0018,2025-11-24,Cushion Set,Home & Kitchen,799.0,2,Card,Delhi,1598.0,2025-11,Monday,False
+ORD-10358,C0051,2025-11-24,Cotton T-Shirt,Fashion,599.0,1,UPI,Hyderabad,599.0,2025-11,Monday,False
+ORD-10359,C0062,2025-11-24,Desk Lamp,Home & Kitchen,899.0,1,UPI,Delhi,899.0,2025-11,Monday,False
+ORD-10359,C0062,2025-11-24,Cotton T-Shirt,Fashion,599.0,3,UPI,Delhi,1797.0,2025-11,Monday,False
+ORD-10359,C0062,2025-11-24,Wireless Earbuds,Electronics,1999.0,1,UPI,Delhi,1999.0,2025-11,Monday,False
+ORD-10360,C0074,2025-11-24,Desk Lamp,Home & Kitchen,899.0,1,UPI,Delhi,899.0,2025-11,Monday,False
+ORD-10360,C0074,2025-11-24,Cushion Set,Home & Kitchen,799.0,2,UPI,Delhi,1598.0,2025-11,Monday,False
+ORD-10361,C0183,2025-11-24,Water Bottle,Home & Kitchen,499.0,2,UPI,Jaipur,998.0,2025-11,Monday,False
+ORD-10362,C0197,2025-11-24,Wireless Earbuds,Electronics,1999.0,1,UPI,Hyderabad,1999.0,2025-11,Monday,False
+ORD-10363,C0236,2025-11-24,Water Bottle,Home & Kitchen,499.0,1,Card,Mumbai,499.0,2025-11,Monday,False
+ORD-10363,C0236,2025-11-24,Cushion Set,Home & Kitchen,799.0,2,Card,Mumbai,1598.0,2025-11,Monday,False
+ORD-10364,C0244,2025-11-24,Backpack,Fashion,1499.0,1,COD,Chennai,1499.0,2025-11,Monday,False
+ORD-10365,C0279,2025-11-24,Cushion Set,Home & Kitchen,799.0,2,Card,Delhi,1598.0,2025-11,Monday,False
+ORD-10366,C0010,2025-11-25,Green Tea Pack,Health & Wellness,349.0,3,Card,Hyderabad,1047.0,2025-11,Tuesday,False
+ORD-10366,C0010,2025-11-25,Smartwatch,Electronics,4999.0,1,Card,Hyderabad,4999.0,2025-11,Tuesday,False
+ORD-10367,C0035,2025-11-25,Running Shoes,Fashion,2999.0,1,UPI,Mumbai,2999.0,2025-11,Tuesday,False
+ORD-10367,C0035,2025-11-25,Cotton T-Shirt,Fashion,599.0,2,UPI,Mumbai,1198.0,2025-11,Tuesday,False
+ORD-10368,C0045,2025-11-25,Green Tea Pack,Health & Wellness,0.349,2,COD,Bengaluru,0.698,2025-11,Tuesday,False
+ORD-10369,C0075,2025-11-25,Green Tea Pack,Health & Wellness,349.0,2,Card,Hyderabad,698.0,2025-11,Tuesday,False
+ORD-10370,C0132,2025-11-25,Water Bottle,Home & Kitchen,499.0,1,Wallet,Chennai,499.0,2025-11,Tuesday,False
+ORD-10371,C0169,2025-11-25,Wireless Earbuds,Electronics,1999.0,1,UPI,Delhi,1999.0,2025-11,Tuesday,False
+ORD-10372,C0175,2025-11-25,Backpack,Fashion,1499.0,1,Card,Pune,1499.0,2025-11,Tuesday,False
+ORD-10373,C0182,2025-11-25,Bluetooth Speaker,Electronics,2499.0,1,UPI,Hyderabad,2499.0,2025-11,Tuesday,False
+ORD-10373,C0182,2025-11-25,Power Bank,Electronics,1299.0,1,UPI,Hyderabad,1299.0,2025-11,Tuesday,False
+ORD-10374,C0197,2025-11-25,Backpack,Fashion,1499.0,1,Card,Hyderabad,1499.0,2025-11,Tuesday,False
+ORD-10375,C0197,2025-11-25,Cotton T-Shirt,Fashion,599.0,1,UPI,Hyderabad,599.0,2025-11,Tuesday,False
+ORD-10376,C0204,2025-11-25,Cotton T-Shirt,Fashion,599.0,3,UPI,Mumbai,1797.0,2025-11,Tuesday,False
+ORD-10377,C0217,2025-11-25,Green Tea Pack,Health & Wellness,349.0,3,UPI,Hyderabad,1047.0,2025-11,Tuesday,False
+ORD-10378,C0220,2025-11-25,Cotton T-Shirt,Fashion,599.0,3,UPI,Pune,1797.0,2025-11,Tuesday,False
+ORD-10379,C0279,2025-11-25,Water Bottle,Home & Kitchen,499.0,2,UPI,Delhi,998.0,2025-11,Tuesday,False
+ORD-10380,C0044,2025-11-26,Running Shoes,Fashion,2999.0,1,Card,Delhi,2999.0,2025-11,Wednesday,False
+ORD-10381,C0074,2025-11-26,Running Shoes,Fashion,2999.0,1,Card,Delhi,2999.0,2025-11,Wednesday,False
+ORD-10382,C0137,2025-11-26,Cotton T-Shirt,Fashion,599.0,1,UPI,Mumbai,599.0,2025-11,Wednesday,False
+ORD-10383,C0147,2025-11-26,Wireless Earbuds,Electronics,1999.0,1,UPI,Bengaluru,1999.0,2025-11,Wednesday,False
+ORD-10383,C0147,2025-11-26,Bluetooth Speaker,Electronics,2499.0,2,UPI,Bengaluru,4998.0,2025-11,Wednesday,False
+ORD-10384,C0010,2025-11-27,Cushion Set,Home & Kitchen,799.0,2,Card,Hyderabad,1598.0,2025-11,Thursday,False
+ORD-10385,C0046,2025-11-27,Backpack,Fashion,1499.0,1,UPI,Mumbai,1499.0,2025-11,Thursday,False
+ORD-10386,C0054,2025-11-27,Cotton T-Shirt,Fashion,599.0,3,Card,Chennai,1797.0,2025-11,Thursday,False
+ORD-10387,C0135,2025-11-27,Water Bottle,Home & Kitchen,499.0,1,UPI,Bengaluru,499.0,2025-11,Thursday,False
+ORD-10388,C0190,2025-11-27,Power Bank,Electronics,1299.0,1,COD,Bengaluru,1299.0,2025-11,Thursday,False
+ORD-10389,C0219,2025-11-27,Running Shoes,Fashion,2999.0,1,Card,Mumbai,2999.0,2025-11,Thursday,False
+ORD-10389,C0219,2025-11-27,Cotton T-Shirt,Fashion,599.0,3,Card,Mumbai,1797.0,2025-11,Thursday,False
+ORD-10390,C0281,2025-11-27,Protein Powder,Health & Wellness,1799.0,2,Card,Delhi,3598.0,2025-11,Thursday,False
+ORD-10390,C0281,2025-11-27,Backpack,Fashion,1499.0,1,Card,Delhi,1499.0,2025-11,Thursday,False
+ORD-10391,C0028,2025-11-28,Smartwatch,Electronics,4999.0,1,UPI,Mumbai,4999.0,2025-11,Friday,False
+ORD-10391,C0028,2025-11-28,Wireless Earbuds,Electronics,0.1999,1,UPI,Mumbai,0.1999,2025-11,Friday,False
+ORD-10392,C0134,2025-11-28,Wireless Earbuds,Electronics,1999.0,1,COD,Bengaluru,1999.0,2025-11,Friday,False
+ORD-10392,C0134,2025-11-28,Power Bank,Electronics,1299.0,1,COD,Bengaluru,1299.0,2025-11,Friday,False
+ORD-10393,C0172,2025-11-28,Backpack,Fashion,1499.0,1,UPI,Jaipur,1499.0,2025-11,Friday,False
+ORD-10394,C0216,2025-11-28,Protein Powder,Health & Wellness,1799.0,1,UPI,Bengaluru,1799.0,2025-11,Friday,False
+ORD-10395,C0255,2025-11-28,Green Tea Pack,Health & Wellness,349.0,1,Wallet,Kolkata,349.0,2025-11,Friday,False
+ORD-10396,C0048,2025-11-29,Cotton T-Shirt,Fashion,599.0,2,UPI,Kolkata,1198.0,2025-11,Saturday,True
+ORD-10397,C0083,2025-11-29,Cotton T-Shirt,Fashion,599.0,3,UPI,Mumbai,1797.0,2025-11,Saturday,True
+ORD-10398,C0127,2025-11-29,Power Bank,Electronics,1299.0,1,Card,Mumbai,1299.0,2025-11,Saturday,True
+ORD-10399,C0185,2025-11-29,Wireless Earbuds,Electronics,1999.0,1,COD,Mumbai,1999.0,2025-11,Saturday,True
+ORD-10399,C0185,2025-11-29,Power Bank,Electronics,1299.0,1,COD,Mumbai,1299.0,2025-11,Saturday,True
+ORD-10400,C0272,2025-11-29,Cotton T-Shirt,Fashion,599.0,1,UPI,Jaipur,599.0,2025-11,Saturday,True
+ORD-10401,C0028,2025-11-30,Water Bottle,Home & Kitchen,499.0,2,COD,Mumbai,998.0,2025-11,Sunday,True
+ORD-10402,C0065,2025-11-30,Smartwatch,Electronics,4999.0,1,Card,Pune,4999.0,2025-11,Sunday,True
+ORD-10402,C0065,2025-11-30,Wireless Earbuds,Electronics,1999.0,1,Card,Pune,1999.0,2025-11,Sunday,True
+ORD-10403,C0076,2025-11-30,Desk Lamp,Home & Kitchen,899.0,2,UPI,Kolkata,1798.0,2025-11,Sunday,True
+ORD-10404,C0157,2025-11-30,Running Shoes,Fashion,2999.0,1,Card,Jaipur,2999.0,2025-11,Sunday,True
+ORD-10405,C0174,2025-11-30,Wireless Earbuds,Electronics,0.1999,1,UPI,Bengaluru,0.1999,2025-11,Sunday,True
+ORD-10406,C0186,2025-11-30,Desk Lamp,Home & Kitchen,899.0,2,Card,Delhi,1798.0,2025-11,Sunday,True
+ORD-10406,C0186,2025-11-30,Cushion Set,Home & Kitchen,799.0,1,Card,Delhi,799.0,2025-11,Sunday,True
+ORD-10407,C0198,2025-11-30,Desk Lamp,Home & Kitchen,899.0,1,UPI,Jaipur,899.0,2025-11,Sunday,True
+ORD-10408,C0230,2025-11-30,Cushion Set,Home & Kitchen,799.0,2,Card,Hyderabad,1598.0,2025-11,Sunday,True
+ORD-10409,C0235,2025-11-30,Protein Powder,Health & Wellness,1799.0,1,COD,Mumbai,1799.0,2025-11,Sunday,True
+ORD-10409,C0235,2025-11-30,Water Bottle,Home & Kitchen,499.0,3,COD,Mumbai,1497.0,2025-11,Sunday,True
+ORD-10410,C0241,2025-12-01,Protein Powder,Health & Wellness,1799.0,2,Unknown,Bengaluru,3598.0,2025-12,Monday,False
+ORD-10411,C0286,2025-12-01,Bluetooth Speaker,Electronics,2499.0,1,UPI,Pune,2499.0,2025-12,Monday,False
+ORD-10412,C0013,2025-12-02,Cotton T-Shirt,Fashion,599.0,2,Wallet,Hyderabad,1198.0,2025-12,Tuesday,False
+ORD-10413,C0144,2025-12-02,Smartwatch,Electronics,4999.0,2,UPI,Jaipur,9998.0,2025-12,Tuesday,False
+ORD-10413,C0144,2025-12-02,Wireless Earbuds,Electronics,1999.0,1,UPI,Jaipur,1999.0,2025-12,Tuesday,False
+ORD-10414,C0160,2025-12-02,Wireless Earbuds,Electronics,1999.0,1,UPI,Hyderabad,1999.0,2025-12,Tuesday,False
+ORD-10415,C0220,2025-12-02,Wireless Earbuds,Electronics,1999.0,1,UPI,Pune,1999.0,2025-12,Tuesday,False
+ORD-10416,C0270,2025-12-02,Smartwatch,Electronics,4999.0,1,UPI,Mumbai,4999.0,2025-12,Tuesday,False
+ORD-10416,C0270,2025-12-02,Green Tea Pack,Health & Wellness,349.0,1,UPI,Mumbai,349.0,2025-12,Tuesday,False
+ORD-10417,C0028,2025-12-03,Desk Lamp,Home & Kitchen,899.0,2,Card,Mumbai,1798.0,2025-12,Wednesday,False
+ORD-10418,C0043,2025-12-03,Green Tea Pack,Health & Wellness,349.0,3,Card,Delhi,1047.0,2025-12,Wednesday,False
+ORD-10419,C0133,2025-12-03,Wireless Earbuds,Electronics,1999.0,2,UPI,Mumbai,3998.0,2025-12,Wednesday,False
+ORD-10419,C0133,2025-12-03,Power Bank,Electronics,1299.0,1,UPI,Mumbai,1299.0,2025-12,Wednesday,False
+ORD-10420,C0201,2025-12-03,Power Bank,Electronics,1299.0,2,COD,Mumbai,2598.0,2025-12,Wednesday,False
+ORD-10421,C0235,2025-12-03,Green Tea Pack,Health & Wellness,349.0,1,Wallet,Mumbai,349.0,2025-12,Wednesday,False
+ORD-10422,C0242,2025-12-03,Protein Powder,Health & Wellness,1799.0,1,UPI,Delhi,1799.0,2025-12,Wednesday,False
+ORD-10423,C0031,2025-12-04,Smartwatch,Electronics,4999.0,1,UPI,Mumbai,4999.0,2025-12,Thursday,False
+ORD-10424,C0059,2025-12-04,Green Tea Pack,Health & Wellness,349.0,2,Unknown,Kolkata,698.0,2025-12,Thursday,False
+ORD-10425,C0079,2025-12-04,Bluetooth Speaker,Electronics,2499.0,1,UPI,Bengaluru,2499.0,2025-12,Thursday,False
+ORD-10425,C0079,2025-12-04,Wireless Earbuds,Electronics,1999.0,2,UPI,Bengaluru,3998.0,2025-12,Thursday,False
+ORD-10426,C0081,2025-12-04,Protein Powder,Health & Wellness,1799.0,1,UPI,Jaipur,1799.0,2025-12,Thursday,False
+ORD-10427,C0172,2025-12-04,Water Bottle,Home & Kitchen,499.0,3,Card,Jaipur,1497.0,2025-12,Thursday,False
+ORD-10428,C0201,2025-12-04,Water Bottle,Home & Kitchen,499.0,3,UPI,Mumbai,1497.0,2025-12,Thursday,False
+ORD-10429,C0204,2025-12-04,Cotton T-Shirt,Fashion,599.0,3,UPI,Mumbai,1797.0,2025-12,Thursday,False
+ORD-10430,C0236,2025-12-04,Desk Lamp,Home & Kitchen,0.899,1,UPI,Mumbai,0.899,2025-12,Thursday,False
+ORD-10431,C0273,2025-12-04,Smartwatch,Electronics,4999.0,2,COD,Bengaluru,9998.0,2025-12,Thursday,False
+ORD-10432,C0296,2025-12-04,Protein Powder,Health & Wellness,1799.0,1,COD,Mumbai,1799.0,2025-12,Thursday,False
+ORD-10432,C0296,2025-12-04,Water Bottle,Home & Kitchen,499.0,1,COD,Mumbai,499.0,2025-12,Thursday,False
+ORD-10433,C0008,2025-12-05,Running Shoes,Fashion,2999.0,1,UPI,Delhi,2999.0,2025-12,Friday,False
+ORD-10434,C0049,2025-12-05,Green Tea Pack,Health & Wellness,349.0,2,UPI,Bengaluru,698.0,2025-12,Friday,False
+ORD-10435,C0202,2025-12-05,Wireless Earbuds,Electronics,1999.0,1,COD,Hyderabad,1999.0,2025-12,Friday,False
+ORD-10436,C0003,2025-12-06,Power Bank,Electronics,1299.0,1,COD,Mumbai,1299.0,2025-12,Saturday,True
+ORD-10437,C0050,2025-12-06,Green Tea Pack,Health & Wellness,349.0,3,UPI,Bengaluru,1047.0,2025-12,Saturday,True
+ORD-10437,C0050,2025-12-06,Desk Lamp,Home & Kitchen,899.0,2,UPI,Bengaluru,1798.0,2025-12,Saturday,True
+ORD-10438,C0072,2025-12-06,Cotton T-Shirt,Fashion,599.0,1,Card,Mumbai,599.0,2025-12,Saturday,True
+ORD-10439,C0155,2025-12-06,Wireless Earbuds,Electronics,1999.0,1,COD,Chennai,1999.0,2025-12,Saturday,True
+ORD-10440,C0245,2025-12-06,Wireless Earbuds,Electronics,1999.0,1,UPI,Mumbai,1999.0,2025-12,Saturday,True
+ORD-10441,C0285,2025-12-06,Water Bottle,Home & Kitchen,499.0,1,Wallet,Mumbai,499.0,2025-12,Saturday,True
+ORD-10441,C0285,2025-12-06,Backpack,Fashion,1499.0,2,Wallet,Mumbai,2998.0,2025-12,Saturday,True
+ORD-10442,C0046,2025-12-07,Backpack,Fashion,1499.0,1,Card,Mumbai,1499.0,2025-12,Sunday,True
+ORD-10443,C0074,2025-12-07,Desk Lamp,Home & Kitchen,899.0,2,COD,Delhi,1798.0,2025-12,Sunday,True
+ORD-10444,C0091,2025-12-07,Cotton T-Shirt,Fashion,599.0,3,Wallet,Bengaluru,1797.0,2025-12,Sunday,True
+ORD-10445,C0236,2025-12-07,Running Shoes,Fashion,2999.0,2,UPI,Mumbai,5998.0,2025-12,Sunday,True
+ORD-10446,C0248,2025-12-07,Water Bottle,Home & Kitchen,499.0,2,Card,Delhi,998.0,2025-12,Sunday,True
+ORD-10446,C0248,2025-12-07,Desk Lamp,Home & Kitchen,899.0,1,Card,Delhi,899.0,2025-12,Sunday,True
+ORD-10446,C0248,2025-12-07,Cotton T-Shirt,Fashion,599.0,2,Card,Delhi,1198.0,2025-12,Sunday,True
+ORD-10447,C0251,2025-12-07,Wireless Earbuds,Electronics,1999.0,1,UPI,Kolkata,1999.0,2025-12,Sunday,True
+ORD-10447,C0251,2025-12-07,Power Bank,Electronics,1299.0,1,UPI,Kolkata,1299.0,2025-12,Sunday,True
+ORD-10448,C0267,2025-12-07,Bluetooth Speaker,Electronics,2499.0,1,COD,Mumbai,2499.0,2025-12,Sunday,True
+ORD-10449,C0046,2025-12-08,Cotton T-Shirt,Fashion,599.0,3,UPI,Mumbai,1797.0,2025-12,Monday,False
+ORD-10450,C0127,2025-12-08,Wireless Earbuds,Electronics,1999.0,2,Card,Mumbai,3998.0,2025-12,Monday,False
+ORD-10451,C0142,2025-12-08,Green Tea Pack,Health & Wellness,349.0,1,Wallet,Delhi,349.0,2025-12,Monday,False
+ORD-10451,C0142,2025-12-08,Bluetooth Speaker,Electronics,2499.0,2,Wallet,Delhi,4998.0,2025-12,Monday,False
+ORD-10452,C0147,2025-12-08,Protein Powder,Health & Wellness,1799.0,1,COD,Bengaluru,1799.0,2025-12,Monday,False
+ORD-10453,C0260,2025-12-08,Cotton T-Shirt,Fashion,599.0,1,UPI,Delhi,599.0,2025-12,Monday,False
+ORD-10454,C0271,2025-12-08,Cotton T-Shirt,Fashion,599.0,1,Card,Hyderabad,599.0,2025-12,Monday,False
+ORD-10455,C0039,2025-12-09,Power Bank,Electronics,1299.0,1,UPI,Delhi,1299.0,2025-12,Tuesday,False
+ORD-10456,C0107,2025-12-09,Cushion Set,Home & Kitchen,799.0,1,Wallet,Mumbai,799.0,2025-12,Tuesday,False
+ORD-10457,C0276,2025-12-09,Wireless Earbuds,Electronics,1999.0,1,COD,Mumbai,1999.0,2025-12,Tuesday,False
+ORD-10457,C0276,2025-12-09,Power Bank,Electronics,1299.0,1,COD,Mumbai,1299.0,2025-12,Tuesday,False
+ORD-10458,C0057,2025-12-10,Green Tea Pack,Health & Wellness,349.0,1,UPI,Bengaluru,349.0,2025-12,Wednesday,False
+ORD-10459,C0119,2025-12-10,Protein Powder,Health & Wellness,1799.0,2,COD,Delhi,3598.0,2025-12,Wednesday,False
+ORD-10459,C0119,2025-12-10,Cotton T-Shirt,Fashion,599.0,1,COD,Delhi,599.0,2025-12,Wednesday,False
+ORD-10460,C0127,2025-12-10,Power Bank,Electronics,1299.0,1,UPI,Mumbai,1299.0,2025-12,Wednesday,False
+ORD-10461,C0128,2025-12-10,Smartwatch,Electronics,4999.0,1,UPI,Pune,4999.0,2025-12,Wednesday,False
+ORD-10462,C0144,2025-12-10,Bluetooth Speaker,Electronics,2499.0,1,COD,Jaipur,2499.0,2025-12,Wednesday,False
+ORD-10463,C0146,2025-12-10,Green Tea Pack,Health & Wellness,349.0,3,UPI,Delhi,1047.0,2025-12,Wednesday,False
+ORD-10464,C0003,2025-12-11,Protein Powder,Health & Wellness,1799.0,2,UPI,Mumbai,3598.0,2025-12,Thursday,False
+ORD-10465,C0016,2025-12-11,Green Tea Pack,Health & Wellness,349.0,3,COD,Bengaluru,1047.0,2025-12,Thursday,False
+ORD-10466,C0028,2025-12-11,Bluetooth Speaker,Electronics,2499.0,1,Card,Mumbai,2499.0,2025-12,Thursday,False
+ORD-10467,C0040,2025-12-11,Green Tea Pack,Health & Wellness,349.0,1,Card,Mumbai,349.0,2025-12,Thursday,False
+ORD-10468,C0044,2025-12-11,Cotton T-Shirt,Fashion,599.0,2,UPI,Delhi,1198.0,2025-12,Thursday,False
+ORD-10468,C0044,2025-12-11,Running Shoes,Fashion,2999.0,1,UPI,Delhi,2999.0,2025-12,Thursday,False
+ORD-10469,C0145,2025-12-11,Green Tea Pack,Health & Wellness,349.0,1,Card,Kolkata,349.0,2025-12,Thursday,False
+ORD-10469,C0145,2025-12-11,Desk Lamp,Home & Kitchen,899.0,3,Card,Kolkata,2697.0,2025-12,Thursday,False
+ORD-10470,C0175,2025-12-11,Protein Powder,Health & Wellness,1799.0,1,COD,Pune,1799.0,2025-12,Thursday,False
+ORD-10470,C0175,2025-12-11,Water Bottle,Home & Kitchen,499.0,1,COD,Pune,499.0,2025-12,Thursday,False
+ORD-10471,C0175,2025-12-11,Running Shoes,Fashion,2999.0,1,UPI,Pune,2999.0,2025-12,Thursday,False
+ORD-10471,C0175,2025-12-11,Cotton T-Shirt,Fashion,599.0,1,UPI,Pune,599.0,2025-12,Thursday,False
+ORD-10472,C0205,2025-12-11,Water Bottle,Home & Kitchen,499.0,1,UPI,Jaipur,499.0,2025-12,Thursday,False
+ORD-10473,C0296,2025-12-11,Green Tea Pack,Health & Wellness,349.0,3,UPI,Mumbai,1047.0,2025-12,Thursday,False
+ORD-10474,C0074,2025-12-12,Water Bottle,Home & Kitchen,499.0,2,Card,Delhi,998.0,2025-12,Friday,False
+ORD-10475,C0188,2025-12-12,Cotton T-Shirt,Fashion,599.0,2,UPI,Delhi,1198.0,2025-12,Friday,False
+ORD-10476,C0189,2025-12-12,Water Bottle,Home & Kitchen,499.0,1,COD,Delhi,499.0,2025-12,Friday,False
+ORD-10477,C0236,2025-12-12,Desk Lamp,Home & Kitchen,899.0,2,COD,Mumbai,1798.0,2025-12,Friday,False
+ORD-10477,C0236,2025-12-12,Water Bottle,Home & Kitchen,499.0,2,COD,Mumbai,998.0,2025-12,Friday,False
+ORD-10478,C0263,2025-12-12,Backpack,Fashion,1499.0,1,COD,Delhi,1499.0,2025-12,Friday,False
+ORD-10479,C0279,2025-12-12,Cushion Set,Home & Kitchen,799.0,1,UPI,Delhi,799.0,2025-12,Friday,False
+ORD-10480,C0292,2025-12-12,Wireless Earbuds,Electronics,1999.0,1,COD,Mumbai,1999.0,2025-12,Friday,False
+ORD-10481,C0009,2025-12-13,Backpack,Fashion,1499.0,1,Card,Hyderabad,1499.0,2025-12,Saturday,True
+ORD-10482,C0045,2025-12-13,Protein Powder,Health & Wellness,1799.0,1,Card,Bengaluru,1799.0,2025-12,Saturday,True
+ORD-10482,C0045,2025-12-13,Water Bottle,Home & Kitchen,499.0,1,Card,Bengaluru,499.0,2025-12,Saturday,True
+ORD-10483,C0101,2025-12-13,Running Shoes,Fashion,2999.0,1,Wallet,Chennai,2999.0,2025-12,Saturday,True
+ORD-10483,C0101,2025-12-13,Cotton T-Shirt,Fashion,599.0,1,Wallet,Chennai,599.0,2025-12,Saturday,True
+ORD-10484,C0169,2025-12-13,Wireless Earbuds,Electronics,1999.0,1,UPI,Delhi,1999.0,2025-12,Saturday,True
+ORD-10485,C0169,2025-12-13,Green Tea Pack,Health & Wellness,349.0,1,Card,Delhi,349.0,2025-12,Saturday,True
+ORD-10486,C0177,2025-12-13,Power Bank,Electronics,1299.0,2,Card,Delhi,2598.0,2025-12,Saturday,True
+ORD-10486,C0177,2025-12-13,Wireless Earbuds,Electronics,1999.0,1,Card,Delhi,1999.0,2025-12,Saturday,True
+ORD-10487,C0179,2025-12-13,Cotton T-Shirt,Fashion,599.0,3,UPI,Hyderabad,1797.0,2025-12,Saturday,True
+ORD-10488,C0196,2025-12-13,Smartwatch,Electronics,4999.0,1,UPI,Jaipur,4999.0,2025-12,Saturday,True
+ORD-10489,C0276,2025-12-13,Cotton T-Shirt,Fashion,599.0,2,UPI,Mumbai,1198.0,2025-12,Saturday,True
+ORD-10490,C0074,2025-12-14,Cushion Set,Home & Kitchen,799.0,2,UPI,Delhi,1598.0,2025-12,Sunday,True
+ORD-10491,C0083,2025-12-14,Cotton T-Shirt,Fashion,599.0,2,Card,Mumbai,1198.0,2025-12,Sunday,True
+ORD-10492,C0100,2025-12-14,Bluetooth Speaker,Electronics,2499.0,1,UPI,Jaipur,2499.0,2025-12,Sunday,True
+ORD-10493,C0134,2025-12-14,Water Bottle,Home & Kitchen,499.0,2,UPI,Bengaluru,998.0,2025-12,Sunday,True
+ORD-10494,C0135,2025-12-14,Protein Powder,Health & Wellness,1799.0,1,UPI,Bengaluru,1799.0,2025-12,Sunday,True
+ORD-10495,C0193,2025-12-14,Backpack,Fashion,1499.0,1,Card,Delhi,1499.0,2025-12,Sunday,True
+ORD-10496,C0232,2025-12-14,Wireless Earbuds,Electronics,1999.0,2,Card,Chennai,3998.0,2025-12,Sunday,True
+ORD-10497,C0236,2025-12-14,Cushion Set,Home & Kitchen,799.0,2,Card,Mumbai,1598.0,2025-12,Sunday,True
+ORD-10498,C0040,2025-12-15,Bluetooth Speaker,Electronics,2499.0,2,COD,Mumbai,4998.0,2025-12,Monday,False
+ORD-10499,C0157,2025-12-15,Wireless Earbuds,Electronics,1999.0,1,Card,Jaipur,1999.0,2025-12,Monday,False
+ORD-10499,C0157,2025-12-15,Power Bank,Electronics,1299.0,2,Card,Jaipur,2598.0,2025-12,Monday,False
+ORD-10500,C0185,2025-12-15,Bluetooth Speaker,Electronics,2499.0,2,COD,Mumbai,4998.0,2025-12,Monday,False
+ORD-10501,C0237,2025-12-15,Cotton T-Shirt,Fashion,599.0,1,COD,Hyderabad,599.0,2025-12,Monday,False
+ORD-10502,C0298,2025-12-15,Running Shoes,Fashion,2999.0,2,UPI,Pune,5998.0,2025-12,Monday,False
+ORD-11204,C0123,2026-07-23,Wireless Earbuds,Electronics,1999.0,1,COD,Kolkata,1999.0,2026-07,Thursday,False
+ORD-10504,C0155,2025-12-16,Wireless Earbuds,Electronics,1999.0,2,Card,Chennai,3998.0,2025-12,Tuesday,False
+ORD-10504,C0155,2025-12-16,Power Bank,Electronics,1299.0,2,Card,Chennai,2598.0,2025-12,Tuesday,False
+ORD-10505,C0157,2025-12-16,Wireless Earbuds,Electronics,1999.0,2,UPI,Jaipur,3998.0,2025-12,Tuesday,False
+ORD-10505,C0157,2025-12-16,Power Bank,Electronics,1299.0,2,UPI,Jaipur,2598.0,2025-12,Tuesday,False
+ORD-10506,C0197,2025-12-16,Power Bank,Electronics,1299.0,1,UPI,Hyderabad,1299.0,2025-12,Tuesday,False
+ORD-10507,C0208,2025-12-16,Bluetooth Speaker,Electronics,2499.0,1,Card,Bengaluru,2499.0,2025-12,Tuesday,False
+ORD-10508,C0028,2025-12-17,Power Bank,Electronics,1299.0,1,UPI,Mumbai,1299.0,2025-12,Wednesday,False
+ORD-10509,C0049,2025-12-17,Power Bank,Electronics,1299.0,2,UPI,Bengaluru,2598.0,2025-12,Wednesday,False
+ORD-10510,C0146,2025-12-17,Wireless Earbuds,Electronics,1999.0,1,Wallet,Delhi,1999.0,2025-12,Wednesday,False
+ORD-10510,C0146,2025-12-17,Power Bank,Electronics,1299.0,2,Wallet,Delhi,2598.0,2025-12,Wednesday,False
+ORD-10511,C0216,2025-12-17,Cotton T-Shirt,Fashion,599.0,1,UPI,Bengaluru,599.0,2025-12,Wednesday,False
+ORD-10512,C0229,2025-12-17,Green Tea Pack,Health & Wellness,349.0,1,UPI,Hyderabad,349.0,2025-12,Wednesday,False
+ORD-10513,C0229,2025-12-17,Protein Powder,Health & Wellness,1799.0,1,COD,Hyderabad,1799.0,2025-12,Wednesday,False
+ORD-10514,C0175,2025-12-18,Water Bottle,Home & Kitchen,499.0,3,Card,Pune,1497.0,2025-12,Thursday,False
+ORD-10515,C0284,2025-12-18,Wireless Earbuds,Electronics,1999.0,2,UPI,Bengaluru,3998.0,2025-12,Thursday,False
+ORD-10515,C0284,2025-12-18,Power Bank,Electronics,1299.0,1,UPI,Bengaluru,1299.0,2025-12,Thursday,False
+ORD-10516,C0027,2025-12-19,Protein Powder,Health & Wellness,1799.0,1,UPI,Kolkata,1799.0,2025-12,Friday,False
+ORD-10517,C0044,2025-12-19,Green Tea Pack,Health & Wellness,349.0,3,Card,Delhi,1047.0,2025-12,Friday,False
+ORD-10518,C0264,2025-12-19,Green Tea Pack,Health & Wellness,0.349,1,COD,Bengaluru,0.349,2025-12,Friday,False
+ORD-10519,C0296,2025-12-19,Running Shoes,Fashion,2999.0,1,UPI,Mumbai,2999.0,2025-12,Friday,False
+ORD-10519,C0296,2025-12-19,Cotton T-Shirt,Fashion,599.0,1,UPI,Mumbai,599.0,2025-12,Friday,False
+ORD-10520,C0023,2025-12-20,Smartwatch,Electronics,4999.0,2,UPI,Mumbai,9998.0,2025-12,Saturday,True
+ORD-10521,C0046,2025-12-20,Cotton T-Shirt,Fashion,599.0,3,Card,Mumbai,1797.0,2025-12,Saturday,True
+ORD-10522,C0068,2025-12-20,Power Bank,Electronics,1299.0,2,Unknown,Hyderabad,2598.0,2025-12,Saturday,True
+ORD-10523,C0143,2025-12-20,Cushion Set,Home & Kitchen,799.0,1,Card,Bengaluru,799.0,2025-12,Saturday,True
+ORD-10524,C0157,2025-12-20,Green Tea Pack,Health & Wellness,349.0,2,UPI,Jaipur,698.0,2025-12,Saturday,True
+ORD-10525,C0284,2025-12-20,Smartwatch,Electronics,4999.0,2,Card,Bengaluru,9998.0,2025-12,Saturday,True
+ORD-10526,C0050,2025-12-21,Power Bank,Electronics,1299.0,2,COD,Bengaluru,2598.0,2025-12,Sunday,True
+ORD-10528,C0073,2025-12-21,Cotton T-Shirt,Fashion,599.0,2,UPI,Delhi,1198.0,2025-12,Sunday,True
+ORD-10529,C0083,2025-12-21,Protein Powder,Health & Wellness,1799.0,1,UPI,Mumbai,1799.0,2025-12,Sunday,True
+ORD-10530,C0216,2025-12-21,Cotton T-Shirt,Fashion,599.0,1,UPI,Bengaluru,599.0,2025-12,Sunday,True
+ORD-10531,C0248,2025-12-21,Backpack,Fashion,1499.0,1,Card,Delhi,1499.0,2025-12,Sunday,True
+ORD-10531,C0248,2025-12-21,Desk Lamp,Home & Kitchen,0.899,3,Card,Delhi,2.697,2025-12,Sunday,True
+ORD-10532,C0253,2025-12-21,Water Bottle,Home & Kitchen,499.0,2,UPI,Pune,998.0,2025-12,Sunday,True
+ORD-10533,C0292,2025-12-21,Power Bank,Electronics,1299.0,1,COD,Mumbai,1299.0,2025-12,Sunday,True
+ORD-10534,C0297,2025-12-21,Water Bottle,Home & Kitchen,499.0,1,Card,Hyderabad,499.0,2025-12,Sunday,True
+ORD-10535,C0163,2025-12-22,Green Tea Pack,Health & Wellness,349.0,1,Card,Bengaluru,349.0,2025-12,Monday,False
+ORD-10536,C0283,2025-12-22,Cotton T-Shirt,Fashion,599.0,1,COD,Jaipur,599.0,2025-12,Monday,False
+ORD-10537,C0054,2025-12-23,Backpack,Fashion,1499.0,1,COD,Chennai,1499.0,2025-12,Tuesday,False
+ORD-10538,C0060,2025-12-23,Wireless Earbuds,Electronics,1999.0,2,UPI,Kolkata,3998.0,2025-12,Tuesday,False
+ORD-10539,C0074,2025-12-23,Cushion Set,Home & Kitchen,799.0,1,Card,Delhi,799.0,2025-12,Tuesday,False
+ORD-10540,C0074,2025-12-23,Bluetooth Speaker,Electronics,2499.0,2,UPI,Delhi,4998.0,2025-12,Tuesday,False
+ORD-10541,C0208,2025-12-23,Green Tea Pack,Health & Wellness,349.0,1,UPI,Bengaluru,349.0,2025-12,Tuesday,False
+ORD-10542,C0215,2025-12-23,Cotton T-Shirt,Fashion,599.0,3,UPI,Pune,1797.0,2025-12,Tuesday,False
+ORD-10543,C0248,2025-12-23,Water Bottle,Home & Kitchen,499.0,1,Wallet,Delhi,499.0,2025-12,Tuesday,False
+ORD-10544,C0098,2025-12-24,Desk Lamp,Home & Kitchen,899.0,2,UPI,Delhi,1798.0,2025-12,Wednesday,False
+ORD-10544,C0098,2025-12-24,Cushion Set,Home & Kitchen,0.799,1,UPI,Delhi,0.799,2025-12,Wednesday,False
+ORD-10545,C0099,2025-12-25,Cotton T-Shirt,Fashion,599.0,2,Card,Mumbai,1198.0,2025-12,Thursday,False
+ORD-10546,C0213,2025-12-25,Cushion Set,Home & Kitchen,799.0,1,COD,Jaipur,799.0,2025-12,Thursday,False
+ORD-10547,C0035,2025-12-26,Backpack,Fashion,1499.0,1,COD,Mumbai,1499.0,2025-12,Friday,False
+ORD-10548,C0136,2025-12-26,Water Bottle,Home & Kitchen,499.0,2,COD,Pune,998.0,2025-12,Friday,False
+ORD-10549,C0144,2025-12-26,Running Shoes,Fashion,2999.0,2,Card,Jaipur,5998.0,2025-12,Friday,False
+ORD-10550,C0189,2025-12-26,Green Tea Pack,Health & Wellness,349.0,3,UPI,Delhi,1047.0,2025-12,Friday,False
+ORD-10551,C0236,2025-12-26,Backpack,Fashion,1499.0,1,Card,Mumbai,1499.0,2025-12,Friday,False
+ORD-10553,C0264,2025-12-26,Green Tea Pack,Health & Wellness,349.0,3,UPI,Bengaluru,1047.0,2025-12,Friday,False
+ORD-10554,C0277,2025-12-26,Cotton T-Shirt,Fashion,599.0,1,UPI,Chennai,599.0,2025-12,Friday,False
+ORD-10555,C0287,2025-12-26,Power Bank,Electronics,1299.0,1,Card,Bengaluru,1299.0,2025-12,Friday,False
+ORD-10556,C0028,2025-12-27,Protein Powder,Health & Wellness,1799.0,1,Card,Mumbai,1799.0,2025-12,Saturday,True
+ORD-10556,C0028,2025-12-27,Desk Lamp,Home & Kitchen,899.0,3,Card,Mumbai,2697.0,2025-12,Saturday,True
+ORD-10557,C0074,2025-12-27,Backpack,Fashion,1499.0,2,UPI,Delhi,2998.0,2025-12,Saturday,True
+ORD-10558,C0186,2025-12-27,Water Bottle,Home & Kitchen,499.0,2,UPI,Delhi,998.0,2025-12,Saturday,True
+ORD-10559,C0246,2025-12-27,Power Bank,Electronics,1299.0,1,Card,Jaipur,1299.0,2025-12,Saturday,True
+ORD-10560,C0262,2025-12-27,Cotton T-Shirt,Fashion,599.0,2,UPI,Kolkata,1198.0,2025-12,Saturday,True
+ORD-10561,C0269,2025-12-27,Green Tea Pack,Health & Wellness,349.0,1,Card,Delhi,349.0,2025-12,Saturday,True
+ORD-10562,C0279,2025-12-27,Water Bottle,Home & Kitchen,499.0,3,Wallet,Delhi,1497.0,2025-12,Saturday,True
+ORD-10562,C0279,2025-12-27,Cushion Set,Home & Kitchen,799.0,1,Wallet,Delhi,799.0,2025-12,Saturday,True
+ORD-10563,C0290,2025-12-27,Cotton T-Shirt,Fashion,599.0,1,Card,Hyderabad,599.0,2025-12,Saturday,True
+ORD-10564,C0002,2025-12-28,Wireless Earbuds,Electronics,1999.0,1,UPI,Mumbai,1999.0,2025-12,Sunday,True
+ORD-10565,C0019,2025-12-28,Protein Powder,Health & Wellness,1799.0,1,UPI,Mumbai,1799.0,2025-12,Sunday,True
+ORD-10565,C0019,2025-12-28,Water Bottle,Home & Kitchen,499.0,1,UPI,Mumbai,499.0,2025-12,Sunday,True
+ORD-10565,C0019,2025-12-28,Green Tea Pack,Health & Wellness,349.0,2,UPI,Mumbai,698.0,2025-12,Sunday,True
+ORD-10566,C0062,2025-12-28,Running Shoes,Fashion,2999.0,1,Card,Delhi,2999.0,2025-12,Sunday,True
+ORD-10567,C0084,2025-12-28,Water Bottle,Home & Kitchen,499.0,1,Card,Delhi,499.0,2025-12,Sunday,True
+ORD-10568,C0108,2025-12-28,Power Bank,Electronics,0.1299,1,Card,Mumbai,0.1299,2025-12,Sunday,True
+ORD-10569,C0115,2025-12-28,Cushion Set,Home & Kitchen,799.0,1,Card,Mumbai,799.0,2025-12,Sunday,True
+ORD-10570,C0137,2025-12-28,Backpack,Fashion,1499.0,1,UPI,Mumbai,1499.0,2025-12,Sunday,True
+ORD-10571,C0179,2025-12-28,Running Shoes,Fashion,2999.0,1,UPI,Hyderabad,2999.0,2025-12,Sunday,True
+ORD-10572,C0260,2025-12-28,Power Bank,Electronics,1299.0,1,UPI,Delhi,1299.0,2025-12,Sunday,True
+ORD-10572,C0260,2025-12-28,Green Tea Pack,Health & Wellness,349.0,2,UPI,Delhi,698.0,2025-12,Sunday,True
+ORD-10573,C0160,2025-12-29,Smartwatch,Electronics,4999.0,1,UPI,Hyderabad,4999.0,2025-12,Monday,False
+ORD-10574,C0182,2025-12-29,Cotton T-Shirt,Fashion,599.0,2,UPI,Hyderabad,1198.0,2025-12,Monday,False
+ORD-10575,C0278,2025-12-29,Water Bottle,Home & Kitchen,499.0,1,Card,Bengaluru,499.0,2025-12,Monday,False
+ORD-10576,C0146,2025-12-30,Water Bottle,Home & Kitchen,499.0,1,Card,Delhi,499.0,2025-12,Tuesday,False
+ORD-10577,C0182,2025-12-30,Backpack,Fashion,1499.0,1,UPI,Hyderabad,1499.0,2025-12,Tuesday,False
+ORD-10578,C0273,2025-12-30,Protein Powder,Health & Wellness,1799.0,2,UPI,Bengaluru,3598.0,2025-12,Tuesday,False
+ORD-10578,C0273,2025-12-30,Water Bottle,Home & Kitchen,499.0,2,UPI,Bengaluru,998.0,2025-12,Tuesday,False
+ORD-10579,C0097,2025-12-31,Wireless Earbuds,Electronics,1999.0,2,UPI,Bengaluru,3998.0,2025-12,Wednesday,False
+ORD-10580,C0125,2025-12-31,Wireless Earbuds,Electronics,1999.0,2,UPI,Kolkata,3998.0,2025-12,Wednesday,False
+ORD-10580,C0125,2025-12-31,Power Bank,Electronics,1299.0,1,UPI,Kolkata,1299.0,2025-12,Wednesday,False
+ORD-10581,C0187,2025-12-31,Green Tea Pack,Health & Wellness,349.0,1,UPI,Chennai,349.0,2025-12,Wednesday,False
+ORD-10583,C0187,2026-01-01,Green Tea Pack,Health & Wellness,349.0,1,UPI,Chennai,349.0,2026-01,Thursday,False
+ORD-10584,C0192,2026-01-01,Backpack,Fashion,1499.0,2,Card,Delhi,2998.0,2026-01,Thursday,False
+ORD-10585,C0238,2026-01-01,Protein Powder,Health & Wellness,1799.0,2,UPI,Pune,3598.0,2026-01,Thursday,False
+ORD-10585,C0238,2026-01-01,Water Bottle,Home & Kitchen,499.0,1,UPI,Pune,499.0,2026-01,Thursday,False
+ORD-10586,C0278,2026-01-01,Backpack,Fashion,1499.0,1,Card,Bengaluru,1499.0,2026-01,Thursday,False
+ORD-10587,C0016,2026-01-02,Water Bottle,Home & Kitchen,499.0,1,Card,Bengaluru,499.0,2026-01,Friday,False
+ORD-10588,C0030,2026-01-02,Green Tea Pack,Health & Wellness,349.0,2,COD,Hyderabad,698.0,2026-01,Friday,False
+ORD-10589,C0169,2026-01-02,Power Bank,Electronics,1299.0,1,UPI,Delhi,1299.0,2026-01,Friday,False
+ORD-10590,C0189,2026-01-02,Water Bottle,Home & Kitchen,499.0,1,UPI,Delhi,499.0,2026-01,Friday,False
+ORD-10591,C0192,2026-01-02,Backpack,Fashion,1499.0,1,UPI,Delhi,1499.0,2026-01,Friday,False
+ORD-10592,C0270,2026-01-03,Protein Powder,Health & Wellness,1799.0,1,UPI,Mumbai,1799.0,2026-01,Saturday,True
+ORD-10593,C0002,2026-01-04,Bluetooth Speaker,Electronics,2499.0,1,UPI,Mumbai,2499.0,2026-01,Sunday,True
+ORD-10593,C0002,2026-01-04,Backpack,Fashion,1499.0,1,UPI,Mumbai,1499.0,2026-01,Sunday,True
+ORD-10594,C0060,2026-01-04,Smartwatch,Electronics,4999.0,2,UPI,Kolkata,9998.0,2026-01,Sunday,True
+ORD-10594,C0060,2026-01-04,Wireless Earbuds,Electronics,1999.0,1,UPI,Kolkata,1999.0,2026-01,Sunday,True
+ORD-10595,C0090,2026-01-04,Desk Lamp,Home & Kitchen,899.0,3,UPI,Kolkata,2697.0,2026-01,Sunday,True
+ORD-10596,C0177,2026-01-04,Wireless Earbuds,Electronics,1999.0,1,UPI,Delhi,1999.0,2026-01,Sunday,True
+ORD-10596,C0177,2026-01-04,Power Bank,Electronics,1299.0,2,UPI,Delhi,2598.0,2026-01,Sunday,True
+ORD-11377,C0121,2026-09-24,Backpack,Fashion,1499.0,1,Card,Hyderabad,1499.0,2026-09,Thursday,False
+ORD-10598,C0290,2026-01-04,Green Tea Pack,Health & Wellness,349.0,2,UPI,Hyderabad,698.0,2026-01,Sunday,True
+ORD-10598,C0290,2026-01-04,Protein Powder,Health & Wellness,1799.0,2,UPI,Hyderabad,3598.0,2026-01,Sunday,True
+ORD-10599,C0151,2026-01-05,Bluetooth Speaker,Electronics,2499.0,2,UPI,Mumbai,4998.0,2026-01,Monday,False
+ORD-10600,C0163,2026-01-05,Green Tea Pack,Health & Wellness,349.0,1,Card,Bengaluru,349.0,2026-01,Monday,False
+ORD-10601,C0241,2026-01-05,Wireless Earbuds,Electronics,1999.0,1,UPI,Bengaluru,1999.0,2026-01,Monday,False
+ORD-10602,C0081,2026-01-06,Power Bank,Electronics,1299.0,1,UPI,Jaipur,1299.0,2026-01,Tuesday,False
+ORD-10602,C0081,2026-01-06,Cotton T-Shirt,Fashion,599.0,1,UPI,Jaipur,599.0,2026-01,Tuesday,False
+ORD-10621,C0216,2026-01-08,Water Bottle,Home & Kitchen,499.0,1,UPI,Bengaluru,499.0,2026-01,Thursday,False
+ORD-10603,C0182,2026-01-06,Green Tea Pack,Health & Wellness,349.0,1,UPI,Hyderabad,349.0,2026-01,Tuesday,False
+ORD-10603,C0182,2026-01-06,Backpack,Fashion,1499.0,1,UPI,Hyderabad,1499.0,2026-01,Tuesday,False
+ORD-10604,C0202,2026-01-06,Wireless Earbuds,Electronics,1999.0,1,Card,Hyderabad,1999.0,2026-01,Tuesday,False
+ORD-10604,C0202,2026-01-06,Power Bank,Electronics,1299.0,1,Card,Hyderabad,1299.0,2026-01,Tuesday,False
+ORD-10605,C0264,2026-01-06,Wireless Earbuds,Electronics,1999.0,2,Card,Bengaluru,3998.0,2026-01,Tuesday,False
+ORD-10606,C0008,2026-01-07,Backpack,Fashion,1499.0,2,UPI,Delhi,2998.0,2026-01,Wednesday,False
+ORD-10607,C0019,2026-01-07,Protein Powder,Health & Wellness,1799.0,2,Card,Mumbai,3598.0,2026-01,Wednesday,False
+ORD-10608,C0044,2026-01-07,Desk Lamp,Home & Kitchen,899.0,3,COD,Delhi,2697.0,2026-01,Wednesday,False
+ORD-10608,C0044,2026-01-07,Cushion Set,Home & Kitchen,799.0,2,COD,Delhi,1598.0,2026-01,Wednesday,False
+ORD-10609,C0059,2026-01-07,Smartwatch,Electronics,4999.0,1,Wallet,Kolkata,4999.0,2026-01,Wednesday,False
+ORD-10609,C0059,2026-01-07,Wireless Earbuds,Electronics,1999.0,1,Wallet,Kolkata,1999.0,2026-01,Wednesday,False
+ORD-10610,C0068,2026-01-07,Wireless Earbuds,Electronics,1999.0,1,Card,Hyderabad,1999.0,2026-01,Wednesday,False
+ORD-10611,C0144,2026-01-07,Power Bank,Electronics,1299.0,1,Card,Jaipur,1299.0,2026-01,Wednesday,False
+ORD-10612,C0173,2026-01-07,Water Bottle,Home & Kitchen,499.0,1,UPI,Delhi,499.0,2026-01,Wednesday,False
+ORD-10613,C0183,2026-01-07,Running Shoes,Fashion,2999.0,1,Card,Jaipur,2999.0,2026-01,Wednesday,False
+ORD-10614,C0244,2026-01-07,Protein Powder,Health & Wellness,1799.0,1,COD,Chennai,1799.0,2026-01,Wednesday,False
+ORD-10614,C0244,2026-01-07,Power Bank,Electronics,1299.0,2,COD,Chennai,2598.0,2026-01,Wednesday,False
+ORD-10615,C0258,2026-01-07,Water Bottle,Home & Kitchen,499.0,1,Card,Delhi,499.0,2026-01,Wednesday,False
+ORD-10616,C0033,2026-01-08,Backpack,Fashion,1499.0,1,UPI,Chennai,1499.0,2026-01,Thursday,False
+ORD-10617,C0114,2026-01-08,Smartwatch,Electronics,4999.0,1,UPI,Hyderabad,4999.0,2026-01,Thursday,False
+ORD-10618,C0119,2026-01-08,Backpack,Fashion,1499.0,1,COD,Delhi,1499.0,2026-01,Thursday,False
+ORD-10619,C0183,2026-01-08,Backpack,Fashion,1499.0,1,UPI,Jaipur,1499.0,2026-01,Thursday,False
+ORD-10620,C0197,2026-01-08,Wireless Earbuds,Electronics,1999.0,1,COD,Hyderabad,1999.0,2026-01,Thursday,False
+ORD-10621,C0216,2026-01-08,Protein Powder,Health & Wellness,1799.0,1,UPI,Bengaluru,1799.0,2026-01,Thursday,False
+ORD-10622,C0246,2026-01-08,Wireless Earbuds,Electronics,1999.0,2,UPI,Jaipur,3998.0,2026-01,Thursday,False
+ORD-10623,C0067,2026-01-09,Wireless Earbuds,Electronics,1999.0,1,UPI,Hyderabad,1999.0,2026-01,Friday,False
+ORD-10623,C0067,2026-01-09,Power Bank,Electronics,1299.0,1,UPI,Hyderabad,1299.0,2026-01,Friday,False
+ORD-10624,C0108,2026-01-09,Water Bottle,Home & Kitchen,499.0,1,UPI,Mumbai,499.0,2026-01,Friday,False
+ORD-10624,C0108,2026-01-09,Backpack,Fashion,1499.0,1,UPI,Mumbai,1499.0,2026-01,Friday,False
+ORD-10625,C0253,2026-01-09,Cotton T-Shirt,Fashion,599.0,1,Card,Pune,599.0,2026-01,Friday,False
+ORD-10626,C0042,2026-01-10,Green Tea Pack,Health & Wellness,349.0,2,UPI,Delhi,698.0,2026-01,Saturday,True
+ORD-10627,C0087,2026-01-10,Desk Lamp,Home & Kitchen,899.0,2,UPI,Kolkata,1798.0,2026-01,Saturday,True
+ORD-10628,C0141,2026-01-10,Green Tea Pack,Health & Wellness,349.0,1,UPI,Bengaluru,349.0,2026-01,Saturday,True
+ORD-10629,C0150,2026-01-10,Cotton T-Shirt,Fashion,599.0,3,UPI,Bengaluru,1797.0,2026-01,Saturday,True
+ORD-10630,C0167,2026-01-10,Water Bottle,Home & Kitchen,499.0,1,UPI,Bengaluru,499.0,2026-01,Saturday,True
+ORD-10631,C0185,2026-01-10,Wireless Earbuds,Electronics,1999.0,1,COD,Mumbai,1999.0,2026-01,Saturday,True
+ORD-10632,C0248,2026-01-10,Desk Lamp,Home & Kitchen,899.0,2,UPI,Delhi,1798.0,2026-01,Saturday,True
+ORD-10632,C0248,2026-01-10,Cushion Set,Home & Kitchen,799.0,2,UPI,Delhi,1598.0,2026-01,Saturday,True
+ORD-10633,C0019,2026-01-11,Green Tea Pack,Health & Wellness,0.349,2,Wallet,Mumbai,0.698,2026-01,Sunday,True
+ORD-10634,C0046,2026-01-11,Cotton T-Shirt,Fashion,599.0,3,COD,Mumbai,1797.0,2026-01,Sunday,True
+ORD-10635,C0053,2026-01-11,Smartwatch,Electronics,4999.0,1,UPI,Kolkata,4999.0,2026-01,Sunday,True
+ORD-10635,C0053,2026-01-11,Wireless Earbuds,Electronics,1999.0,1,UPI,Kolkata,1999.0,2026-01,Sunday,True
+ORD-10636,C0069,2026-01-11,Water Bottle,Home & Kitchen,0.499,3,Wallet,Mumbai,1.4969999999999999,2026-01,Sunday,True
+ORD-10637,C0087,2026-01-11,Water Bottle,Home & Kitchen,499.0,1,UPI,Kolkata,499.0,2026-01,Sunday,True
+ORD-10638,C0202,2026-01-11,Power Bank,Electronics,1299.0,1,UPI,Hyderabad,1299.0,2026-01,Sunday,True
+ORD-10639,C0064,2026-01-12,Water Bottle,Home & Kitchen,499.0,2,UPI,Mumbai,998.0,2026-01,Monday,False
+ORD-10640,C0104,2026-01-12,Cotton T-Shirt,Fashion,599.0,3,Card,Chennai,1797.0,2026-01,Monday,False
+ORD-10640,C0104,2026-01-12,Green Tea Pack,Health & Wellness,349.0,2,Card,Chennai,698.0,2026-01,Monday,False
+ORD-10641,C0163,2026-01-12,Green Tea Pack,Health & Wellness,349.0,1,Card,Bengaluru,349.0,2026-01,Monday,False
+ORD-10642,C0183,2026-01-12,Smartwatch,Electronics,4999.0,2,Card,Jaipur,9998.0,2026-01,Monday,False
+ORD-10643,C0187,2026-01-12,Bluetooth Speaker,Electronics,2499.0,1,UPI,Chennai,2499.0,2026-01,Monday,False
+ORD-10643,C0187,2026-01-12,Protein Powder,Health & Wellness,1799.0,1,UPI,Chennai,1799.0,2026-01,Monday,False
+ORD-10644,C0287,2026-01-12,Power Bank,Electronics,1299.0,1,COD,Bengaluru,1299.0,2026-01,Monday,False
+ORD-10645,C0236,2026-01-13,Cotton T-Shirt,Fashion,599.0,1,COD,Mumbai,599.0,2026-01,Tuesday,False
+ORD-10645,C0236,2026-01-13,Water Bottle,Home & Kitchen,499.0,1,COD,Mumbai,499.0,2026-01,Tuesday,False
+ORD-10646,C0257,2026-01-13,Cotton T-Shirt,Fashion,599.0,3,UPI,Pune,1797.0,2026-01,Tuesday,False
+ORD-10647,C0273,2026-01-13,Water Bottle,Home & Kitchen,499.0,1,UPI,Bengaluru,499.0,2026-01,Tuesday,False
+ORD-10648,C0157,2026-01-14,Cotton T-Shirt,Fashion,599.0,2,Card,Jaipur,1198.0,2026-01,Wednesday,False
+ORD-10649,C0204,2026-01-14,Backpack,Fashion,1499.0,1,UPI,Mumbai,1499.0,2026-01,Wednesday,False
+ORD-10650,C0237,2026-01-14,Cotton T-Shirt,Fashion,599.0,1,UPI,Hyderabad,599.0,2026-01,Wednesday,False
+ORD-10651,C0002,2026-01-15,Bluetooth Speaker,Electronics,2499.0,1,COD,Mumbai,2499.0,2026-01,Thursday,False
+ORD-10652,C0005,2026-01-15,Wireless Earbuds,Electronics,1999.0,1,Wallet,Jaipur,1999.0,2026-01,Thursday,False
+ORD-10652,C0005,2026-01-15,Power Bank,Electronics,1299.0,1,Wallet,Jaipur,1299.0,2026-01,Thursday,False
+ORD-10652,C0005,2026-01-15,Running Shoes,Fashion,2999.0,2,Wallet,Jaipur,5998.0,2026-01,Thursday,False
+ORD-10653,C0097,2026-01-15,Green Tea Pack,Health & Wellness,349.0,1,Wallet,Bengaluru,349.0,2026-01,Thursday,False
+ORD-10653,C0097,2026-01-15,Protein Powder,Health & Wellness,1799.0,1,Wallet,Bengaluru,1799.0,2026-01,Thursday,False
+ORD-10654,C0134,2026-01-15,Bluetooth Speaker,Electronics,2499.0,1,UPI,Bengaluru,2499.0,2026-01,Thursday,False
+ORD-10654,C0134,2026-01-15,Power Bank,Electronics,1299.0,2,UPI,Bengaluru,2598.0,2026-01,Thursday,False
+ORD-10655,C0261,2026-01-15,Power Bank,Electronics,1299.0,2,UPI,Pune,2598.0,2026-01,Thursday,False
+ORD-10656,C0040,2026-01-16,Running Shoes,Fashion,2999.0,1,UPI,Mumbai,2999.0,2026-01,Friday,False
+ORD-10656,C0040,2026-01-16,Cotton T-Shirt,Fashion,599.0,3,UPI,Mumbai,1797.0,2026-01,Friday,False
+ORD-10657,C0144,2026-01-16,Power Bank,Electronics,1299.0,1,UPI,Jaipur,1299.0,2026-01,Friday,False
+ORD-10658,C0186,2026-01-16,Water Bottle,Home & Kitchen,499.0,2,UPI,Delhi,998.0,2026-01,Friday,False
+ORD-10659,C0287,2026-01-16,Wireless Earbuds,Electronics,1999.0,1,Card,Bengaluru,1999.0,2026-01,Friday,False
+ORD-10660,C0025,2026-01-17,Green Tea Pack,Health & Wellness,349.0,2,COD,Delhi,698.0,2026-01,Saturday,True
+ORD-10661,C0045,2026-01-17,Protein Powder,Health & Wellness,1799.0,1,Wallet,Bengaluru,1799.0,2026-01,Saturday,True
+ORD-10662,C0186,2026-01-17,Water Bottle,Home & Kitchen,499.0,2,UPI,Delhi,998.0,2026-01,Saturday,True
+ORD-10901,C0036,2026-04-01,Smartwatch,Electronics,4999.0,1,Card,Mumbai,4999.0,2026-04,Wednesday,False
+ORD-10663,C0194,2026-01-17,Running Shoes,Fashion,2999.0,1,UPI,Jaipur,2999.0,2026-01,Saturday,True
+ORD-10664,C0041,2026-01-18,Cushion Set,Home & Kitchen,799.0,1,Card,Kolkata,799.0,2026-01,Sunday,True
+ORD-10665,C0162,2026-01-18,Water Bottle,Home & Kitchen,0.499,1,COD,Hyderabad,0.499,2026-01,Sunday,True
+ORD-10666,C0186,2026-01-18,Cushion Set,Home & Kitchen,799.0,3,Card,Delhi,2397.0,2026-01,Sunday,True
+ORD-10667,C0019,2026-01-19,Green Tea Pack,Health & Wellness,349.0,1,Wallet,Mumbai,349.0,2026-01,Monday,False
+ORD-10668,C0086,2026-01-19,Green Tea Pack,Health & Wellness,349.0,2,Card,Mumbai,698.0,2026-01,Monday,False
+ORD-10669,C0127,2026-01-19,Running Shoes,Fashion,2999.0,1,UPI,Mumbai,2999.0,2026-01,Monday,False
+ORD-10669,C0127,2026-01-19,Cotton T-Shirt,Fashion,599.0,1,UPI,Mumbai,599.0,2026-01,Monday,False
+ORD-10670,C0161,2026-01-19,Green Tea Pack,Health & Wellness,349.0,2,Card,Jaipur,698.0,2026-01,Monday,False
+ORD-10671,C0002,2026-01-20,Power Bank,Electronics,1299.0,1,UPI,Mumbai,1299.0,2026-01,Tuesday,False
+ORD-10672,C0175,2026-01-20,Cushion Set,Home & Kitchen,799.0,3,UPI,Pune,2397.0,2026-01,Tuesday,False
+ORD-10672,C0175,2026-01-20,Water Bottle,Home & Kitchen,499.0,3,UPI,Pune,1497.0,2026-01,Tuesday,False
+ORD-10673,C0275,2026-01-20,Backpack,Fashion,1499.0,2,Card,Kolkata,2998.0,2026-01,Tuesday,False
+ORD-10674,C0157,2026-01-21,Wireless Earbuds,Electronics,1999.0,1,Wallet,Jaipur,1999.0,2026-01,Wednesday,False
+ORD-10674,C0157,2026-01-21,Power Bank,Electronics,1299.0,2,Wallet,Jaipur,2598.0,2026-01,Wednesday,False
+ORD-10675,C0057,2026-01-22,Power Bank,Electronics,1299.0,2,Card,Bengaluru,2598.0,2026-01,Thursday,False
+ORD-10676,C0131,2026-01-22,Cotton T-Shirt,Fashion,599.0,3,UPI,Delhi,1797.0,2026-01,Thursday,False
+ORD-10677,C0278,2026-01-22,Cotton T-Shirt,Fashion,599.0,1,Wallet,Bengaluru,599.0,2026-01,Thursday,False
+ORD-10677,C0278,2026-01-22,Backpack,Fashion,1499.0,1,Wallet,Bengaluru,1499.0,2026-01,Thursday,False
+ORD-10678,C0285,2026-01-22,Cotton T-Shirt,Fashion,599.0,3,COD,Mumbai,1797.0,2026-01,Thursday,False
+ORD-10679,C0290,2026-01-22,Green Tea Pack,Health & Wellness,349.0,2,Wallet,Hyderabad,698.0,2026-01,Thursday,False
+ORD-10680,C0196,2026-01-23,Smartwatch,Electronics,4999.0,2,Card,Jaipur,9998.0,2026-01,Friday,False
+ORD-10681,C0069,2026-01-24,Water Bottle,Home & Kitchen,499.0,2,Card,Mumbai,998.0,2026-01,Saturday,True
+ORD-10682,C0088,2026-01-24,Protein Powder,Health & Wellness,1799.0,1,UPI,Delhi,1799.0,2026-01,Saturday,True
+ORD-10682,C0088,2026-01-24,Water Bottle,Home & Kitchen,499.0,1,UPI,Delhi,499.0,2026-01,Saturday,True
+ORD-10683,C0216,2026-01-24,Green Tea Pack,Health & Wellness,349.0,1,UPI,Bengaluru,349.0,2026-01,Saturday,True
+ORD-10684,C0196,2026-01-25,Cotton T-Shirt,Fashion,599.0,1,COD,Jaipur,599.0,2026-01,Sunday,True
+ORD-10685,C0231,2026-01-25,Power Bank,Electronics,1299.0,1,UPI,Delhi,1299.0,2026-01,Sunday,True
+ORD-10686,C0054,2026-01-26,Wireless Earbuds,Electronics,1999.0,1,Card,Chennai,1999.0,2026-01,Monday,False
+ORD-10686,C0054,2026-01-26,Power Bank,Electronics,1299.0,1,Card,Chennai,1299.0,2026-01,Monday,False
+ORD-10687,C0157,2026-01-26,Bluetooth Speaker,Electronics,2499.0,1,UPI,Jaipur,2499.0,2026-01,Monday,False
+ORD-10688,C0183,2026-01-26,Cotton T-Shirt,Fashion,599.0,3,Wallet,Jaipur,1797.0,2026-01,Monday,False
+ORD-10689,C0285,2026-01-26,Running Shoes,Fashion,2999.0,1,UPI,Mumbai,2999.0,2026-01,Monday,False
+ORD-10690,C0076,2026-01-27,Water Bottle,Home & Kitchen,499.0,3,Card,Kolkata,1497.0,2026-01,Tuesday,False
+ORD-10691,C0137,2026-01-27,Backpack,Fashion,1499.0,1,COD,Mumbai,1499.0,2026-01,Tuesday,False
+ORD-10692,C0040,2026-01-28,Green Tea Pack,Health & Wellness,349.0,2,UPI,Mumbai,698.0,2026-01,Wednesday,False
+ORD-10693,C0081,2026-01-28,Bluetooth Speaker,Electronics,2499.0,2,UPI,Jaipur,4998.0,2026-01,Wednesday,False
+ORD-10693,C0081,2026-01-28,Green Tea Pack,Health & Wellness,349.0,2,UPI,Jaipur,698.0,2026-01,Wednesday,False
+ORD-10694,C0296,2026-01-29,Power Bank,Electronics,1299.0,1,Card,Mumbai,1299.0,2026-01,Thursday,False
+ORD-10695,C0019,2026-01-30,Backpack,Fashion,1499.0,1,Card,Mumbai,1499.0,2026-01,Friday,False
+ORD-10696,C0106,2026-01-30,Cushion Set,Home & Kitchen,799.0,1,COD,Hyderabad,799.0,2026-01,Friday,False
+ORD-10696,C0106,2026-01-30,Desk Lamp,Home & Kitchen,899.0,1,COD,Hyderabad,899.0,2026-01,Friday,False
+ORD-10697,C0120,2026-01-30,Smartwatch,Electronics,4999.0,1,Card,Kolkata,4999.0,2026-01,Friday,False
+ORD-10698,C0208,2026-01-30,Green Tea Pack,Health & Wellness,349.0,2,Wallet,Bengaluru,698.0,2026-01,Friday,False
+ORD-10699,C0161,2026-01-31,Backpack,Fashion,1499.0,2,UPI,Jaipur,2998.0,2026-01,Saturday,True
+ORD-10700,C0175,2026-01-31,Running Shoes,Fashion,2999.0,1,UPI,Pune,2999.0,2026-01,Saturday,True
+ORD-10700,C0175,2026-01-31,Cotton T-Shirt,Fashion,0.599,2,UPI,Pune,1.198,2026-01,Saturday,True
+ORD-10701,C0249,2026-01-31,Power Bank,Electronics,1299.0,1,UPI,Jaipur,1299.0,2026-01,Saturday,True
+ORD-10702,C0033,2026-02-01,Cushion Set,Home & Kitchen,799.0,1,COD,Chennai,799.0,2026-02,Sunday,True
+ORD-10703,C0099,2026-02-01,Cotton T-Shirt,Fashion,599.0,3,UPI,Mumbai,1797.0,2026-02,Sunday,True
+ORD-10704,C0171,2026-02-01,Bluetooth Speaker,Electronics,2499.0,1,COD,Chennai,2499.0,2026-02,Sunday,True
+ORD-10705,C0292,2026-02-01,Desk Lamp,Home & Kitchen,899.0,3,Card,Mumbai,2697.0,2026-02,Sunday,True
+ORD-10706,C0008,2026-02-02,Power Bank,Electronics,1299.0,1,UPI,Delhi,1299.0,2026-02,Monday,False
+ORD-10707,C0009,2026-02-02,Green Tea Pack,Health & Wellness,349.0,2,Card,Hyderabad,698.0,2026-02,Monday,False
+ORD-10708,C0054,2026-02-02,Backpack,Fashion,1499.0,1,UPI,Chennai,1499.0,2026-02,Monday,False
+ORD-10709,C0223,2026-02-03,Wireless Earbuds,Electronics,1999.0,1,Wallet,Bengaluru,1999.0,2026-02,Tuesday,False
+ORD-10710,C0046,2026-02-04,Cotton T-Shirt,Fashion,599.0,1,UPI,Mumbai,599.0,2026-02,Wednesday,False
+ORD-10710,C0046,2026-02-04,Backpack,Fashion,1499.0,1,UPI,Mumbai,1499.0,2026-02,Wednesday,False
+ORD-10712,C0170,2026-02-04,Cotton T-Shirt,Fashion,599.0,1,UPI,Bengaluru,599.0,2026-02,Wednesday,False
+ORD-10713,C0273,2026-02-04,Water Bottle,Home & Kitchen,499.0,2,UPI,Bengaluru,998.0,2026-02,Wednesday,False
+ORD-10714,C0278,2026-02-04,Backpack,Fashion,1499.0,1,UPI,Bengaluru,1499.0,2026-02,Wednesday,False
+ORD-10715,C0039,2026-02-05,Water Bottle,Home & Kitchen,499.0,1,COD,Delhi,499.0,2026-02,Thursday,False
+ORD-10716,C0050,2026-02-05,Protein Powder,Health & Wellness,1799.0,1,Wallet,Bengaluru,1799.0,2026-02,Thursday,False
+ORD-10717,C0202,2026-02-05,Wireless Earbuds,Electronics,1999.0,1,Card,Hyderabad,1999.0,2026-02,Thursday,False
+ORD-10717,C0202,2026-02-05,Power Bank,Electronics,1299.0,1,Card,Hyderabad,1299.0,2026-02,Thursday,False
+ORD-10718,C0208,2026-02-05,Green Tea Pack,Health & Wellness,349.0,3,Card,Bengaluru,1047.0,2026-02,Thursday,False
+ORD-10719,C0247,2026-02-05,Desk Lamp,Home & Kitchen,899.0,1,UPI,Mumbai,899.0,2026-02,Thursday,False
+ORD-10720,C0074,2026-02-06,Water Bottle,Home & Kitchen,499.0,2,Card,Delhi,998.0,2026-02,Friday,False
+ORD-10721,C0076,2026-02-06,Desk Lamp,Home & Kitchen,899.0,1,COD,Kolkata,899.0,2026-02,Friday,False
+ORD-10722,C0087,2026-02-06,Desk Lamp,Home & Kitchen,899.0,1,UPI,Kolkata,899.0,2026-02,Friday,False
+ORD-10723,C0097,2026-02-06,Protein Powder,Health & Wellness,1799.0,1,UPI,Bengaluru,1799.0,2026-02,Friday,False
+ORD-10724,C0133,2026-02-06,Wireless Earbuds,Electronics,1999.0,1,Card,Mumbai,1999.0,2026-02,Friday,False
+ORD-10724,C0133,2026-02-06,Smartwatch,Electronics,4999.0,1,Card,Mumbai,4999.0,2026-02,Friday,False
+ORD-10725,C0160,2026-02-06,Desk Lamp,Home & Kitchen,899.0,1,UPI,Hyderabad,899.0,2026-02,Friday,False
+ORD-10725,C0160,2026-02-06,Wireless Earbuds,Electronics,1999.0,2,UPI,Hyderabad,3998.0,2026-02,Friday,False
+ORD-10726,C0194,2026-02-06,Protein Powder,Health & Wellness,1799.0,1,COD,Jaipur,1799.0,2026-02,Friday,False
+ORD-10727,C0262,2026-02-06,Cotton T-Shirt,Fashion,599.0,3,UPI,Kolkata,1797.0,2026-02,Friday,False
+ORD-10728,C0275,2026-02-06,Desk Lamp,Home & Kitchen,899.0,1,Wallet,Kolkata,899.0,2026-02,Friday,False
+ORD-10729,C0061,2026-02-07,Water Bottle,Home & Kitchen,499.0,3,Wallet,Bengaluru,1497.0,2026-02,Saturday,True
+ORD-10730,C0118,2026-02-07,Green Tea Pack,Health & Wellness,349.0,2,Card,Delhi,698.0,2026-02,Saturday,True
+ORD-10731,C0174,2026-02-07,Green Tea Pack,Health & Wellness,349.0,3,COD,Bengaluru,1047.0,2026-02,Saturday,True
+ORD-10732,C0182,2026-02-07,Cotton T-Shirt,Fashion,599.0,1,Wallet,Hyderabad,599.0,2026-02,Saturday,True
+ORD-10733,C0272,2026-02-07,Green Tea Pack,Health & Wellness,349.0,1,COD,Jaipur,349.0,2026-02,Saturday,True
+ORD-10734,C0293,2026-02-07,Wireless Earbuds,Electronics,1999.0,1,Card,Delhi,1999.0,2026-02,Saturday,True
+ORD-10734,C0293,2026-02-07,Power Bank,Electronics,1299.0,1,Card,Delhi,1299.0,2026-02,Saturday,True
+ORD-10735,C0060,2026-02-08,Green Tea Pack,Health & Wellness,349.0,3,COD,Kolkata,1047.0,2026-02,Sunday,True
+ORD-10736,C0129,2026-02-08,Green Tea Pack,Health & Wellness,349.0,1,UPI,Delhi,349.0,2026-02,Sunday,True
+ORD-10737,C0268,2026-02-08,Bluetooth Speaker,Electronics,2499.0,1,UPI,Kolkata,2499.0,2026-02,Sunday,True
+ORD-10738,C0054,2026-02-09,Cotton T-Shirt,Fashion,599.0,1,Unknown,Chennai,599.0,2026-02,Monday,False
+ORD-10739,C0084,2026-02-09,Cushion Set,Home & Kitchen,799.0,1,Card,Delhi,799.0,2026-02,Monday,False
+ORD-10740,C0090,2026-02-09,Cotton T-Shirt,Fashion,599.0,2,Card,Kolkata,1198.0,2026-02,Monday,False
+ORD-10741,C0185,2026-02-09,Power Bank,Electronics,1299.0,2,Card,Mumbai,2598.0,2026-02,Monday,False
+ORD-10742,C0213,2026-02-09,Running Shoes,Fashion,2999.0,1,UPI,Jaipur,2999.0,2026-02,Monday,False
+ORD-10743,C0225,2026-02-09,Power Bank,Electronics,1299.0,1,Card,Kolkata,1299.0,2026-02,Monday,False
+ORD-10744,C0279,2026-02-09,Water Bottle,Home & Kitchen,499.0,2,UPI,Delhi,998.0,2026-02,Monday,False
+ORD-10745,C0283,2026-02-09,Running Shoes,Fashion,2999.0,1,Card,Jaipur,2999.0,2026-02,Monday,False
+ORD-10746,C0187,2026-02-10,Water Bottle,Home & Kitchen,499.0,1,UPI,Chennai,499.0,2026-02,Tuesday,False
+ORD-10747,C0204,2026-02-10,Protein Powder,Health & Wellness,1799.0,1,UPI,Mumbai,1799.0,2026-02,Tuesday,False
+ORD-10747,C0204,2026-02-10,Wireless Earbuds,Electronics,1999.0,2,UPI,Mumbai,3998.0,2026-02,Tuesday,False
+ORD-10748,C0223,2026-02-10,Cotton T-Shirt,Fashion,599.0,1,UPI,Bengaluru,599.0,2026-02,Tuesday,False
+ORD-10749,C0036,2026-02-11,Cotton T-Shirt,Fashion,599.0,2,UPI,Mumbai,1198.0,2026-02,Wednesday,False
+ORD-10749,C0036,2026-02-11,Wireless Earbuds,Electronics,1999.0,1,UPI,Mumbai,1999.0,2026-02,Wednesday,False
+ORD-10749,C0036,2026-02-11,Green Tea Pack,Health & Wellness,349.0,3,UPI,Mumbai,1047.0,2026-02,Wednesday,False
+ORD-10750,C0169,2026-02-11,Power Bank,Electronics,1299.0,1,UPI,Delhi,1299.0,2026-02,Wednesday,False
+ORD-10751,C0183,2026-02-11,Backpack,Fashion,1499.0,1,UPI,Jaipur,1499.0,2026-02,Wednesday,False
+ORD-10752,C0194,2026-02-12,Running Shoes,Fashion,2999.0,1,Wallet,Jaipur,2999.0,2026-02,Thursday,False
+ORD-10752,C0194,2026-02-12,Cotton T-Shirt,Fashion,599.0,3,Wallet,Jaipur,1797.0,2026-02,Thursday,False
+ORD-10753,C0232,2026-02-12,Wireless Earbuds,Electronics,1999.0,1,UPI,Chennai,1999.0,2026-02,Thursday,False
+ORD-10753,C0232,2026-02-12,Power Bank,Electronics,1299.0,1,UPI,Chennai,1299.0,2026-02,Thursday,False
+ORD-10754,C0191,2026-02-14,Running Shoes,Fashion,0.2999,1,UPI,Mumbai,0.2999,2026-02,Saturday,True
+ORD-10754,C0191,2026-02-14,Cotton T-Shirt,Fashion,599.0,3,UPI,Mumbai,1797.0,2026-02,Saturday,True
+ORD-11372,C0231,2026-09-23,Power Bank,Electronics,1299.0,1,Card,Delhi,1299.0,2026-09,Wednesday,False
+ORD-10755,C0057,2026-02-15,Water Bottle,Home & Kitchen,499.0,1,UPI,Bengaluru,499.0,2026-02,Sunday,True
+ORD-10756,C0117,2026-02-15,Green Tea Pack,Health & Wellness,349.0,1,UPI,Mumbai,349.0,2026-02,Sunday,True
+ORD-10757,C0208,2026-02-15,Protein Powder,Health & Wellness,1799.0,1,UPI,Bengaluru,1799.0,2026-02,Sunday,True
+ORD-10758,C0212,2026-02-15,Cushion Set,Home & Kitchen,799.0,3,UPI,Bengaluru,2397.0,2026-02,Sunday,True
+ORD-10759,C0266,2026-02-15,Bluetooth Speaker,Electronics,2499.0,1,UPI,Kolkata,2499.0,2026-02,Sunday,True
+ORD-10760,C0276,2026-02-16,Backpack,Fashion,1499.0,1,COD,Mumbai,1499.0,2026-02,Monday,False
+ORD-10761,C0099,2026-02-17,Wireless Earbuds,Electronics,1999.0,1,COD,Mumbai,1999.0,2026-02,Tuesday,False
+ORD-10762,C0140,2026-02-18,Green Tea Pack,Health & Wellness,349.0,1,UPI,Hyderabad,349.0,2026-02,Wednesday,False
+ORD-10763,C0182,2026-02-18,Backpack,Fashion,1499.0,1,UPI,Hyderabad,1499.0,2026-02,Wednesday,False
+ORD-10764,C0296,2026-02-18,Desk Lamp,Home & Kitchen,899.0,1,Wallet,Mumbai,899.0,2026-02,Wednesday,False
+ORD-10764,C0296,2026-02-18,Green Tea Pack,Health & Wellness,349.0,2,Wallet,Mumbai,698.0,2026-02,Wednesday,False
+ORD-10765,C0095,2026-02-19,Desk Lamp,Home & Kitchen,899.0,1,COD,Pune,899.0,2026-02,Thursday,False
+ORD-10767,C0162,2026-02-19,Cushion Set,Home & Kitchen,799.0,2,Card,Hyderabad,1598.0,2026-02,Thursday,False
+ORD-10768,C0272,2026-02-19,Green Tea Pack,Health & Wellness,349.0,3,Wallet,Jaipur,1047.0,2026-02,Thursday,False
+ORD-10769,C0279,2026-02-19,Cushion Set,Home & Kitchen,799.0,3,UPI,Delhi,2397.0,2026-02,Thursday,False
+ORD-10770,C0163,2026-02-20,Water Bottle,Home & Kitchen,499.0,1,UPI,Bengaluru,499.0,2026-02,Friday,False
+ORD-10771,C0176,2026-02-20,Wireless Earbuds,Electronics,1999.0,1,Card,Chennai,1999.0,2026-02,Friday,False
+ORD-10772,C0160,2026-02-21,Bluetooth Speaker,Electronics,2499.0,1,UPI,Hyderabad,2499.0,2026-02,Saturday,True
+ORD-10773,C0237,2026-02-21,Cotton T-Shirt,Fashion,599.0,2,UPI,Hyderabad,1198.0,2026-02,Saturday,True
+ORD-10774,C0260,2026-02-21,Protein Powder,Health & Wellness,1799.0,1,UPI,Delhi,1799.0,2026-02,Saturday,True
+ORD-10774,C0260,2026-02-21,Cotton T-Shirt,Fashion,599.0,1,UPI,Delhi,599.0,2026-02,Saturday,True
+ORD-10775,C0298,2026-02-21,Running Shoes,Fashion,2999.0,1,Card,Pune,2999.0,2026-02,Saturday,True
+ORD-10775,C0298,2026-02-21,Backpack,Fashion,1499.0,1,Card,Pune,1499.0,2026-02,Saturday,True
+ORD-10776,C0147,2026-02-22,Backpack,Fashion,1499.0,1,UPI,Bengaluru,1499.0,2026-02,Sunday,True
+ORD-10777,C0179,2026-02-22,Running Shoes,Fashion,2999.0,1,COD,Hyderabad,2999.0,2026-02,Sunday,True
+ORD-10778,C0236,2026-02-22,Running Shoes,Fashion,2999.0,1,Wallet,Mumbai,2999.0,2026-02,Sunday,True
+ORD-10779,C0268,2026-02-22,Cushion Set,Home & Kitchen,799.0,3,COD,Kolkata,2397.0,2026-02,Sunday,True
+ORD-10780,C0188,2026-02-23,Wireless Earbuds,Electronics,1999.0,1,UPI,Delhi,1999.0,2026-02,Monday,False
+ORD-10781,C0131,2026-02-24,Backpack,Fashion,1499.0,1,UPI,Delhi,1499.0,2026-02,Tuesday,False
+ORD-10782,C0224,2026-02-24,Smartwatch,Electronics,4999.0,1,UPI,Delhi,4999.0,2026-02,Tuesday,False
+ORD-10782,C0224,2026-02-24,Wireless Earbuds,Electronics,1999.0,2,UPI,Delhi,3998.0,2026-02,Tuesday,False
+ORD-10783,C0049,2026-02-25,Cushion Set,Home & Kitchen,799.0,1,UPI,Bengaluru,799.0,2026-02,Wednesday,False
+ORD-10784,C0124,2026-02-25,Protein Powder,Health & Wellness,1799.0,2,UPI,Jaipur,3598.0,2026-02,Wednesday,False
+ORD-10784,C0124,2026-02-25,Water Bottle,Home & Kitchen,499.0,1,UPI,Jaipur,499.0,2026-02,Wednesday,False
+ORD-10785,C0220,2026-02-25,Power Bank,Electronics,1299.0,1,COD,Pune,1299.0,2026-02,Wednesday,False
+ORD-10786,C0137,2026-02-27,Backpack,Fashion,1499.0,1,COD,Mumbai,1499.0,2026-02,Friday,False
+ORD-10787,C0237,2026-02-27,Backpack,Fashion,1499.0,1,COD,Hyderabad,1499.0,2026-02,Friday,False
+ORD-10787,C0237,2026-02-27,Cotton T-Shirt,Fashion,599.0,3,COD,Hyderabad,1797.0,2026-02,Friday,False
+ORD-10788,C0105,2026-02-28,Desk Lamp,Home & Kitchen,0.899,1,UPI,Jaipur,0.899,2026-02,Saturday,True
+ORD-10789,C0125,2026-02-28,Desk Lamp,Home & Kitchen,899.0,3,UPI,Kolkata,2697.0,2026-02,Saturday,True
+ORD-10789,C0125,2026-02-28,Cushion Set,Home & Kitchen,799.0,1,UPI,Kolkata,799.0,2026-02,Saturday,True
+ORD-10789,C0125,2026-02-28,Wireless Earbuds,Electronics,1999.0,1,UPI,Kolkata,1999.0,2026-02,Saturday,True
+ORD-10790,C0257,2026-02-28,Cotton T-Shirt,Fashion,599.0,1,Card,Pune,599.0,2026-02,Saturday,True
+ORD-10791,C0264,2026-02-28,Protein Powder,Health & Wellness,1799.0,1,UPI,Bengaluru,1799.0,2026-02,Saturday,True
+ORD-10791,C0264,2026-02-28,Water Bottle,Home & Kitchen,499.0,1,UPI,Bengaluru,499.0,2026-02,Saturday,True
+ORD-10792,C0272,2026-02-28,Green Tea Pack,Health & Wellness,349.0,1,UPI,Jaipur,349.0,2026-02,Saturday,True
+ORD-10793,C0002,2026-03-01,Wireless Earbuds,Electronics,1999.0,1,COD,Mumbai,1999.0,2026-03,Sunday,True
+ORD-10793,C0002,2026-03-01,Power Bank,Electronics,1299.0,2,COD,Mumbai,2598.0,2026-03,Sunday,True
+ORD-10794,C0010,2026-03-01,Bluetooth Speaker,Electronics,2499.0,1,UPI,Hyderabad,2499.0,2026-03,Sunday,True
+ORD-10795,C0106,2026-03-01,Desk Lamp,Home & Kitchen,0.899,3,UPI,Hyderabad,2.697,2026-03,Sunday,True
+ORD-10795,C0106,2026-03-01,Cushion Set,Home & Kitchen,799.0,3,UPI,Hyderabad,2397.0,2026-03,Sunday,True
+ORD-10796,C0108,2026-03-01,Desk Lamp,Home & Kitchen,899.0,3,COD,Mumbai,2697.0,2026-03,Sunday,True
+ORD-10796,C0108,2026-03-01,Cushion Set,Home & Kitchen,799.0,2,COD,Mumbai,1598.0,2026-03,Sunday,True
+ORD-10797,C0169,2026-03-01,Wireless Earbuds,Electronics,0.1999,1,COD,Delhi,0.1999,2026-03,Sunday,True
+ORD-10798,C0183,2026-03-01,Cushion Set,Home & Kitchen,799.0,1,UPI,Jaipur,799.0,2026-03,Sunday,True
+ORD-10798,C0183,2026-03-01,Cotton T-Shirt,Fashion,599.0,1,UPI,Jaipur,599.0,2026-03,Sunday,True
+ORD-10799,C0191,2026-03-01,Smartwatch,Electronics,4999.0,1,COD,Mumbai,4999.0,2026-03,Sunday,True
+ORD-10800,C0091,2026-03-02,Desk Lamp,Home & Kitchen,899.0,3,UPI,Bengaluru,2697.0,2026-03,Monday,False
+ORD-10801,C0185,2026-03-02,Desk Lamp,Home & Kitchen,899.0,1,Card,Mumbai,899.0,2026-03,Monday,False
+ORD-10802,C0076,2026-03-03,Wireless Earbuds,Electronics,1999.0,2,Card,Kolkata,3998.0,2026-03,Tuesday,False
+ORD-10802,C0076,2026-03-03,Power Bank,Electronics,1299.0,1,Card,Kolkata,1299.0,2026-03,Tuesday,False
+ORD-10803,C0176,2026-03-04,Bluetooth Speaker,Electronics,2499.0,1,Card,Chennai,2499.0,2026-03,Wednesday,False
+ORD-10804,C0202,2026-03-04,Wireless Earbuds,Electronics,1999.0,2,UPI,Hyderabad,3998.0,2026-03,Wednesday,False
+ORD-10805,C0277,2026-03-04,Running Shoes,Fashion,2999.0,1,Wallet,Chennai,2999.0,2026-03,Wednesday,False
+ORD-10806,C0287,2026-03-04,Smartwatch,Electronics,4999.0,2,UPI,Bengaluru,9998.0,2026-03,Wednesday,False
+ORD-10806,C0287,2026-03-04,Wireless Earbuds,Electronics,1999.0,1,UPI,Bengaluru,1999.0,2026-03,Wednesday,False
+ORD-10807,C0035,2026-03-05,Cotton T-Shirt,Fashion,599.0,2,Card,Mumbai,1198.0,2026-03,Thursday,False
+ORD-10808,C0093,2026-03-05,Cotton T-Shirt,Fashion,599.0,2,UPI,Chennai,1198.0,2026-03,Thursday,False
+ORD-10809,C0108,2026-03-05,Water Bottle,Home & Kitchen,499.0,2,Card,Mumbai,998.0,2026-03,Thursday,False
+ORD-10809,C0108,2026-03-05,Cushion Set,Home & Kitchen,799.0,1,Card,Mumbai,799.0,2026-03,Thursday,False
+ORD-10810,C0120,2026-03-05,Protein Powder,Health & Wellness,1799.0,1,UPI,Kolkata,1799.0,2026-03,Thursday,False
+ORD-10810,C0120,2026-03-05,Water Bottle,Home & Kitchen,499.0,2,UPI,Kolkata,998.0,2026-03,Thursday,False
+ORD-10811,C0145,2026-03-05,Cotton T-Shirt,Fashion,599.0,3,UPI,Kolkata,1797.0,2026-03,Thursday,False
+ORD-10811,C0145,2026-03-05,Water Bottle,Home & Kitchen,499.0,3,UPI,Kolkata,1497.0,2026-03,Thursday,False
+ORD-10811,C0145,2026-03-05,Desk Lamp,Home & Kitchen,899.0,1,UPI,Kolkata,899.0,2026-03,Thursday,False
+ORD-10812,C0204,2026-03-05,Water Bottle,Home & Kitchen,499.0,3,UPI,Mumbai,1497.0,2026-03,Thursday,False
+ORD-10813,C0208,2026-03-05,Green Tea Pack,Health & Wellness,349.0,1,UPI,Bengaluru,349.0,2026-03,Thursday,False
+ORD-10814,C0021,2026-03-06,Cotton T-Shirt,Fashion,599.0,3,Card,Bengaluru,1797.0,2026-03,Friday,False
+ORD-10815,C0137,2026-03-06,Running Shoes,Fashion,2999.0,2,UPI,Mumbai,5998.0,2026-03,Friday,False
+ORD-10816,C0034,2026-03-07,Water Bottle,Home & Kitchen,499.0,2,UPI,Delhi,998.0,2026-03,Saturday,True
+ORD-10817,C0095,2026-03-07,Cushion Set,Home & Kitchen,799.0,1,UPI,Pune,799.0,2026-03,Saturday,True
+ORD-10818,C0002,2026-03-08,Wireless Earbuds,Electronics,1999.0,1,Card,Mumbai,1999.0,2026-03,Sunday,True
+ORD-10819,C0007,2026-03-08,Power Bank,Electronics,1299.0,1,COD,Delhi,1299.0,2026-03,Sunday,True
+ORD-10820,C0028,2026-03-08,Water Bottle,Home & Kitchen,499.0,1,UPI,Mumbai,499.0,2026-03,Sunday,True
+ORD-10821,C0131,2026-03-08,Running Shoes,Fashion,2999.0,1,UPI,Delhi,2999.0,2026-03,Sunday,True
+ORD-10821,C0131,2026-03-08,Cotton T-Shirt,Fashion,599.0,2,UPI,Delhi,1198.0,2026-03,Sunday,True
+ORD-10822,C0194,2026-03-08,Green Tea Pack,Health & Wellness,349.0,3,Card,Jaipur,1047.0,2026-03,Sunday,True
+ORD-10823,C0234,2026-03-08,Water Bottle,Home & Kitchen,499.0,1,UPI,Delhi,499.0,2026-03,Sunday,True
+ORD-10824,C0236,2026-03-08,Water Bottle,Home & Kitchen,499.0,2,UPI,Mumbai,998.0,2026-03,Sunday,True
+ORD-10825,C0292,2026-03-08,Wireless Earbuds,Electronics,1999.0,1,UPI,Mumbai,1999.0,2026-03,Sunday,True
+ORD-10825,C0292,2026-03-08,Power Bank,Electronics,1299.0,1,UPI,Mumbai,1299.0,2026-03,Sunday,True
+ORD-10826,C0068,2026-03-09,Backpack,Fashion,1499.0,1,COD,Hyderabad,1499.0,2026-03,Monday,False
+ORD-10827,C0157,2026-03-10,Cotton T-Shirt,Fashion,0.599,1,UPI,Jaipur,0.599,2026-03,Tuesday,False
+ORD-10827,C0157,2026-03-10,Bluetooth Speaker,Electronics,2499.0,1,UPI,Jaipur,2499.0,2026-03,Tuesday,False
+ORD-10828,C0253,2026-03-10,Wireless Earbuds,Electronics,1999.0,1,UPI,Pune,1999.0,2026-03,Tuesday,False
+ORD-10829,C0060,2026-03-11,Wireless Earbuds,Electronics,1999.0,2,Card,Kolkata,3998.0,2026-03,Wednesday,False
+ORD-10830,C0060,2026-03-11,Wireless Earbuds,Electronics,1999.0,1,Card,Kolkata,1999.0,2026-03,Wednesday,False
+ORD-10831,C0163,2026-03-11,Green Tea Pack,Health & Wellness,349.0,3,UPI,Bengaluru,1047.0,2026-03,Wednesday,False
+ORD-10832,C0244,2026-03-11,Cotton T-Shirt,Fashion,599.0,1,COD,Chennai,599.0,2026-03,Wednesday,False
+ORD-10833,C0140,2026-03-12,Wireless Earbuds,Electronics,1999.0,1,UPI,Hyderabad,1999.0,2026-03,Thursday,False
+ORD-10834,C0049,2026-03-13,Water Bottle,Home & Kitchen,499.0,1,UPI,Bengaluru,499.0,2026-03,Friday,False
+ORD-10835,C0064,2026-03-13,Desk Lamp,Home & Kitchen,899.0,3,UPI,Mumbai,2697.0,2026-03,Friday,False
+ORD-10835,C0064,2026-03-13,Cushion Set,Home & Kitchen,799.0,2,UPI,Mumbai,1598.0,2026-03,Friday,False
+ORD-10836,C0068,2026-03-13,Wireless Earbuds,Electronics,1999.0,1,COD,Hyderabad,1999.0,2026-03,Friday,False
+ORD-10837,C0069,2026-03-13,Desk Lamp,Home & Kitchen,899.0,2,UPI,Mumbai,1798.0,2026-03,Friday,False
+ORD-10837,C0069,2026-03-13,Cushion Set,Home & Kitchen,799.0,1,UPI,Mumbai,799.0,2026-03,Friday,False
+ORD-10838,C0183,2026-03-13,Green Tea Pack,Health & Wellness,349.0,3,UPI,Jaipur,1047.0,2026-03,Friday,False
+ORD-10839,C0054,2026-03-14,Cotton T-Shirt,Fashion,599.0,1,UPI,Chennai,599.0,2026-03,Saturday,True
+ORD-10840,C0089,2026-03-14,Backpack,Fashion,0.1499,1,Card,Pune,0.1499,2026-03,Saturday,True
+ORD-10841,C0115,2026-03-14,Power Bank,Electronics,1299.0,1,COD,Mumbai,1299.0,2026-03,Saturday,True
+ORD-10843,C0211,2026-03-14,Cotton T-Shirt,Fashion,599.0,2,UPI,Delhi,1198.0,2026-03,Saturday,True
+ORD-10844,C0292,2026-03-14,Cotton T-Shirt,Fashion,599.0,1,UPI,Mumbai,599.0,2026-03,Saturday,True
+ORD-10844,C0292,2026-03-14,Water Bottle,Home & Kitchen,499.0,2,UPI,Mumbai,998.0,2026-03,Saturday,True
+ORD-10845,C0033,2026-03-15,Backpack,Fashion,1499.0,1,UPI,Chennai,1499.0,2026-03,Sunday,True
+ORD-10846,C0067,2026-03-15,Power Bank,Electronics,1299.0,1,UPI,Hyderabad,1299.0,2026-03,Sunday,True
+ORD-10847,C0121,2026-03-15,Cushion Set,Home & Kitchen,799.0,2,UPI,Hyderabad,1598.0,2026-03,Sunday,True
+ORD-10848,C0178,2026-03-15,Backpack,Fashion,1499.0,1,COD,Delhi,1499.0,2026-03,Sunday,True
+ORD-10849,C0184,2026-03-15,Wireless Earbuds,Electronics,1999.0,2,UPI,Kolkata,3998.0,2026-03,Sunday,True
+ORD-10849,C0184,2026-03-15,Power Bank,Electronics,1299.0,2,UPI,Kolkata,2598.0,2026-03,Sunday,True
+ORD-10850,C0220,2026-03-15,Green Tea Pack,Health & Wellness,349.0,1,UPI,Pune,349.0,2026-03,Sunday,True
+ORD-10851,C0298,2026-03-15,Power Bank,Electronics,1299.0,2,UPI,Pune,2598.0,2026-03,Sunday,True
+ORD-10852,C0008,2026-03-16,Cotton T-Shirt,Fashion,599.0,2,UPI,Delhi,1198.0,2026-03,Monday,False
+ORD-10853,C0035,2026-03-16,Wireless Earbuds,Electronics,1999.0,1,UPI,Mumbai,1999.0,2026-03,Monday,False
+ORD-10854,C0099,2026-03-16,Backpack,Fashion,1499.0,1,UPI,Mumbai,1499.0,2026-03,Monday,False
+ORD-10854,C0099,2026-03-16,Running Shoes,Fashion,2999.0,1,UPI,Mumbai,2999.0,2026-03,Monday,False
+ORD-10855,C0137,2026-03-16,Running Shoes,Fashion,2999.0,2,Wallet,Mumbai,5998.0,2026-03,Monday,False
+ORD-10856,C0206,2026-03-16,Green Tea Pack,Health & Wellness,349.0,1,UPI,Bengaluru,349.0,2026-03,Monday,False
+ORD-10857,C0230,2026-03-16,Desk Lamp,Home & Kitchen,899.0,3,Wallet,Hyderabad,2697.0,2026-03,Monday,False
+ORD-10858,C0076,2026-03-17,Protein Powder,Health & Wellness,1799.0,1,UPI,Kolkata,1799.0,2026-03,Tuesday,False
+ORD-10859,C0178,2026-03-17,Running Shoes,Fashion,2999.0,1,COD,Delhi,2999.0,2026-03,Tuesday,False
+ORD-10860,C0235,2026-03-17,Running Shoes,Fashion,2999.0,2,UPI,Mumbai,5998.0,2026-03,Tuesday,False
+ORD-10861,C0264,2026-03-17,Green Tea Pack,Health & Wellness,349.0,3,UPI,Bengaluru,1047.0,2026-03,Tuesday,False
+ORD-10862,C0264,2026-03-17,Green Tea Pack,Health & Wellness,349.0,2,UPI,Bengaluru,698.0,2026-03,Tuesday,False
+ORD-10863,C0019,2026-03-18,Protein Powder,Health & Wellness,1799.0,1,UPI,Mumbai,1799.0,2026-03,Wednesday,False
+ORD-10863,C0019,2026-03-18,Water Bottle,Home & Kitchen,499.0,1,UPI,Mumbai,499.0,2026-03,Wednesday,False
+ORD-10864,C0068,2026-03-18,Cotton T-Shirt,Fashion,599.0,1,COD,Hyderabad,599.0,2026-03,Wednesday,False
+ORD-10864,C0068,2026-03-18,Wireless Earbuds,Electronics,0.1999,1,COD,Hyderabad,0.1999,2026-03,Wednesday,False
+ORD-10865,C0076,2026-03-18,Cushion Set,Home & Kitchen,799.0,2,UPI,Kolkata,1598.0,2026-03,Wednesday,False
+ORD-10866,C0110,2026-03-18,Cotton T-Shirt,Fashion,599.0,3,COD,Delhi,1797.0,2026-03,Wednesday,False
+ORD-10867,C0161,2026-03-18,Running Shoes,Fashion,2999.0,1,UPI,Jaipur,2999.0,2026-03,Wednesday,False
+ORD-10868,C0183,2026-03-18,Backpack,Fashion,1499.0,1,UPI,Jaipur,1499.0,2026-03,Wednesday,False
+ORD-10868,C0183,2026-03-18,Cotton T-Shirt,Fashion,599.0,3,UPI,Jaipur,1797.0,2026-03,Wednesday,False
+ORD-10869,C0245,2026-03-18,Bluetooth Speaker,Electronics,2499.0,2,Card,Mumbai,4998.0,2026-03,Wednesday,False
+ORD-10870,C0257,2026-03-18,Green Tea Pack,Health & Wellness,349.0,1,Card,Pune,349.0,2026-03,Wednesday,False
+ORD-10871,C0268,2026-03-19,Wireless Earbuds,Electronics,1999.0,1,UPI,Kolkata,1999.0,2026-03,Thursday,False
+ORD-10871,C0268,2026-03-19,Power Bank,Electronics,1299.0,2,UPI,Kolkata,2598.0,2026-03,Thursday,False
+ORD-10872,C0300,2026-03-19,Protein Powder,Health & Wellness,1799.0,2,UPI,Bengaluru,3598.0,2026-03,Thursday,False
+ORD-10872,C0300,2026-03-19,Water Bottle,Home & Kitchen,499.0,2,UPI,Bengaluru,998.0,2026-03,Thursday,False
+ORD-10873,C0064,2026-03-20,Green Tea Pack,Health & Wellness,349.0,1,UPI,Mumbai,349.0,2026-03,Friday,False
+ORD-10874,C0074,2026-03-21,Cushion Set,Home & Kitchen,799.0,3,UPI,Delhi,2397.0,2026-03,Saturday,True
+ORD-10875,C0114,2026-03-21,Water Bottle,Home & Kitchen,499.0,1,UPI,Hyderabad,499.0,2026-03,Saturday,True
+ORD-10876,C0001,2026-03-22,Backpack,Fashion,1499.0,1,Card,Bengaluru,1499.0,2026-03,Sunday,True
+ORD-10877,C0064,2026-03-22,Wireless Earbuds,Electronics,1999.0,1,UPI,Mumbai,1999.0,2026-03,Sunday,True
+ORD-10878,C0146,2026-03-22,Protein Powder,Health & Wellness,1799.0,1,COD,Delhi,1799.0,2026-03,Sunday,True
+ORD-10878,C0146,2026-03-22,Water Bottle,Home & Kitchen,499.0,1,COD,Delhi,499.0,2026-03,Sunday,True
+ORD-10879,C0003,2026-03-23,Green Tea Pack,Health & Wellness,349.0,1,UPI,Mumbai,349.0,2026-03,Monday,False
+ORD-10880,C0047,2026-03-23,Water Bottle,Home & Kitchen,499.0,2,COD,Bengaluru,998.0,2026-03,Monday,False
+ORD-10881,C0108,2026-03-23,Desk Lamp,Home & Kitchen,899.0,2,Card,Mumbai,1798.0,2026-03,Monday,False
+ORD-10882,C0296,2026-03-23,Water Bottle,Home & Kitchen,499.0,1,Card,Mumbai,499.0,2026-03,Monday,False
+ORD-10882,C0296,2026-03-23,Protein Powder,Health & Wellness,1799.0,1,Card,Mumbai,1799.0,2026-03,Monday,False
+ORD-10883,C0144,2026-03-24,Wireless Earbuds,Electronics,1999.0,1,Card,Jaipur,1999.0,2026-03,Tuesday,False
+ORD-10884,C0042,2026-03-25,Green Tea Pack,Health & Wellness,349.0,1,COD,Delhi,349.0,2026-03,Wednesday,False
+ORD-10885,C0074,2026-03-25,Bluetooth Speaker,Electronics,2499.0,1,Card,Delhi,2499.0,2026-03,Wednesday,False
+ORD-10885,C0074,2026-03-25,Desk Lamp,Home & Kitchen,899.0,3,Card,Delhi,2697.0,2026-03,Wednesday,False
+ORD-10886,C0276,2026-03-25,Cotton T-Shirt,Fashion,599.0,1,Card,Mumbai,599.0,2026-03,Wednesday,False
+ORD-10887,C0246,2026-03-26,Power Bank,Electronics,1299.0,1,UPI,Jaipur,1299.0,2026-03,Thursday,False
+ORD-10888,C0257,2026-03-27,Cotton T-Shirt,Fashion,599.0,1,Card,Pune,599.0,2026-03,Friday,False
+ORD-10889,C0070,2026-03-28,Desk Lamp,Home & Kitchen,899.0,1,Card,Hyderabad,899.0,2026-03,Saturday,True
+ORD-10890,C0180,2026-03-28,Wireless Earbuds,Electronics,1999.0,1,UPI,Mumbai,1999.0,2026-03,Saturday,True
+ORD-10890,C0180,2026-03-28,Cotton T-Shirt,Fashion,599.0,1,UPI,Mumbai,599.0,2026-03,Saturday,True
+ORD-10891,C0226,2026-03-28,Power Bank,Electronics,1299.0,1,UPI,Mumbai,1299.0,2026-03,Saturday,True
+ORD-10891,C0226,2026-03-28,Smartwatch,Electronics,4999.0,1,UPI,Mumbai,4999.0,2026-03,Saturday,True
+ORD-10892,C0076,2026-03-29,Desk Lamp,Home & Kitchen,899.0,1,Card,Kolkata,899.0,2026-03,Sunday,True
+ORD-10893,C0114,2026-03-29,Wireless Earbuds,Electronics,1999.0,2,COD,Hyderabad,3998.0,2026-03,Sunday,True
+ORD-10893,C0114,2026-03-29,Power Bank,Electronics,1299.0,2,COD,Hyderabad,2598.0,2026-03,Sunday,True
+ORD-10894,C0053,2026-03-30,Wireless Earbuds,Electronics,0.1999,1,COD,Kolkata,0.1999,2026-03,Monday,False
+ORD-10895,C0076,2026-03-30,Water Bottle,Home & Kitchen,499.0,1,Card,Kolkata,499.0,2026-03,Monday,False
+ORD-10896,C0169,2026-03-30,Backpack,Fashion,1499.0,1,UPI,Delhi,1499.0,2026-03,Monday,False
+ORD-10896,C0169,2026-03-30,Power Bank,Electronics,1299.0,1,UPI,Delhi,1299.0,2026-03,Monday,False
+ORD-10897,C0182,2026-03-30,Running Shoes,Fashion,2999.0,1,Card,Hyderabad,2999.0,2026-03,Monday,False
+ORD-10897,C0182,2026-03-30,Bluetooth Speaker,Electronics,2499.0,1,Card,Hyderabad,2499.0,2026-03,Monday,False
+ORD-10898,C0053,2026-03-31,Smartwatch,Electronics,4999.0,1,UPI,Kolkata,4999.0,2026-03,Tuesday,False
+ORD-10899,C0083,2026-03-31,Cotton T-Shirt,Fashion,599.0,2,UPI,Mumbai,1198.0,2026-03,Tuesday,False
+ORD-10900,C0010,2026-04-01,Green Tea Pack,Health & Wellness,349.0,2,UPI,Hyderabad,698.0,2026-04,Wednesday,False
+ORD-10901,C0036,2026-04-01,Protein Powder,Health & Wellness,1799.0,2,Card,Mumbai,3598.0,2026-04,Wednesday,False
+ORD-10902,C0049,2026-04-01,Protein Powder,Health & Wellness,1799.0,1,COD,Bengaluru,1799.0,2026-04,Wednesday,False
+ORD-10902,C0049,2026-04-01,Water Bottle,Home & Kitchen,499.0,2,COD,Bengaluru,998.0,2026-04,Wednesday,False
+ORD-10903,C0054,2026-04-01,Cotton T-Shirt,Fashion,599.0,2,UPI,Chennai,1198.0,2026-04,Wednesday,False
+ORD-10904,C0100,2026-04-01,Water Bottle,Home & Kitchen,499.0,1,Card,Jaipur,499.0,2026-04,Wednesday,False
+ORD-10905,C0210,2026-04-01,Cotton T-Shirt,Fashion,599.0,1,COD,Bengaluru,599.0,2026-04,Wednesday,False
+ORD-10906,C0231,2026-04-02,Cotton T-Shirt,Fashion,599.0,3,UPI,Delhi,1797.0,2026-04,Thursday,False
+ORD-10907,C0279,2026-04-02,Water Bottle,Home & Kitchen,499.0,1,COD,Delhi,499.0,2026-04,Thursday,False
+ORD-10908,C0287,2026-04-02,Wireless Earbuds,Electronics,1999.0,1,UPI,Bengaluru,1999.0,2026-04,Thursday,False
+ORD-10909,C0084,2026-04-03,Wireless Earbuds,Electronics,1999.0,1,UPI,Delhi,1999.0,2026-04,Friday,False
+ORD-10910,C0187,2026-04-03,Power Bank,Electronics,1299.0,1,UPI,Chennai,1299.0,2026-04,Friday,False
+ORD-10911,C0188,2026-04-03,Smartwatch,Electronics,4999.0,2,UPI,Delhi,9998.0,2026-04,Friday,False
+ORD-10911,C0188,2026-04-03,Wireless Earbuds,Electronics,1999.0,1,UPI,Delhi,1999.0,2026-04,Friday,False
+ORD-10912,C0207,2026-04-03,Backpack,Fashion,1499.0,1,COD,Delhi,1499.0,2026-04,Friday,False
+ORD-10912,C0207,2026-04-03,Cotton T-Shirt,Fashion,599.0,1,COD,Delhi,599.0,2026-04,Friday,False
+ORD-10913,C0216,2026-04-03,Protein Powder,Health & Wellness,1799.0,1,UPI,Bengaluru,1799.0,2026-04,Friday,False
+ORD-10914,C0275,2026-04-03,Wireless Earbuds,Electronics,1999.0,1,Card,Kolkata,1999.0,2026-04,Friday,False
+ORD-10914,C0275,2026-04-03,Running Shoes,Fashion,2999.0,1,Card,Kolkata,2999.0,2026-04,Friday,False
+ORD-10915,C0054,2026-04-04,Backpack,Fashion,1499.0,1,Card,Chennai,1499.0,2026-04,Saturday,True
+ORD-10916,C0245,2026-04-04,Smartwatch,Electronics,4999.0,1,COD,Mumbai,4999.0,2026-04,Saturday,True
+ORD-10917,C0300,2026-04-04,Backpack,Fashion,1499.0,1,Card,Bengaluru,1499.0,2026-04,Saturday,True
+ORD-10918,C0027,2026-04-05,Protein Powder,Health & Wellness,1799.0,2,UPI,Kolkata,3598.0,2026-04,Sunday,True
+ORD-10919,C0028,2026-04-05,Water Bottle,Home & Kitchen,499.0,2,UPI,Mumbai,998.0,2026-04,Sunday,True
+ORD-10920,C0031,2026-04-05,Running Shoes,Fashion,2999.0,1,Card,Mumbai,2999.0,2026-04,Sunday,True
+ORD-10921,C0086,2026-04-05,Protein Powder,Health & Wellness,1799.0,2,UPI,Mumbai,3598.0,2026-04,Sunday,True
+ORD-10922,C0144,2026-04-05,Power Bank,Electronics,0.1299,1,Card,Jaipur,0.1299,2026-04,Sunday,True
+ORD-10923,C0180,2026-04-05,Desk Lamp,Home & Kitchen,899.0,3,Card,Mumbai,2697.0,2026-04,Sunday,True
+ORD-10924,C0191,2026-04-05,Wireless Earbuds,Electronics,1999.0,1,UPI,Mumbai,1999.0,2026-04,Sunday,True
+ORD-10925,C0208,2026-04-06,Green Tea Pack,Health & Wellness,349.0,1,Card,Bengaluru,349.0,2026-04,Monday,False
+ORD-10926,C0276,2026-04-06,Backpack,Fashion,1499.0,2,Card,Mumbai,2998.0,2026-04,Monday,False
+ORD-10926,C0276,2026-04-06,Running Shoes,Fashion,2999.0,2,Card,Mumbai,5998.0,2026-04,Monday,False
+ORD-10927,C0187,2026-04-08,Bluetooth Speaker,Electronics,2499.0,1,Card,Chennai,2499.0,2026-04,Wednesday,False
+ORD-10928,C0205,2026-04-08,Green Tea Pack,Health & Wellness,349.0,1,UPI,Jaipur,349.0,2026-04,Wednesday,False
+ORD-10929,C0208,2026-04-08,Protein Powder,Health & Wellness,1799.0,1,UPI,Bengaluru,1799.0,2026-04,Wednesday,False
+ORD-10930,C0049,2026-04-09,Cotton T-Shirt,Fashion,599.0,1,Wallet,Bengaluru,599.0,2026-04,Thursday,False
+ORD-10931,C0129,2026-04-09,Green Tea Pack,Health & Wellness,349.0,1,UPI,Delhi,349.0,2026-04,Thursday,False
+ORD-10932,C0046,2026-04-10,Cotton T-Shirt,Fashion,599.0,1,Card,Mumbai,599.0,2026-04,Friday,False
+ORD-10933,C0060,2026-04-10,Backpack,Fashion,1499.0,2,COD,Kolkata,2998.0,2026-04,Friday,False
+ORD-10933,C0060,2026-04-10,Power Bank,Electronics,1299.0,2,COD,Kolkata,2598.0,2026-04,Friday,False
+ORD-10934,C0100,2026-04-10,Wireless Earbuds,Electronics,1999.0,1,Card,Jaipur,1999.0,2026-04,Friday,False
+ORD-10935,C0046,2026-04-11,Green Tea Pack,Health & Wellness,349.0,2,UPI,Mumbai,698.0,2026-04,Saturday,True
+ORD-10936,C0057,2026-04-11,Wireless Earbuds,Electronics,1999.0,1,UPI,Bengaluru,1999.0,2026-04,Saturday,True
+ORD-10937,C0060,2026-04-11,Power Bank,Electronics,1299.0,1,COD,Kolkata,1299.0,2026-04,Saturday,True
+ORD-10938,C0067,2026-04-11,Power Bank,Electronics,1299.0,1,UPI,Hyderabad,1299.0,2026-04,Saturday,True
+ORD-10939,C0091,2026-04-11,Desk Lamp,Home & Kitchen,899.0,2,COD,Bengaluru,1798.0,2026-04,Saturday,True
+ORD-10940,C0225,2026-04-11,Cotton T-Shirt,Fashion,599.0,1,Card,Kolkata,599.0,2026-04,Saturday,True
+ORD-10941,C0287,2026-04-11,Wireless Earbuds,Electronics,1999.0,1,UPI,Bengaluru,1999.0,2026-04,Saturday,True
+ORD-10942,C0019,2026-04-12,Green Tea Pack,Health & Wellness,349.0,1,Card,Mumbai,349.0,2026-04,Sunday,True
+ORD-10942,C0019,2026-04-12,Water Bottle,Home & Kitchen,499.0,1,Card,Mumbai,499.0,2026-04,Sunday,True
+ORD-10943,C0045,2026-04-12,Smartwatch,Electronics,4999.0,2,COD,Bengaluru,9998.0,2026-04,Sunday,True
+ORD-10943,C0045,2026-04-12,Wireless Earbuds,Electronics,1999.0,1,COD,Bengaluru,1999.0,2026-04,Sunday,True
+ORD-10944,C0123,2026-04-12,Cotton T-Shirt,Fashion,599.0,2,UPI,Kolkata,1198.0,2026-04,Sunday,True
+ORD-10945,C0171,2026-04-12,Power Bank,Electronics,1299.0,1,Card,Chennai,1299.0,2026-04,Sunday,True
+ORD-10946,C0182,2026-04-12,Backpack,Fashion,1499.0,2,Wallet,Hyderabad,2998.0,2026-04,Sunday,True
+ORD-10947,C0220,2026-04-12,Smartwatch,Electronics,0.4999,2,UPI,Pune,0.9998,2026-04,Sunday,True
+ORD-10948,C0231,2026-04-12,Cotton T-Shirt,Fashion,599.0,1,Card,Delhi,599.0,2026-04,Sunday,True
+ORD-10949,C0199,2026-04-13,Protein Powder,Health & Wellness,1799.0,2,COD,Delhi,3598.0,2026-04,Monday,False
+ORD-10950,C0027,2026-04-14,Green Tea Pack,Health & Wellness,349.0,3,UPI,Kolkata,1047.0,2026-04,Tuesday,False
+ORD-10951,C0031,2026-04-14,Wireless Earbuds,Electronics,1999.0,1,UPI,Mumbai,1999.0,2026-04,Tuesday,False
+ORD-10952,C0036,2026-04-14,Protein Powder,Health & Wellness,1799.0,2,Wallet,Mumbai,3598.0,2026-04,Tuesday,False
+ORD-10953,C0038,2026-04-14,Backpack,Fashion,1499.0,1,UPI,Mumbai,1499.0,2026-04,Tuesday,False
+ORD-10954,C0069,2026-04-14,Cushion Set,Home & Kitchen,799.0,2,Card,Mumbai,1598.0,2026-04,Tuesday,False
+ORD-10955,C0083,2026-04-14,Power Bank,Electronics,1299.0,1,UPI,Mumbai,1299.0,2026-04,Tuesday,False
+ORD-10956,C0271,2026-04-14,Protein Powder,Health & Wellness,1799.0,1,UPI,Hyderabad,1799.0,2026-04,Tuesday,False
+ORD-10957,C0283,2026-04-14,Backpack,Fashion,1499.0,2,Unknown,Jaipur,2998.0,2026-04,Tuesday,False
+ORD-10958,C0298,2026-04-14,Backpack,Fashion,1499.0,2,UPI,Pune,2998.0,2026-04,Tuesday,False
+ORD-10959,C0046,2026-04-15,Running Shoes,Fashion,2999.0,1,UPI,Mumbai,2999.0,2026-04,Wednesday,False
+ORD-10960,C0072,2026-04-15,Cotton T-Shirt,Fashion,599.0,1,COD,Mumbai,599.0,2026-04,Wednesday,False
+ORD-10961,C0146,2026-04-15,Green Tea Pack,Health & Wellness,349.0,2,UPI,Delhi,698.0,2026-04,Wednesday,False
+ORD-10962,C0299,2026-04-15,Backpack,Fashion,1499.0,1,COD,Bengaluru,1499.0,2026-04,Wednesday,False
+ORD-10963,C0081,2026-04-17,Green Tea Pack,Health & Wellness,349.0,1,Unknown,Jaipur,349.0,2026-04,Friday,False
+ORD-10964,C0180,2026-04-17,Backpack,Fashion,1499.0,1,UPI,Mumbai,1499.0,2026-04,Friday,False
+ORD-10965,C0277,2026-04-17,Cotton T-Shirt,Fashion,599.0,1,UPI,Chennai,599.0,2026-04,Friday,False
+ORD-10966,C0208,2026-04-18,Cushion Set,Home & Kitchen,799.0,3,Card,Bengaluru,2397.0,2026-04,Saturday,True
+ORD-10967,C0248,2026-04-18,Desk Lamp,Home & Kitchen,899.0,3,UPI,Delhi,2697.0,2026-04,Saturday,True
+ORD-10968,C0074,2026-04-19,Cushion Set,Home & Kitchen,799.0,3,UPI,Delhi,2397.0,2026-04,Sunday,True
+ORD-10969,C0100,2026-04-19,Power Bank,Electronics,1299.0,1,Wallet,Jaipur,1299.0,2026-04,Sunday,True
+ORD-10970,C0237,2026-04-19,Running Shoes,Fashion,2999.0,1,UPI,Hyderabad,2999.0,2026-04,Sunday,True
+ORD-10970,C0237,2026-04-19,Cotton T-Shirt,Fashion,599.0,2,UPI,Hyderabad,1198.0,2026-04,Sunday,True
+ORD-10971,C0266,2026-04-19,Cotton T-Shirt,Fashion,599.0,2,Card,Kolkata,1198.0,2026-04,Sunday,True
+ORD-10972,C0292,2026-04-19,Cotton T-Shirt,Fashion,599.0,2,Card,Mumbai,1198.0,2026-04,Sunday,True
+ORD-10973,C0075,2026-04-20,Cotton T-Shirt,Fashion,599.0,2,UPI,Hyderabad,1198.0,2026-04,Monday,False
+ORD-10974,C0119,2026-04-20,Cotton T-Shirt,Fashion,599.0,1,UPI,Delhi,599.0,2026-04,Monday,False
+ORD-10975,C0300,2026-04-20,Protein Powder,Health & Wellness,1799.0,1,UPI,Bengaluru,1799.0,2026-04,Monday,False
+ORD-10975,C0300,2026-04-20,Water Bottle,Home & Kitchen,499.0,1,UPI,Bengaluru,499.0,2026-04,Monday,False
+ORD-10976,C0131,2026-04-22,Wireless Earbuds,Electronics,1999.0,1,Wallet,Delhi,1999.0,2026-04,Wednesday,False
+ORD-10977,C0192,2026-04-22,Cushion Set,Home & Kitchen,799.0,1,UPI,Delhi,799.0,2026-04,Wednesday,False
+ORD-10978,C0292,2026-04-22,Desk Lamp,Home & Kitchen,899.0,1,UPI,Mumbai,899.0,2026-04,Wednesday,False
+ORD-10978,C0292,2026-04-22,Cushion Set,Home & Kitchen,799.0,3,UPI,Mumbai,2397.0,2026-04,Wednesday,False
+ORD-10979,C0157,2026-04-23,Power Bank,Electronics,1299.0,2,Wallet,Jaipur,2598.0,2026-04,Thursday,False
+ORD-10980,C0083,2026-04-24,Backpack,Fashion,1499.0,1,Card,Mumbai,1499.0,2026-04,Friday,False
+ORD-10981,C0198,2026-04-24,Power Bank,Electronics,1299.0,1,UPI,Jaipur,1299.0,2026-04,Friday,False
+ORD-10982,C0028,2026-04-25,Wireless Earbuds,Electronics,1999.0,2,UPI,Mumbai,3998.0,2026-04,Saturday,True
+ORD-10982,C0028,2026-04-25,Power Bank,Electronics,1299.0,1,UPI,Mumbai,1299.0,2026-04,Saturday,True
+ORD-10983,C0074,2026-04-25,Power Bank,Electronics,1299.0,2,UPI,Delhi,2598.0,2026-04,Saturday,True
+ORD-10984,C0106,2026-04-25,Water Bottle,Home & Kitchen,499.0,1,UPI,Hyderabad,499.0,2026-04,Saturday,True
+ORD-10985,C0246,2026-04-25,Wireless Earbuds,Electronics,1999.0,1,UPI,Jaipur,1999.0,2026-04,Saturday,True
+ORD-10986,C0099,2026-04-26,Cotton T-Shirt,Fashion,599.0,1,UPI,Mumbai,599.0,2026-04,Sunday,True
+ORD-10987,C0177,2026-04-26,Green Tea Pack,Health & Wellness,349.0,1,UPI,Delhi,349.0,2026-04,Sunday,True
+ORD-10987,C0177,2026-04-26,Wireless Earbuds,Electronics,1999.0,1,UPI,Delhi,1999.0,2026-04,Sunday,True
+ORD-10988,C0216,2026-04-26,Cotton T-Shirt,Fashion,599.0,1,COD,Bengaluru,599.0,2026-04,Sunday,True
+ORD-10989,C0263,2026-04-26,Backpack,Fashion,1499.0,1,Wallet,Delhi,1499.0,2026-04,Sunday,True
+ORD-10989,C0263,2026-04-26,Cotton T-Shirt,Fashion,599.0,1,Wallet,Delhi,599.0,2026-04,Sunday,True
+ORD-10990,C0292,2026-04-26,Power Bank,Electronics,1299.0,1,UPI,Mumbai,1299.0,2026-04,Sunday,True
+ORD-10990,C0292,2026-04-26,Cushion Set,Home & Kitchen,799.0,3,UPI,Mumbai,2397.0,2026-04,Sunday,True
+ORD-10991,C0300,2026-04-26,Wireless Earbuds,Electronics,1999.0,1,COD,Bengaluru,1999.0,2026-04,Sunday,True
+ORD-10991,C0300,2026-04-26,Green Tea Pack,Health & Wellness,349.0,1,COD,Bengaluru,349.0,2026-04,Sunday,True
+ORD-10992,C0019,2026-04-27,Running Shoes,Fashion,2999.0,1,COD,Mumbai,2999.0,2026-04,Monday,False
+ORD-10992,C0019,2026-04-27,Cotton T-Shirt,Fashion,599.0,2,COD,Mumbai,1198.0,2026-04,Monday,False
+ORD-10993,C0100,2026-04-27,Wireless Earbuds,Electronics,1999.0,1,UPI,Jaipur,1999.0,2026-04,Monday,False
+ORD-10994,C0191,2026-04-27,Wireless Earbuds,Electronics,1999.0,1,UPI,Mumbai,1999.0,2026-04,Monday,False
+ORD-10994,C0191,2026-04-27,Power Bank,Electronics,1299.0,1,UPI,Mumbai,1299.0,2026-04,Monday,False
+ORD-10995,C0131,2026-04-28,Running Shoes,Fashion,2999.0,1,Card,Delhi,2999.0,2026-04,Tuesday,False
+ORD-10995,C0131,2026-04-28,Cotton T-Shirt,Fashion,599.0,3,Card,Delhi,1797.0,2026-04,Tuesday,False
+ORD-10996,C0197,2026-04-28,Running Shoes,Fashion,2999.0,1,COD,Hyderabad,2999.0,2026-04,Tuesday,False
+ORD-10997,C0216,2026-04-28,Green Tea Pack,Health & Wellness,349.0,3,UPI,Bengaluru,1047.0,2026-04,Tuesday,False
+ORD-10998,C0253,2026-04-28,Wireless Earbuds,Electronics,1999.0,1,Wallet,Pune,1999.0,2026-04,Tuesday,False
+ORD-10999,C0296,2026-04-28,Green Tea Pack,Health & Wellness,349.0,1,Card,Mumbai,349.0,2026-04,Tuesday,False
+ORD-11000,C0037,2026-04-29,Cotton T-Shirt,Fashion,599.0,2,Card,Bengaluru,1198.0,2026-04,Wednesday,False
+ORD-11001,C0216,2026-04-29,Protein Powder,Health & Wellness,1799.0,2,UPI,Bengaluru,3598.0,2026-04,Wednesday,False
+ORD-11002,C0254,2026-04-29,Power Bank,Electronics,1299.0,2,Wallet,Bengaluru,2598.0,2026-04,Wednesday,False
+ORD-11003,C0285,2026-04-30,Power Bank,Electronics,1299.0,1,UPI,Mumbai,1299.0,2026-04,Thursday,False
+ORD-11004,C0002,2026-05-01,Wireless Earbuds,Electronics,0.1999,1,UPI,Mumbai,0.1999,2026-05,Friday,False
+ORD-11005,C0006,2026-05-01,Green Tea Pack,Health & Wellness,349.0,1,UPI,Bengaluru,349.0,2026-05,Friday,False
+ORD-11006,C0030,2026-05-01,Green Tea Pack,Health & Wellness,349.0,1,COD,Hyderabad,349.0,2026-05,Friday,False
+ORD-11007,C0058,2026-05-01,Cotton T-Shirt,Fashion,599.0,1,UPI,Delhi,599.0,2026-05,Friday,False
+ORD-11007,C0058,2026-05-01,Wireless Earbuds,Electronics,1999.0,1,UPI,Delhi,1999.0,2026-05,Friday,False
+ORD-11008,C0170,2026-05-01,Backpack,Fashion,1499.0,1,COD,Bengaluru,1499.0,2026-05,Friday,False
+ORD-11009,C0041,2026-05-02,Backpack,Fashion,1499.0,2,UPI,Kolkata,2998.0,2026-05,Saturday,True
+ORD-11010,C0075,2026-05-02,Running Shoes,Fashion,2999.0,2,COD,Hyderabad,5998.0,2026-05,Saturday,True
+ORD-11011,C0078,2026-05-03,Wireless Earbuds,Electronics,0.1999,2,UPI,Delhi,0.3998,2026-05,Sunday,True
+ORD-11012,C0123,2026-05-03,Wireless Earbuds,Electronics,1999.0,1,Card,Kolkata,1999.0,2026-05,Sunday,True
+ORD-11013,C0210,2026-05-03,Backpack,Fashion,1499.0,1,COD,Bengaluru,1499.0,2026-05,Sunday,True
+ORD-11014,C0252,2026-05-03,Cotton T-Shirt,Fashion,599.0,1,Wallet,Chennai,599.0,2026-05,Sunday,True
+ORD-11015,C0272,2026-05-03,Protein Powder,Health & Wellness,1799.0,1,Wallet,Jaipur,1799.0,2026-05,Sunday,True
+ORD-11016,C0291,2026-05-03,Wireless Earbuds,Electronics,1999.0,1,UPI,Mumbai,1999.0,2026-05,Sunday,True
+ORD-11017,C0019,2026-05-04,Green Tea Pack,Health & Wellness,349.0,1,UPI,Mumbai,349.0,2026-05,Monday,False
+ORD-11018,C0046,2026-05-04,Running Shoes,Fashion,0.2999,1,UPI,Mumbai,0.2999,2026-05,Monday,False
+ORD-11165,C0106,2026-07-04,Desk Lamp,Home & Kitchen,899.0,1,Wallet,Hyderabad,899.0,2026-07,Saturday,True
+ORD-11019,C0054,2026-05-04,Wireless Earbuds,Electronics,1999.0,1,UPI,Chennai,1999.0,2026-05,Monday,False
+ORD-11020,C0057,2026-05-04,Running Shoes,Fashion,2999.0,1,UPI,Bengaluru,2999.0,2026-05,Monday,False
+ORD-11020,C0057,2026-05-04,Cotton T-Shirt,Fashion,599.0,2,UPI,Bengaluru,1198.0,2026-05,Monday,False
+ORD-11021,C0133,2026-05-04,Wireless Earbuds,Electronics,1999.0,2,Card,Mumbai,3998.0,2026-05,Monday,False
+ORD-11024,C0229,2026-05-05,Green Tea Pack,Health & Wellness,349.0,3,COD,Hyderabad,1047.0,2026-05,Tuesday,False
+ORD-11021,C0133,2026-05-04,Power Bank,Electronics,1299.0,1,Card,Mumbai,1299.0,2026-05,Monday,False
+ORD-11022,C0121,2026-05-05,Green Tea Pack,Health & Wellness,349.0,1,UPI,Hyderabad,349.0,2026-05,Tuesday,False
+ORD-11023,C0223,2026-05-05,Backpack,Fashion,1499.0,2,UPI,Bengaluru,2998.0,2026-05,Tuesday,False
+ORD-11025,C0285,2026-05-05,Cotton T-Shirt,Fashion,599.0,1,Card,Mumbai,599.0,2026-05,Tuesday,False
+ORD-11026,C0029,2026-05-06,Cotton T-Shirt,Fashion,599.0,1,UPI,Mumbai,599.0,2026-05,Wednesday,False
+ORD-11026,C0029,2026-05-06,Running Shoes,Fashion,2999.0,1,UPI,Mumbai,2999.0,2026-05,Wednesday,False
+ORD-11027,C0157,2026-05-06,Backpack,Fashion,0.1499,1,COD,Jaipur,0.1499,2026-05,Wednesday,False
+ORD-11028,C0159,2026-05-06,Green Tea Pack,Health & Wellness,349.0,1,COD,Chennai,349.0,2026-05,Wednesday,False
+ORD-11029,C0229,2026-05-06,Protein Powder,Health & Wellness,1799.0,1,UPI,Hyderabad,1799.0,2026-05,Wednesday,False
+ORD-11030,C0264,2026-05-06,Water Bottle,Home & Kitchen,499.0,3,UPI,Bengaluru,1497.0,2026-05,Wednesday,False
+ORD-11031,C0127,2026-05-07,Wireless Earbuds,Electronics,1999.0,2,Card,Mumbai,3998.0,2026-05,Thursday,False
+ORD-11032,C0163,2026-05-07,Bluetooth Speaker,Electronics,2499.0,1,Card,Bengaluru,2499.0,2026-05,Thursday,False
+ORD-11033,C0075,2026-05-08,Backpack,Fashion,1499.0,1,Card,Hyderabad,1499.0,2026-05,Friday,False
+ORD-11034,C0095,2026-05-08,Protein Powder,Health & Wellness,1799.0,1,UPI,Pune,1799.0,2026-05,Friday,False
+ORD-11035,C0231,2026-05-08,Cotton T-Shirt,Fashion,599.0,1,UPI,Delhi,599.0,2026-05,Friday,False
+ORD-11036,C0243,2026-05-08,Backpack,Fashion,1499.0,1,UPI,Delhi,1499.0,2026-05,Friday,False
+ORD-11037,C0029,2026-05-09,Wireless Earbuds,Electronics,1999.0,1,Card,Mumbai,1999.0,2026-05,Saturday,True
+ORD-11037,C0029,2026-05-09,Power Bank,Electronics,1299.0,1,Card,Mumbai,1299.0,2026-05,Saturday,True
+ORD-11038,C0133,2026-05-10,Water Bottle,Home & Kitchen,499.0,2,Wallet,Mumbai,998.0,2026-05,Sunday,True
+ORD-11039,C0202,2026-05-10,Power Bank,Electronics,1299.0,1,UPI,Hyderabad,1299.0,2026-05,Sunday,True
+ORD-11040,C0287,2026-05-10,Power Bank,Electronics,1299.0,1,UPI,Bengaluru,1299.0,2026-05,Sunday,True
+ORD-11041,C0075,2026-05-11,Running Shoes,Fashion,2999.0,1,UPI,Hyderabad,2999.0,2026-05,Monday,False
+ORD-11042,C0274,2026-05-11,Power Bank,Electronics,1299.0,1,UPI,Pune,1299.0,2026-05,Monday,False
+ORD-11043,C0069,2026-05-12,Cushion Set,Home & Kitchen,799.0,1,UPI,Mumbai,799.0,2026-05,Tuesday,False
+ORD-11044,C0180,2026-05-12,Cotton T-Shirt,Fashion,599.0,1,Wallet,Mumbai,599.0,2026-05,Tuesday,False
+ORD-11045,C0231,2026-05-12,Water Bottle,Home & Kitchen,499.0,1,Card,Delhi,499.0,2026-05,Tuesday,False
+ORD-11046,C0010,2026-05-13,Cushion Set,Home & Kitchen,799.0,3,UPI,Hyderabad,2397.0,2026-05,Wednesday,False
+ORD-11047,C0045,2026-05-13,Green Tea Pack,Health & Wellness,349.0,1,COD,Bengaluru,349.0,2026-05,Wednesday,False
+ORD-11048,C0283,2026-05-13,Backpack,Fashion,1499.0,1,COD,Jaipur,1499.0,2026-05,Wednesday,False
+ORD-11049,C0049,2026-05-14,Protein Powder,Health & Wellness,1799.0,1,Card,Bengaluru,1799.0,2026-05,Thursday,False
+ORD-11050,C0228,2026-05-14,Wireless Earbuds,Electronics,1999.0,1,UPI,Kolkata,1999.0,2026-05,Thursday,False
+ORD-11051,C0257,2026-05-14,Running Shoes,Fashion,2999.0,1,UPI,Pune,2999.0,2026-05,Thursday,False
+ORD-11053,C0074,2026-05-15,Water Bottle,Home & Kitchen,499.0,2,Card,Delhi,998.0,2026-05,Friday,False
+ORD-11054,C0119,2026-05-15,Running Shoes,Fashion,2999.0,2,Card,Delhi,5998.0,2026-05,Friday,False
+ORD-11055,C0163,2026-05-15,Green Tea Pack,Health & Wellness,349.0,2,UPI,Bengaluru,698.0,2026-05,Friday,False
+ORD-11055,C0163,2026-05-15,Power Bank,Electronics,1299.0,2,UPI,Bengaluru,2598.0,2026-05,Friday,False
+ORD-11056,C0237,2026-05-15,Cotton T-Shirt,Fashion,599.0,3,Card,Hyderabad,1797.0,2026-05,Friday,False
+ORD-11057,C0010,2026-05-17,Green Tea Pack,Health & Wellness,349.0,2,UPI,Hyderabad,698.0,2026-05,Sunday,True
+ORD-11058,C0056,2026-05-17,Green Tea Pack,Health & Wellness,349.0,2,UPI,Delhi,698.0,2026-05,Sunday,True
+ORD-11059,C0287,2026-05-18,Desk Lamp,Home & Kitchen,0.899,2,Card,Bengaluru,1.798,2026-05,Monday,False
+ORD-11060,C0005,2026-05-19,Backpack,Fashion,1499.0,1,Card,Jaipur,1499.0,2026-05,Tuesday,False
+ORD-11061,C0054,2026-05-19,Cotton T-Shirt,Fashion,599.0,2,Wallet,Chennai,1198.0,2026-05,Tuesday,False
+ORD-11062,C0131,2026-05-19,Cotton T-Shirt,Fashion,599.0,1,Card,Delhi,599.0,2026-05,Tuesday,False
+ORD-11063,C0218,2026-05-19,Cotton T-Shirt,Fashion,599.0,1,Card,Chennai,599.0,2026-05,Tuesday,False
+ORD-11064,C0030,2026-05-20,Cushion Set,Home & Kitchen,799.0,1,UPI,Hyderabad,799.0,2026-05,Wednesday,False
+ORD-11065,C0095,2026-05-20,Cushion Set,Home & Kitchen,799.0,1,Wallet,Pune,799.0,2026-05,Wednesday,False
+ORD-11066,C0193,2026-05-20,Wireless Earbuds,Electronics,1999.0,1,COD,Delhi,1999.0,2026-05,Wednesday,False
+ORD-11066,C0193,2026-05-20,Power Bank,Electronics,1299.0,1,COD,Delhi,1299.0,2026-05,Wednesday,False
+ORD-11066,C0193,2026-05-20,Smartwatch,Electronics,4999.0,1,COD,Delhi,4999.0,2026-05,Wednesday,False
+ORD-11067,C0052,2026-05-21,Desk Lamp,Home & Kitchen,899.0,3,UPI,Mumbai,2697.0,2026-05,Thursday,False
+ORD-11068,C0149,2026-05-21,Green Tea Pack,Health & Wellness,349.0,3,Card,Kolkata,1047.0,2026-05,Thursday,False
+ORD-11069,C0220,2026-05-22,Wireless Earbuds,Electronics,1999.0,2,Card,Pune,3998.0,2026-05,Friday,False
+ORD-11069,C0220,2026-05-22,Cushion Set,Home & Kitchen,799.0,3,Card,Pune,2397.0,2026-05,Friday,False
+ORD-11070,C0298,2026-05-22,Cotton T-Shirt,Fashion,599.0,2,UPI,Pune,1198.0,2026-05,Friday,False
+ORD-11071,C0133,2026-05-23,Power Bank,Electronics,1299.0,1,Card,Mumbai,1299.0,2026-05,Saturday,True
+ORD-11072,C0275,2026-05-23,Cotton T-Shirt,Fashion,599.0,1,UPI,Kolkata,599.0,2026-05,Saturday,True
+ORD-11073,C0050,2026-05-24,Green Tea Pack,Health & Wellness,349.0,1,Card,Bengaluru,349.0,2026-05,Sunday,True
+ORD-11074,C0297,2026-05-24,Water Bottle,Home & Kitchen,499.0,1,COD,Hyderabad,499.0,2026-05,Sunday,True
+ORD-11075,C0275,2026-05-25,Backpack,Fashion,1499.0,1,UPI,Kolkata,1499.0,2026-05,Monday,False
+ORD-11076,C0055,2026-05-26,Smartwatch,Electronics,4999.0,1,Card,Kolkata,4999.0,2026-05,Tuesday,False
+ORD-11077,C0155,2026-05-26,Desk Lamp,Home & Kitchen,899.0,2,Card,Chennai,1798.0,2026-05,Tuesday,False
+ORD-11078,C0127,2026-05-27,Wireless Earbuds,Electronics,1999.0,2,UPI,Mumbai,3998.0,2026-05,Wednesday,False
+ORD-11079,C0177,2026-05-27,Wireless Earbuds,Electronics,0.1999,1,Card,Delhi,0.1999,2026-05,Wednesday,False
+ORD-11079,C0177,2026-05-27,Power Bank,Electronics,1299.0,2,Card,Delhi,2598.0,2026-05,Wednesday,False
+ORD-11080,C0287,2026-05-27,Wireless Earbuds,Electronics,1999.0,1,Card,Bengaluru,1999.0,2026-05,Wednesday,False
+ORD-11081,C0180,2026-05-28,Cotton T-Shirt,Fashion,599.0,1,UPI,Mumbai,599.0,2026-05,Thursday,False
+ORD-11082,C0045,2026-05-29,Green Tea Pack,Health & Wellness,349.0,1,UPI,Bengaluru,349.0,2026-05,Friday,False
+ORD-11083,C0086,2026-05-29,Green Tea Pack,Health & Wellness,349.0,2,UPI,Mumbai,698.0,2026-05,Friday,False
+ORD-11083,C0086,2026-05-29,Protein Powder,Health & Wellness,1799.0,1,UPI,Mumbai,1799.0,2026-05,Friday,False
+ORD-11084,C0111,2026-05-29,Green Tea Pack,Health & Wellness,349.0,3,UPI,Mumbai,1047.0,2026-05,Friday,False
+ORD-11085,C0188,2026-05-29,Bluetooth Speaker,Electronics,2499.0,1,UPI,Delhi,2499.0,2026-05,Friday,False
+ORD-11086,C0253,2026-05-29,Green Tea Pack,Health & Wellness,349.0,1,Card,Pune,349.0,2026-05,Friday,False
+ORD-11086,C0253,2026-05-29,Cushion Set,Home & Kitchen,799.0,1,Card,Pune,799.0,2026-05,Friday,False
+ORD-11087,C0055,2026-05-30,Power Bank,Electronics,1299.0,1,COD,Kolkata,1299.0,2026-05,Saturday,True
+ORD-11088,C0085,2026-05-30,Backpack,Fashion,1499.0,1,Card,Mumbai,1499.0,2026-05,Saturday,True
+ORD-11089,C0146,2026-05-30,Protein Powder,Health & Wellness,1799.0,2,Card,Delhi,3598.0,2026-05,Saturday,True
+ORD-11090,C0275,2026-05-30,Backpack,Fashion,1499.0,2,UPI,Kolkata,2998.0,2026-05,Saturday,True
+ORD-11091,C0005,2026-05-31,Protein Powder,Health & Wellness,1799.0,1,Card,Jaipur,1799.0,2026-05,Sunday,True
+ORD-11092,C0039,2026-05-31,Wireless Earbuds,Electronics,1999.0,1,COD,Delhi,1999.0,2026-05,Sunday,True
+ORD-11092,C0039,2026-05-31,Desk Lamp,Home & Kitchen,899.0,1,COD,Delhi,899.0,2026-05,Sunday,True
+ORD-11187,C0053,2026-07-12,Power Bank,Electronics,1299.0,1,UPI,Kolkata,1299.0,2026-07,Sunday,True
+ORD-11093,C0076,2026-06-01,Water Bottle,Home & Kitchen,499.0,2,UPI,Kolkata,998.0,2026-06,Monday,False
+ORD-11093,C0076,2026-06-01,Cotton T-Shirt,Fashion,599.0,1,UPI,Kolkata,599.0,2026-06,Monday,False
+ORD-11094,C0193,2026-06-01,Wireless Earbuds,Electronics,1999.0,1,COD,Delhi,1999.0,2026-06,Monday,False
+ORD-11095,C0050,2026-06-02,Cotton T-Shirt,Fashion,599.0,1,COD,Bengaluru,599.0,2026-06,Tuesday,False
+ORD-11096,C0254,2026-06-02,Power Bank,Electronics,1299.0,2,UPI,Bengaluru,2598.0,2026-06,Tuesday,False
+ORD-11097,C0291,2026-06-02,Desk Lamp,Home & Kitchen,899.0,3,Card,Mumbai,2697.0,2026-06,Tuesday,False
+ORD-11097,C0291,2026-06-02,Bluetooth Speaker,Electronics,0.2499,2,Card,Mumbai,0.4998,2026-06,Tuesday,False
+ORD-11098,C0090,2026-06-03,Backpack,Fashion,1499.0,2,Wallet,Kolkata,2998.0,2026-06,Wednesday,False
+ORD-11099,C0157,2026-06-03,Backpack,Fashion,1499.0,2,Card,Jaipur,2998.0,2026-06,Wednesday,False
+ORD-11100,C0238,2026-06-03,Green Tea Pack,Health & Wellness,349.0,1,Card,Pune,349.0,2026-06,Wednesday,False
+ORD-11101,C0275,2026-06-03,Cotton T-Shirt,Fashion,599.0,1,UPI,Kolkata,599.0,2026-06,Wednesday,False
+ORD-11102,C0060,2026-06-05,Cotton T-Shirt,Fashion,599.0,2,UPI,Kolkata,1198.0,2026-06,Friday,False
+ORD-11103,C0226,2026-06-05,Power Bank,Electronics,1299.0,1,Card,Mumbai,1299.0,2026-06,Friday,False
+ORD-11104,C0296,2026-06-05,Green Tea Pack,Health & Wellness,349.0,1,UPI,Mumbai,349.0,2026-06,Friday,False
+ORD-11104,C0296,2026-06-05,Protein Powder,Health & Wellness,0.1799,1,UPI,Mumbai,0.1799,2026-06,Friday,False
+ORD-11105,C0083,2026-06-07,Cotton T-Shirt,Fashion,599.0,3,UPI,Mumbai,1797.0,2026-06,Sunday,True
+ORD-11106,C0153,2026-06-07,Cushion Set,Home & Kitchen,799.0,3,UPI,Mumbai,2397.0,2026-06,Sunday,True
+ORD-11107,C0272,2026-06-07,Green Tea Pack,Health & Wellness,349.0,1,Card,Jaipur,349.0,2026-06,Sunday,True
+ORD-11108,C0137,2026-06-08,Water Bottle,Home & Kitchen,499.0,3,Card,Mumbai,1497.0,2026-06,Monday,False
+ORD-11109,C0042,2026-06-09,Bluetooth Speaker,Electronics,2499.0,1,UPI,Delhi,2499.0,2026-06,Tuesday,False
+ORD-11110,C0057,2026-06-11,Power Bank,Electronics,1299.0,1,COD,Bengaluru,1299.0,2026-06,Thursday,False
+ORD-11111,C0237,2026-06-11,Running Shoes,Fashion,2999.0,1,UPI,Hyderabad,2999.0,2026-06,Thursday,False
+ORD-11112,C0010,2026-06-12,Green Tea Pack,Health & Wellness,349.0,2,COD,Hyderabad,698.0,2026-06,Friday,False
+ORD-11113,C0028,2026-06-12,Desk Lamp,Home & Kitchen,899.0,3,COD,Mumbai,2697.0,2026-06,Friday,False
+ORD-11113,C0028,2026-06-12,Cushion Set,Home & Kitchen,799.0,1,COD,Mumbai,799.0,2026-06,Friday,False
+ORD-11114,C0197,2026-06-12,Wireless Earbuds,Electronics,1999.0,2,Card,Hyderabad,3998.0,2026-06,Friday,False
+ORD-11114,C0197,2026-06-12,Power Bank,Electronics,1299.0,1,Card,Hyderabad,1299.0,2026-06,Friday,False
+ORD-11115,C0010,2026-06-13,Protein Powder,Health & Wellness,0.1799,1,Card,Hyderabad,0.1799,2026-06,Saturday,True
+ORD-11116,C0147,2026-06-13,Protein Powder,Health & Wellness,1799.0,2,UPI,Bengaluru,3598.0,2026-06,Saturday,True
+ORD-11117,C0234,2026-06-13,Bluetooth Speaker,Electronics,2499.0,1,UPI,Delhi,2499.0,2026-06,Saturday,True
+ORD-11118,C0295,2026-06-13,Green Tea Pack,Health & Wellness,349.0,2,UPI,Chennai,698.0,2026-06,Saturday,True
+ORD-11119,C0155,2026-06-14,Green Tea Pack,Health & Wellness,349.0,1,UPI,Chennai,349.0,2026-06,Sunday,True
+ORD-11119,C0155,2026-06-14,Bluetooth Speaker,Electronics,2499.0,2,UPI,Chennai,4998.0,2026-06,Sunday,True
+ORD-11120,C0160,2026-06-14,Smartwatch,Electronics,4999.0,1,UPI,Hyderabad,4999.0,2026-06,Sunday,True
+ORD-11121,C0169,2026-06-14,Smartwatch,Electronics,4999.0,2,Card,Delhi,9998.0,2026-06,Sunday,True
+ORD-11122,C0264,2026-06-14,Cotton T-Shirt,Fashion,599.0,1,UPI,Bengaluru,599.0,2026-06,Sunday,True
+ORD-11123,C0146,2026-06-15,Backpack,Fashion,1499.0,2,UPI,Delhi,2998.0,2026-06,Monday,False
+ORD-11124,C0194,2026-06-15,Cotton T-Shirt,Fashion,599.0,1,COD,Jaipur,599.0,2026-06,Monday,False
+ORD-11125,C0088,2026-06-16,Power Bank,Electronics,1299.0,1,UPI,Delhi,1299.0,2026-06,Tuesday,False
+ORD-11125,C0088,2026-06-16,Water Bottle,Home & Kitchen,499.0,2,UPI,Delhi,998.0,2026-06,Tuesday,False
+ORD-11125,C0088,2026-06-16,Green Tea Pack,Health & Wellness,349.0,1,UPI,Delhi,349.0,2026-06,Tuesday,False
+ORD-11126,C0102,2026-06-17,Running Shoes,Fashion,2999.0,1,UPI,Chennai,2999.0,2026-06,Wednesday,False
+ORD-11127,C0115,2026-06-17,Desk Lamp,Home & Kitchen,899.0,3,Wallet,Mumbai,2697.0,2026-06,Wednesday,False
+ORD-11128,C0127,2026-06-18,Smartwatch,Electronics,4999.0,1,COD,Mumbai,4999.0,2026-06,Thursday,False
+ORD-11128,C0127,2026-06-18,Wireless Earbuds,Electronics,1999.0,1,COD,Mumbai,1999.0,2026-06,Thursday,False
+ORD-11129,C0154,2026-06-18,Cotton T-Shirt,Fashion,599.0,1,Card,Jaipur,599.0,2026-06,Thursday,False
+ORD-11130,C0183,2026-06-19,Water Bottle,Home & Kitchen,499.0,1,UPI,Jaipur,499.0,2026-06,Friday,False
+ORD-11131,C0154,2026-06-20,Backpack,Fashion,1499.0,1,UPI,Jaipur,1499.0,2026-06,Saturday,True
+ORD-11132,C0197,2026-06-20,Wireless Earbuds,Electronics,1999.0,2,UPI,Hyderabad,3998.0,2026-06,Saturday,True
+ORD-11132,C0197,2026-06-20,Power Bank,Electronics,1299.0,1,UPI,Hyderabad,1299.0,2026-06,Saturday,True
+ORD-11133,C0220,2026-06-20,Power Bank,Electronics,1299.0,2,UPI,Pune,2598.0,2026-06,Saturday,True
+ORD-11134,C0279,2026-06-20,Desk Lamp,Home & Kitchen,899.0,1,Card,Delhi,899.0,2026-06,Saturday,True
+ORD-11135,C0292,2026-06-20,Desk Lamp,Home & Kitchen,899.0,3,COD,Mumbai,2697.0,2026-06,Saturday,True
+ORD-11136,C0013,2026-06-21,Wireless Earbuds,Electronics,1999.0,2,UPI,Hyderabad,3998.0,2026-06,Sunday,True
+ORD-11136,C0013,2026-06-21,Power Bank,Electronics,1299.0,2,UPI,Hyderabad,2598.0,2026-06,Sunday,True
+ORD-11137,C0045,2026-06-21,Protein Powder,Health & Wellness,1799.0,1,Card,Bengaluru,1799.0,2026-06,Sunday,True
+ORD-11137,C0045,2026-06-21,Water Bottle,Home & Kitchen,499.0,1,Card,Bengaluru,499.0,2026-06,Sunday,True
+ORD-11138,C0169,2026-06-21,Running Shoes,Fashion,2999.0,2,Card,Delhi,5998.0,2026-06,Sunday,True
+ORD-11139,C0238,2026-06-21,Protein Powder,Health & Wellness,1799.0,1,COD,Pune,1799.0,2026-06,Sunday,True
+ORD-11140,C0260,2026-06-23,Backpack,Fashion,1499.0,2,UPI,Delhi,2998.0,2026-06,Tuesday,False
+ORD-11141,C0300,2026-06-23,Protein Powder,Health & Wellness,1799.0,1,UPI,Bengaluru,1799.0,2026-06,Tuesday,False
+ORD-11142,C0169,2026-06-24,Smartwatch,Electronics,4999.0,1,COD,Delhi,4999.0,2026-06,Wednesday,False
+ORD-11142,C0169,2026-06-24,Wireless Earbuds,Electronics,1999.0,1,COD,Delhi,1999.0,2026-06,Wednesday,False
+ORD-11143,C0169,2026-06-24,Smartwatch,Electronics,4999.0,1,Card,Delhi,4999.0,2026-06,Wednesday,False
+ORD-11143,C0169,2026-06-24,Wireless Earbuds,Electronics,1999.0,1,Card,Delhi,1999.0,2026-06,Wednesday,False
+ORD-11144,C0162,2026-06-25,Cushion Set,Home & Kitchen,799.0,3,Card,Hyderabad,2397.0,2026-06,Thursday,False
+ORD-11145,C0196,2026-06-26,Protein Powder,Health & Wellness,1799.0,2,UPI,Jaipur,3598.0,2026-06,Friday,False
+ORD-11145,C0196,2026-06-26,Water Bottle,Home & Kitchen,499.0,3,UPI,Jaipur,1497.0,2026-06,Friday,False
+ORD-11146,C0271,2026-06-26,Green Tea Pack,Health & Wellness,349.0,1,Card,Hyderabad,349.0,2026-06,Friday,False
+ORD-11147,C0008,2026-06-27,Running Shoes,Fashion,2999.0,2,UPI,Delhi,5998.0,2026-06,Saturday,True
+ORD-11148,C0180,2026-06-27,Backpack,Fashion,1499.0,1,Card,Mumbai,1499.0,2026-06,Saturday,True
+ORD-11149,C0028,2026-06-28,Desk Lamp,Home & Kitchen,899.0,1,UPI,Mumbai,899.0,2026-06,Sunday,True
+ORD-11149,C0028,2026-06-28,Cushion Set,Home & Kitchen,799.0,1,UPI,Mumbai,799.0,2026-06,Sunday,True
+ORD-11150,C0055,2026-06-28,Smartwatch,Electronics,4999.0,1,Card,Kolkata,4999.0,2026-06,Sunday,True
+ORD-11151,C0077,2026-06-28,Backpack,Fashion,0.1499,1,UPI,Delhi,0.1499,2026-06,Sunday,True
+ORD-11152,C0171,2026-06-28,Running Shoes,Fashion,2999.0,1,COD,Chennai,2999.0,2026-06,Sunday,True
+ORD-11153,C0023,2026-06-29,Green Tea Pack,Health & Wellness,349.0,3,UPI,Mumbai,1047.0,2026-06,Monday,False
+ORD-11154,C0090,2026-06-29,Water Bottle,Home & Kitchen,499.0,2,UPI,Kolkata,998.0,2026-06,Monday,False
+ORD-11155,C0143,2026-06-29,Water Bottle,Home & Kitchen,499.0,1,Card,Bengaluru,499.0,2026-06,Monday,False
+ORD-11156,C0054,2026-06-30,Running Shoes,Fashion,2999.0,1,UPI,Chennai,2999.0,2026-06,Tuesday,False
+ORD-11156,C0054,2026-06-30,Cotton T-Shirt,Fashion,599.0,1,UPI,Chennai,599.0,2026-06,Tuesday,False
+ORD-11157,C0264,2026-06-30,Green Tea Pack,Health & Wellness,349.0,1,UPI,Bengaluru,349.0,2026-06,Tuesday,False
+ORD-11158,C0296,2026-06-30,Green Tea Pack,Health & Wellness,349.0,2,Card,Mumbai,698.0,2026-06,Tuesday,False
+ORD-11159,C0066,2026-07-02,Bluetooth Speaker,Electronics,2499.0,1,Card,Bengaluru,2499.0,2026-07,Thursday,False
+ORD-11160,C0131,2026-07-02,Water Bottle,Home & Kitchen,499.0,1,Unknown,Delhi,499.0,2026-07,Thursday,False
+ORD-11161,C0229,2026-07-02,Protein Powder,Health & Wellness,1799.0,2,Card,Hyderabad,3598.0,2026-07,Thursday,False
+ORD-11162,C0009,2026-07-03,Cushion Set,Home & Kitchen,799.0,1,COD,Hyderabad,799.0,2026-07,Friday,False
+ORD-11162,C0009,2026-07-03,Backpack,Fashion,1499.0,1,COD,Hyderabad,1499.0,2026-07,Friday,False
+ORD-11163,C0069,2026-07-03,Cushion Set,Home & Kitchen,799.0,2,Card,Mumbai,1598.0,2026-07,Friday,False
+ORD-11164,C0247,2026-07-03,Power Bank,Electronics,1299.0,2,Wallet,Mumbai,2598.0,2026-07,Friday,False
+ORD-11166,C0210,2026-07-04,Backpack,Fashion,1499.0,1,UPI,Bengaluru,1499.0,2026-07,Saturday,True
+ORD-11167,C0099,2026-07-05,Backpack,Fashion,1499.0,1,UPI,Mumbai,1499.0,2026-07,Sunday,True
+ORD-11168,C0207,2026-07-05,Protein Powder,Health & Wellness,1799.0,1,UPI,Delhi,1799.0,2026-07,Sunday,True
+ORD-11168,C0207,2026-07-05,Water Bottle,Home & Kitchen,499.0,3,UPI,Delhi,1497.0,2026-07,Sunday,True
+ORD-11169,C0220,2026-07-05,Green Tea Pack,Health & Wellness,349.0,2,Card,Pune,698.0,2026-07,Sunday,True
+ORD-11170,C0272,2026-07-05,Protein Powder,Health & Wellness,1799.0,1,UPI,Jaipur,1799.0,2026-07,Sunday,True
+ORD-11171,C0054,2026-07-06,Backpack,Fashion,1499.0,1,UPI,Chennai,1499.0,2026-07,Monday,False
+ORD-11172,C0109,2026-07-06,Desk Lamp,Home & Kitchen,899.0,2,UPI,Bengaluru,1798.0,2026-07,Monday,False
+ORD-11172,C0109,2026-07-06,Cushion Set,Home & Kitchen,799.0,2,UPI,Bengaluru,1598.0,2026-07,Monday,False
+ORD-11173,C0235,2026-07-06,Green Tea Pack,Health & Wellness,349.0,2,UPI,Mumbai,698.0,2026-07,Monday,False
+ORD-11174,C0009,2026-07-07,Cotton T-Shirt,Fashion,599.0,1,UPI,Hyderabad,599.0,2026-07,Tuesday,False
+ORD-11175,C0194,2026-07-07,Running Shoes,Fashion,2999.0,2,UPI,Jaipur,5998.0,2026-07,Tuesday,False
+ORD-11176,C0231,2026-07-07,Power Bank,Electronics,1299.0,1,Card,Delhi,1299.0,2026-07,Tuesday,False
+ORD-11177,C0091,2026-07-08,Desk Lamp,Home & Kitchen,899.0,2,Card,Bengaluru,1798.0,2026-07,Wednesday,False
+ORD-11177,C0091,2026-07-08,Cushion Set,Home & Kitchen,799.0,3,Card,Bengaluru,2397.0,2026-07,Wednesday,False
+ORD-11178,C0020,2026-07-10,Bluetooth Speaker,Electronics,2499.0,1,Card,Bengaluru,2499.0,2026-07,Friday,False
+ORD-11179,C0069,2026-07-10,Desk Lamp,Home & Kitchen,0.899,1,Card,Mumbai,0.899,2026-07,Friday,False
+ORD-11180,C0223,2026-07-10,Cotton T-Shirt,Fashion,599.0,1,COD,Bengaluru,599.0,2026-07,Friday,False
+ORD-11181,C0039,2026-07-11,Desk Lamp,Home & Kitchen,899.0,3,UPI,Delhi,2697.0,2026-07,Saturday,True
+ORD-11181,C0039,2026-07-11,Cushion Set,Home & Kitchen,799.0,1,UPI,Delhi,799.0,2026-07,Saturday,True
+ORD-11182,C0049,2026-07-11,Running Shoes,Fashion,2999.0,1,UPI,Bengaluru,2999.0,2026-07,Saturday,True
+ORD-11183,C0075,2026-07-11,Power Bank,Electronics,1299.0,1,UPI,Hyderabad,1299.0,2026-07,Saturday,True
+ORD-11184,C0076,2026-07-11,Water Bottle,Home & Kitchen,499.0,3,Card,Kolkata,1497.0,2026-07,Saturday,True
+ORD-11185,C0125,2026-07-11,Water Bottle,Home & Kitchen,499.0,1,Card,Kolkata,499.0,2026-07,Saturday,True
+ORD-11186,C0030,2026-07-12,Backpack,Fashion,1499.0,2,Card,Hyderabad,2998.0,2026-07,Sunday,True
+ORD-11188,C0294,2026-07-12,Power Bank,Electronics,1299.0,1,Card,Chennai,1299.0,2026-07,Sunday,True
+ORD-11189,C0297,2026-07-12,Water Bottle,Home & Kitchen,499.0,3,Unknown,Hyderabad,1497.0,2026-07,Sunday,True
+ORD-11190,C0092,2026-07-13,Water Bottle,Home & Kitchen,499.0,1,Card,Pune,499.0,2026-07,Monday,False
+ORD-11191,C0049,2026-07-16,Protein Powder,Health & Wellness,1799.0,1,Card,Bengaluru,1799.0,2026-07,Thursday,False
+ORD-11192,C0151,2026-07-16,Green Tea Pack,Health & Wellness,349.0,2,COD,Mumbai,698.0,2026-07,Thursday,False
+ORD-11194,C0046,2026-07-18,Cotton T-Shirt,Fashion,599.0,1,COD,Mumbai,599.0,2026-07,Saturday,True
+ORD-11195,C0174,2026-07-18,Protein Powder,Health & Wellness,1799.0,1,UPI,Bengaluru,1799.0,2026-07,Saturday,True
+ORD-11195,C0174,2026-07-18,Green Tea Pack,Health & Wellness,349.0,1,UPI,Bengaluru,349.0,2026-07,Saturday,True
+ORD-11196,C0013,2026-07-20,Backpack,Fashion,1499.0,1,UPI,Hyderabad,1499.0,2026-07,Monday,False
+ORD-11197,C0022,2026-07-20,Backpack,Fashion,1499.0,2,UPI,Pune,2998.0,2026-07,Monday,False
+ORD-11198,C0171,2026-07-20,Wireless Earbuds,Electronics,1999.0,1,UPI,Chennai,1999.0,2026-07,Monday,False
+ORD-11199,C0184,2026-07-20,Desk Lamp,Home & Kitchen,899.0,1,COD,Kolkata,899.0,2026-07,Monday,False
+ORD-11200,C0212,2026-07-21,Cotton T-Shirt,Fashion,599.0,2,UPI,Bengaluru,1198.0,2026-07,Tuesday,False
+ORD-11201,C0146,2026-07-22,Green Tea Pack,Health & Wellness,349.0,3,Card,Delhi,1047.0,2026-07,Wednesday,False
+ORD-11202,C0257,2026-07-22,Wireless Earbuds,Electronics,1999.0,1,Card,Pune,1999.0,2026-07,Wednesday,False
+ORD-11203,C0028,2026-07-23,Power Bank,Electronics,0.1299,1,UPI,Mumbai,0.1299,2026-07,Thursday,False
+ORD-11204,C0123,2026-07-23,Power Bank,Electronics,1299.0,1,COD,Kolkata,1299.0,2026-07,Thursday,False
+ORD-11205,C0257,2026-07-23,Running Shoes,Fashion,2999.0,2,Card,Pune,5998.0,2026-07,Thursday,False
+ORD-11206,C0010,2026-07-24,Desk Lamp,Home & Kitchen,899.0,1,Card,Hyderabad,899.0,2026-07,Friday,False
+ORD-11206,C0010,2026-07-24,Green Tea Pack,Health & Wellness,349.0,2,Card,Hyderabad,698.0,2026-07,Friday,False
+ORD-11207,C0194,2026-07-24,Power Bank,Electronics,1299.0,1,UPI,Jaipur,1299.0,2026-07,Friday,False
+ORD-11208,C0196,2026-07-24,Power Bank,Electronics,1299.0,1,Card,Jaipur,1299.0,2026-07,Friday,False
+ORD-11209,C0292,2026-07-24,Water Bottle,Home & Kitchen,499.0,2,UPI,Mumbai,998.0,2026-07,Friday,False
+ORD-11210,C0039,2026-07-25,Cushion Set,Home & Kitchen,799.0,3,UPI,Delhi,2397.0,2026-07,Saturday,True
+ORD-11211,C0012,2026-07-26,Cushion Set,Home & Kitchen,799.0,2,UPI,Bengaluru,1598.0,2026-07,Sunday,True
+ORD-11212,C0056,2026-07-26,Green Tea Pack,Health & Wellness,349.0,3,Card,Delhi,1047.0,2026-07,Sunday,True
+ORD-11213,C0057,2026-07-26,Wireless Earbuds,Electronics,1999.0,1,UPI,Bengaluru,1999.0,2026-07,Sunday,True
+ORD-11214,C0151,2026-07-26,Cotton T-Shirt,Fashion,599.0,1,UPI,Mumbai,599.0,2026-07,Sunday,True
+ORD-11215,C0046,2026-07-27,Cotton T-Shirt,Fashion,599.0,2,UPI,Mumbai,1198.0,2026-07,Monday,False
+ORD-11216,C0100,2026-07-27,Wireless Earbuds,Electronics,1999.0,1,Card,Jaipur,1999.0,2026-07,Monday,False
+ORD-11217,C0147,2026-07-28,Protein Powder,Health & Wellness,1799.0,1,COD,Bengaluru,1799.0,2026-07,Tuesday,False
+ORD-11218,C0039,2026-07-29,Cushion Set,Home & Kitchen,799.0,1,COD,Delhi,799.0,2026-07,Wednesday,False
+ORD-11219,C0115,2026-07-29,Desk Lamp,Home & Kitchen,899.0,1,UPI,Mumbai,899.0,2026-07,Wednesday,False
+ORD-11219,C0115,2026-07-29,Cushion Set,Home & Kitchen,799.0,1,UPI,Mumbai,799.0,2026-07,Wednesday,False
+ORD-11220,C0075,2026-07-30,Backpack,Fashion,1499.0,1,Card,Hyderabad,1499.0,2026-07,Thursday,False
+ORD-11221,C0100,2026-07-30,Backpack,Fashion,1499.0,1,COD,Jaipur,1499.0,2026-07,Thursday,False
+ORD-11222,C0208,2026-07-30,Green Tea Pack,Health & Wellness,349.0,2,UPI,Bengaluru,698.0,2026-07,Thursday,False
+ORD-11223,C0180,2026-07-31,Running Shoes,Fashion,2999.0,1,UPI,Mumbai,2999.0,2026-07,Friday,False
+ORD-11223,C0180,2026-07-31,Cotton T-Shirt,Fashion,599.0,1,UPI,Mumbai,599.0,2026-07,Friday,False
+ORD-11224,C0193,2026-08-01,Cushion Set,Home & Kitchen,0.799,2,UPI,Delhi,1.598,2026-08,Saturday,True
+ORD-11225,C0199,2026-08-01,Running Shoes,Fashion,2999.0,1,Wallet,Delhi,2999.0,2026-08,Saturday,True
+ORD-11226,C0245,2026-08-01,Wireless Earbuds,Electronics,1999.0,1,Card,Mumbai,1999.0,2026-08,Saturday,True
+ORD-11227,C0285,2026-08-01,Cotton T-Shirt,Fashion,599.0,1,COD,Mumbai,599.0,2026-08,Saturday,True
+ORD-11228,C0068,2026-08-02,Smartwatch,Electronics,4999.0,1,COD,Hyderabad,4999.0,2026-08,Sunday,True
+ORD-11229,C0137,2026-08-03,Smartwatch,Electronics,4999.0,1,Card,Mumbai,4999.0,2026-08,Monday,False
+ORD-11230,C0277,2026-08-03,Backpack,Fashion,1499.0,1,Card,Chennai,1499.0,2026-08,Monday,False
+ORD-11231,C0160,2026-08-04,Bluetooth Speaker,Electronics,2499.0,1,UPI,Hyderabad,2499.0,2026-08,Tuesday,False
+ORD-11232,C0037,2026-08-06,Cotton T-Shirt,Fashion,599.0,1,UPI,Bengaluru,599.0,2026-08,Thursday,False
+ORD-11232,C0037,2026-08-06,Backpack,Fashion,1499.0,1,UPI,Bengaluru,1499.0,2026-08,Thursday,False
+ORD-11233,C0106,2026-08-06,Desk Lamp,Home & Kitchen,0.899,3,UPI,Hyderabad,2.697,2026-08,Thursday,False
+ORD-11233,C0106,2026-08-06,Cushion Set,Home & Kitchen,799.0,3,UPI,Hyderabad,2397.0,2026-08,Thursday,False
+ORD-11234,C0145,2026-08-06,Cushion Set,Home & Kitchen,799.0,1,COD,Kolkata,799.0,2026-08,Thursday,False
+ORD-11235,C0154,2026-08-06,Cotton T-Shirt,Fashion,599.0,1,COD,Jaipur,599.0,2026-08,Thursday,False
+ORD-11237,C0058,2026-08-07,Cotton T-Shirt,Fashion,599.0,1,UPI,Delhi,599.0,2026-08,Friday,False
+ORD-11238,C0126,2026-08-07,Wireless Earbuds,Electronics,1999.0,2,UPI,Mumbai,3998.0,2026-08,Friday,False
+ORD-11239,C0045,2026-08-08,Green Tea Pack,Health & Wellness,349.0,3,UPI,Bengaluru,1047.0,2026-08,Saturday,True
+ORD-11240,C0086,2026-08-08,Running Shoes,Fashion,2999.0,1,COD,Mumbai,2999.0,2026-08,Saturday,True
+ORD-11241,C0127,2026-08-08,Power Bank,Electronics,1299.0,1,UPI,Mumbai,1299.0,2026-08,Saturday,True
+ORD-11242,C0202,2026-08-08,Cotton T-Shirt,Fashion,599.0,1,UPI,Hyderabad,599.0,2026-08,Saturday,True
+ORD-11243,C0058,2026-08-09,Cotton T-Shirt,Fashion,0.599,3,Card,Delhi,1.797,2026-08,Sunday,True
+ORD-11244,C0114,2026-08-09,Bluetooth Speaker,Electronics,2499.0,1,Wallet,Hyderabad,2499.0,2026-08,Sunday,True
+ORD-11245,C0161,2026-08-09,Cotton T-Shirt,Fashion,599.0,2,UPI,Jaipur,1198.0,2026-08,Sunday,True
+ORD-11246,C0137,2026-08-10,Backpack,Fashion,1499.0,2,UPI,Mumbai,2998.0,2026-08,Monday,False
+ORD-11247,C0259,2026-08-10,Water Bottle,Home & Kitchen,499.0,1,COD,Hyderabad,499.0,2026-08,Monday,False
+ORD-11248,C0049,2026-08-11,Wireless Earbuds,Electronics,1999.0,1,COD,Bengaluru,1999.0,2026-08,Tuesday,False
+ORD-11248,C0049,2026-08-11,Power Bank,Electronics,1299.0,1,COD,Bengaluru,1299.0,2026-08,Tuesday,False
+ORD-11249,C0058,2026-08-14,Backpack,Fashion,1499.0,1,COD,Delhi,1499.0,2026-08,Friday,False
+ORD-11250,C0069,2026-08-14,Green Tea Pack,Health & Wellness,349.0,3,COD,Mumbai,1047.0,2026-08,Friday,False
+ORD-11251,C0221,2026-08-15,Green Tea Pack,Health & Wellness,349.0,3,UPI,Chennai,1047.0,2026-08,Saturday,True
+ORD-11252,C0234,2026-08-15,Water Bottle,Home & Kitchen,499.0,2,Card,Delhi,998.0,2026-08,Saturday,True
+ORD-11253,C0296,2026-08-15,Protein Powder,Health & Wellness,1799.0,2,Card,Mumbai,3598.0,2026-08,Saturday,True
+ORD-11253,C0296,2026-08-15,Water Bottle,Home & Kitchen,499.0,3,Card,Mumbai,1497.0,2026-08,Saturday,True
+ORD-11254,C0184,2026-08-17,Green Tea Pack,Health & Wellness,349.0,1,COD,Kolkata,349.0,2026-08,Monday,False
+ORD-11255,C0238,2026-08-17,Green Tea Pack,Health & Wellness,349.0,1,UPI,Pune,349.0,2026-08,Monday,False
+ORD-11256,C0183,2026-08-18,Backpack,Fashion,1499.0,1,Card,Jaipur,1499.0,2026-08,Tuesday,False
+ORD-11257,C0194,2026-08-18,Cotton T-Shirt,Fashion,599.0,1,COD,Jaipur,599.0,2026-08,Tuesday,False
+ORD-11258,C0266,2026-08-18,Wireless Earbuds,Electronics,1999.0,1,UPI,Kolkata,1999.0,2026-08,Tuesday,False
+ORD-11259,C0115,2026-08-19,Water Bottle,Home & Kitchen,0.499,2,UPI,Mumbai,0.998,2026-08,Wednesday,False
+ORD-11260,C0100,2026-08-20,Smartwatch,Electronics,4999.0,1,Card,Jaipur,4999.0,2026-08,Thursday,False
+ORD-11262,C0005,2026-08-21,Power Bank,Electronics,1299.0,1,UPI,Jaipur,1299.0,2026-08,Friday,False
+ORD-11263,C0076,2026-08-21,Wireless Earbuds,Electronics,1999.0,1,UPI,Kolkata,1999.0,2026-08,Friday,False
+ORD-11263,C0076,2026-08-21,Power Bank,Electronics,1299.0,1,UPI,Kolkata,1299.0,2026-08,Friday,False
+ORD-11264,C0119,2026-08-21,Cotton T-Shirt,Fashion,599.0,3,Card,Delhi,1797.0,2026-08,Friday,False
+ORD-11264,C0119,2026-08-21,Power Bank,Electronics,1299.0,2,Card,Delhi,2598.0,2026-08,Friday,False
+ORD-11265,C0054,2026-08-22,Power Bank,Electronics,1299.0,1,UPI,Chennai,1299.0,2026-08,Saturday,True
+ORD-11266,C0284,2026-08-22,Desk Lamp,Home & Kitchen,899.0,1,UPI,Bengaluru,899.0,2026-08,Saturday,True
+ORD-11266,C0284,2026-08-22,Water Bottle,Home & Kitchen,499.0,1,UPI,Bengaluru,499.0,2026-08,Saturday,True
+ORD-11267,C0033,2026-08-23,Cotton T-Shirt,Fashion,599.0,1,COD,Chennai,599.0,2026-08,Sunday,True
+ORD-11268,C0035,2026-08-23,Running Shoes,Fashion,0.2999,1,UPI,Mumbai,0.2999,2026-08,Sunday,True
+ORD-11268,C0035,2026-08-23,Cotton T-Shirt,Fashion,599.0,1,UPI,Mumbai,599.0,2026-08,Sunday,True
+ORD-11269,C0100,2026-08-23,Green Tea Pack,Health & Wellness,349.0,3,UPI,Jaipur,1047.0,2026-08,Sunday,True
+ORD-11270,C0106,2026-08-23,Water Bottle,Home & Kitchen,499.0,1,Card,Hyderabad,499.0,2026-08,Sunday,True
+ORD-11271,C0183,2026-08-23,Cotton T-Shirt,Fashion,599.0,3,UPI,Jaipur,1797.0,2026-08,Sunday,True
+ORD-11272,C0184,2026-08-23,Protein Powder,Health & Wellness,1799.0,2,COD,Kolkata,3598.0,2026-08,Sunday,True
+ORD-11272,C0184,2026-08-23,Water Bottle,Home & Kitchen,499.0,1,COD,Kolkata,499.0,2026-08,Sunday,True
+ORD-11272,C0184,2026-08-23,Cushion Set,Home & Kitchen,799.0,2,COD,Kolkata,1598.0,2026-08,Sunday,True
+ORD-11273,C0253,2026-08-23,Cushion Set,Home & Kitchen,799.0,1,Card,Pune,799.0,2026-08,Sunday,True
+ORD-11274,C0010,2026-08-24,Green Tea Pack,Health & Wellness,349.0,1,COD,Hyderabad,349.0,2026-08,Monday,False
+ORD-11274,C0010,2026-08-24,Desk Lamp,Home & Kitchen,899.0,3,COD,Hyderabad,2697.0,2026-08,Monday,False
+ORD-11275,C0013,2026-08-25,Running Shoes,Fashion,2999.0,1,Card,Hyderabad,2999.0,2026-08,Tuesday,False
+ORD-11275,C0013,2026-08-25,Cotton T-Shirt,Fashion,599.0,2,Card,Hyderabad,1198.0,2026-08,Tuesday,False
+ORD-11276,C0202,2026-08-25,Power Bank,Electronics,1299.0,1,Card,Hyderabad,1299.0,2026-08,Tuesday,False
+ORD-11277,C0283,2026-08-25,Power Bank,Electronics,1299.0,1,UPI,Jaipur,1299.0,2026-08,Tuesday,False
+ORD-11277,C0283,2026-08-25,Running Shoes,Fashion,2999.0,1,UPI,Jaipur,2999.0,2026-08,Tuesday,False
+ORD-11278,C0300,2026-08-25,Green Tea Pack,Health & Wellness,349.0,2,Card,Bengaluru,698.0,2026-08,Tuesday,False
+ORD-11278,C0300,2026-08-25,Power Bank,Electronics,1299.0,1,Card,Bengaluru,1299.0,2026-08,Tuesday,False
+ORD-11279,C0169,2026-08-26,Power Bank,Electronics,1299.0,2,UPI,Delhi,2598.0,2026-08,Wednesday,False
+ORD-11280,C0183,2026-08-26,Wireless Earbuds,Electronics,1999.0,2,UPI,Jaipur,3998.0,2026-08,Wednesday,False
+ORD-11280,C0183,2026-08-26,Power Bank,Electronics,1299.0,1,UPI,Jaipur,1299.0,2026-08,Wednesday,False
+ORD-11281,C0240,2026-08-26,Running Shoes,Fashion,2999.0,1,COD,Pune,2999.0,2026-08,Wednesday,False
+ORD-11281,C0240,2026-08-26,Cotton T-Shirt,Fashion,599.0,1,COD,Pune,599.0,2026-08,Wednesday,False
+ORD-11282,C0283,2026-08-26,Backpack,Fashion,1499.0,2,UPI,Jaipur,2998.0,2026-08,Wednesday,False
+ORD-11283,C0024,2026-08-28,Cotton T-Shirt,Fashion,599.0,3,UPI,Mumbai,1797.0,2026-08,Friday,False
+ORD-11284,C0028,2026-08-28,Green Tea Pack,Health & Wellness,349.0,3,Wallet,Mumbai,1047.0,2026-08,Friday,False
+ORD-11285,C0034,2026-08-28,Water Bottle,Home & Kitchen,499.0,2,UPI,Delhi,998.0,2026-08,Friday,False
+ORD-11286,C0075,2026-08-28,Desk Lamp,Home & Kitchen,899.0,1,Card,Hyderabad,899.0,2026-08,Friday,False
+ORD-11286,C0075,2026-08-28,Cushion Set,Home & Kitchen,799.0,3,Card,Hyderabad,2397.0,2026-08,Friday,False
+ORD-11287,C0089,2026-08-28,Smartwatch,Electronics,4999.0,1,UPI,Pune,4999.0,2026-08,Friday,False
+ORD-11288,C0160,2026-08-28,Power Bank,Electronics,0.1299,1,UPI,Hyderabad,0.1299,2026-08,Friday,False
+ORD-11289,C0218,2026-08-28,Wireless Earbuds,Electronics,1999.0,1,COD,Chennai,1999.0,2026-08,Friday,False
+ORD-11289,C0218,2026-08-28,Power Bank,Electronics,0.1299,2,COD,Chennai,0.2598,2026-08,Friday,False
+ORD-11290,C0054,2026-08-29,Backpack,Fashion,1499.0,1,UPI,Chennai,1499.0,2026-08,Saturday,True
+ORD-11291,C0088,2026-08-29,Running Shoes,Fashion,2999.0,1,UPI,Delhi,2999.0,2026-08,Saturday,True
+ORD-11292,C0137,2026-08-29,Backpack,Fashion,1499.0,1,UPI,Mumbai,1499.0,2026-08,Saturday,True
+ORD-11293,C0155,2026-08-29,Bluetooth Speaker,Electronics,2499.0,1,COD,Chennai,2499.0,2026-08,Saturday,True
+ORD-11294,C0277,2026-08-29,Cotton T-Shirt,Fashion,599.0,1,Card,Chennai,599.0,2026-08,Saturday,True
+ORD-11295,C0165,2026-08-30,Wireless Earbuds,Electronics,1999.0,1,UPI,Mumbai,1999.0,2026-08,Sunday,True
+ORD-11296,C0169,2026-08-30,Power Bank,Electronics,1299.0,2,Card,Delhi,2598.0,2026-08,Sunday,True
+ORD-11297,C0103,2026-08-31,Wireless Earbuds,Electronics,1999.0,2,UPI,Mumbai,3998.0,2026-08,Monday,False
+ORD-11298,C0109,2026-08-31,Cotton T-Shirt,Fashion,599.0,1,UPI,Bengaluru,599.0,2026-08,Monday,False
+ORD-11299,C0127,2026-08-31,Backpack,Fashion,1499.0,1,Card,Mumbai,1499.0,2026-08,Monday,False
+ORD-11300,C0202,2026-08-31,Power Bank,Electronics,1299.0,1,UPI,Hyderabad,1299.0,2026-08,Monday,False
+ORD-11301,C0208,2026-08-31,Green Tea Pack,Health & Wellness,349.0,3,COD,Bengaluru,1047.0,2026-08,Monday,False
+ORD-11302,C0231,2026-08-31,Cotton T-Shirt,Fashion,599.0,3,COD,Delhi,1797.0,2026-08,Monday,False
+ORD-11303,C0067,2026-09-01,Power Bank,Electronics,1299.0,1,Card,Hyderabad,1299.0,2026-09,Tuesday,False
+ORD-11304,C0240,2026-09-01,Smartwatch,Electronics,0.4999,1,Wallet,Pune,0.4999,2026-09,Tuesday,False
+ORD-11304,C0240,2026-09-01,Backpack,Fashion,1499.0,2,Wallet,Pune,2998.0,2026-09,Tuesday,False
+ORD-11305,C0063,2026-09-02,Green Tea Pack,Health & Wellness,349.0,1,UPI,Bengaluru,349.0,2026-09,Wednesday,False
+ORD-11306,C0132,2026-09-02,Water Bottle,Home & Kitchen,499.0,2,UPI,Chennai,998.0,2026-09,Wednesday,False
+ORD-11307,C0120,2026-09-03,Desk Lamp,Home & Kitchen,899.0,2,Card,Kolkata,1798.0,2026-09,Thursday,False
+ORD-11307,C0120,2026-09-03,Cushion Set,Home & Kitchen,799.0,1,Card,Kolkata,799.0,2026-09,Thursday,False
+ORD-11308,C0125,2026-09-03,Power Bank,Electronics,1299.0,1,UPI,Kolkata,1299.0,2026-09,Thursday,False
+ORD-11308,C0125,2026-09-03,Smartwatch,Electronics,4999.0,1,UPI,Kolkata,4999.0,2026-09,Thursday,False
+ORD-11309,C0218,2026-09-03,Cotton T-Shirt,Fashion,599.0,1,COD,Chennai,599.0,2026-09,Thursday,False
+ORD-11310,C0272,2026-09-03,Green Tea Pack,Health & Wellness,349.0,3,Wallet,Jaipur,1047.0,2026-09,Thursday,False
+ORD-11310,C0272,2026-09-03,Protein Powder,Health & Wellness,1799.0,1,Wallet,Jaipur,1799.0,2026-09,Thursday,False
+ORD-11311,C0004,2026-09-04,Cotton T-Shirt,Fashion,599.0,1,UPI,Delhi,599.0,2026-09,Friday,False
+ORD-11312,C0272,2026-09-04,Green Tea Pack,Health & Wellness,349.0,3,UPI,Jaipur,1047.0,2026-09,Friday,False
+ORD-11313,C0008,2026-09-05,Wireless Earbuds,Electronics,1999.0,1,COD,Delhi,1999.0,2026-09,Saturday,True
+ORD-11313,C0008,2026-09-05,Power Bank,Electronics,1299.0,1,COD,Delhi,1299.0,2026-09,Saturday,True
+ORD-11314,C0196,2026-09-05,Cotton T-Shirt,Fashion,599.0,1,Wallet,Jaipur,599.0,2026-09,Saturday,True
+ORD-11315,C0287,2026-09-05,Bluetooth Speaker,Electronics,2499.0,1,UPI,Bengaluru,2499.0,2026-09,Saturday,True
+ORD-11316,C0035,2026-09-06,Cotton T-Shirt,Fashion,599.0,1,UPI,Mumbai,599.0,2026-09,Sunday,True
+ORD-11317,C0080,2026-09-06,Water Bottle,Home & Kitchen,499.0,3,UPI,Jaipur,1497.0,2026-09,Sunday,True
+ORD-11318,C0130,2026-09-07,Backpack,Fashion,1499.0,1,Card,Jaipur,1499.0,2026-09,Monday,False
+ORD-11319,C0171,2026-09-07,Protein Powder,Health & Wellness,1799.0,2,Card,Chennai,3598.0,2026-09,Monday,False
+ORD-11320,C0046,2026-09-08,Green Tea Pack,Health & Wellness,349.0,1,Card,Mumbai,349.0,2026-09,Tuesday,False
+ORD-11321,C0137,2026-09-08,Cotton T-Shirt,Fashion,599.0,3,Wallet,Mumbai,1797.0,2026-09,Tuesday,False
+ORD-11322,C0162,2026-09-08,Water Bottle,Home & Kitchen,499.0,2,UPI,Hyderabad,998.0,2026-09,Tuesday,False
+ORD-11323,C0169,2026-09-08,Wireless Earbuds,Electronics,1999.0,1,Card,Delhi,1999.0,2026-09,Tuesday,False
+ORD-11324,C0284,2026-09-08,Water Bottle,Home & Kitchen,499.0,2,UPI,Bengaluru,998.0,2026-09,Tuesday,False
+ORD-11324,C0284,2026-09-08,Backpack,Fashion,1499.0,1,UPI,Bengaluru,1499.0,2026-09,Tuesday,False
+ORD-11325,C0069,2026-09-09,Water Bottle,Home & Kitchen,499.0,1,UPI,Mumbai,499.0,2026-09,Wednesday,False
+ORD-11326,C0279,2026-09-10,Water Bottle,Home & Kitchen,499.0,1,UPI,Delhi,499.0,2026-09,Thursday,False
+ORD-11326,C0279,2026-09-10,Wireless Earbuds,Electronics,1999.0,1,UPI,Delhi,1999.0,2026-09,Thursday,False
+ORD-11327,C0297,2026-09-10,Green Tea Pack,Health & Wellness,349.0,1,UPI,Hyderabad,349.0,2026-09,Thursday,False
+ORD-11328,C0298,2026-09-10,Backpack,Fashion,1499.0,1,UPI,Pune,1499.0,2026-09,Thursday,False
+ORD-11329,C0169,2026-09-11,Wireless Earbuds,Electronics,1999.0,1,COD,Delhi,1999.0,2026-09,Friday,False
+ORD-11329,C0169,2026-09-11,Bluetooth Speaker,Electronics,2499.0,1,COD,Delhi,2499.0,2026-09,Friday,False
+ORD-11330,C0218,2026-09-11,Cotton T-Shirt,Fashion,599.0,3,Card,Chennai,1797.0,2026-09,Friday,False
+ORD-11331,C0289,2026-09-11,Wireless Earbuds,Electronics,1999.0,1,UPI,Mumbai,1999.0,2026-09,Friday,False
+ORD-11332,C0071,2026-09-12,Bluetooth Speaker,Electronics,2499.0,1,COD,Mumbai,2499.0,2026-09,Saturday,True
+ORD-11332,C0071,2026-09-12,Power Bank,Electronics,1299.0,1,COD,Mumbai,1299.0,2026-09,Saturday,True
+ORD-11333,C0176,2026-09-12,Protein Powder,Health & Wellness,1799.0,1,Card,Chennai,1799.0,2026-09,Saturday,True
+ORD-11333,C0176,2026-09-12,Water Bottle,Home & Kitchen,0.499,2,Card,Chennai,0.998,2026-09,Saturday,True
+ORD-11334,C0296,2026-09-12,Green Tea Pack,Health & Wellness,349.0,1,Card,Mumbai,349.0,2026-09,Saturday,True
+ORD-11335,C0119,2026-09-13,Protein Powder,Health & Wellness,1799.0,1,Card,Delhi,1799.0,2026-09,Sunday,True
+ORD-11336,C0121,2026-09-13,Protein Powder,Health & Wellness,1799.0,1,Card,Hyderabad,1799.0,2026-09,Sunday,True
+ORD-11336,C0121,2026-09-13,Water Bottle,Home & Kitchen,499.0,1,Card,Hyderabad,499.0,2026-09,Sunday,True
+ORD-11337,C0143,2026-09-13,Water Bottle,Home & Kitchen,499.0,3,UPI,Bengaluru,1497.0,2026-09,Sunday,True
+ORD-11338,C0220,2026-09-13,Bluetooth Speaker,Electronics,2499.0,1,UPI,Pune,2499.0,2026-09,Sunday,True
+ORD-11338,C0220,2026-09-13,Protein Powder,Health & Wellness,1799.0,1,UPI,Pune,1799.0,2026-09,Sunday,True
+ORD-11339,C0249,2026-09-13,Cotton T-Shirt,Fashion,599.0,2,UPI,Jaipur,1198.0,2026-09,Sunday,True
+ORD-11340,C0296,2026-09-13,Green Tea Pack,Health & Wellness,349.0,2,Card,Mumbai,698.0,2026-09,Sunday,True
+ORD-11341,C0120,2026-09-14,Green Tea Pack,Health & Wellness,349.0,3,Card,Kolkata,1047.0,2026-09,Monday,False
+ORD-11342,C0137,2026-09-14,Cotton T-Shirt,Fashion,599.0,3,UPI,Mumbai,1797.0,2026-09,Monday,False
+ORD-11343,C0138,2026-09-14,Green Tea Pack,Health & Wellness,349.0,2,UPI,Mumbai,698.0,2026-09,Monday,False
+ORD-11344,C0146,2026-09-14,Bluetooth Speaker,Electronics,2499.0,1,UPI,Delhi,2499.0,2026-09,Monday,False
+ORD-11345,C0171,2026-09-14,Wireless Earbuds,Electronics,1999.0,1,UPI,Chennai,1999.0,2026-09,Monday,False
+ORD-11346,C0208,2026-09-14,Green Tea Pack,Health & Wellness,349.0,1,Card,Bengaluru,349.0,2026-09,Monday,False
+ORD-11347,C0247,2026-09-14,Protein Powder,Health & Wellness,1799.0,2,COD,Mumbai,3598.0,2026-09,Monday,False
+ORD-11347,C0247,2026-09-14,Water Bottle,Home & Kitchen,499.0,1,COD,Mumbai,499.0,2026-09,Monday,False
+ORD-11348,C0094,2026-09-15,Desk Lamp,Home & Kitchen,899.0,3,UPI,Chennai,2697.0,2026-09,Tuesday,False
+ORD-11348,C0094,2026-09-15,Cushion Set,Home & Kitchen,799.0,3,UPI,Chennai,2397.0,2026-09,Tuesday,False
+ORD-11349,C0174,2026-09-15,Wireless Earbuds,Electronics,1999.0,1,UPI,Bengaluru,1999.0,2026-09,Tuesday,False
+ORD-11350,C0264,2026-09-15,Green Tea Pack,Health & Wellness,349.0,1,Card,Bengaluru,349.0,2026-09,Tuesday,False
+ORD-11351,C0125,2026-09-16,Wireless Earbuds,Electronics,1999.0,1,UPI,Kolkata,1999.0,2026-09,Wednesday,False
+ORD-11351,C0125,2026-09-16,Power Bank,Electronics,1299.0,1,UPI,Kolkata,1299.0,2026-09,Wednesday,False
+ORD-11352,C0231,2026-09-16,Protein Powder,Health & Wellness,1799.0,1,UPI,Delhi,1799.0,2026-09,Wednesday,False
+ORD-11353,C0283,2026-09-16,Backpack,Fashion,1499.0,1,UPI,Jaipur,1499.0,2026-09,Wednesday,False
+ORD-11353,C0283,2026-09-16,Cotton T-Shirt,Fashion,599.0,2,UPI,Jaipur,1198.0,2026-09,Wednesday,False
+ORD-11354,C0283,2026-09-16,Cotton T-Shirt,Fashion,599.0,2,UPI,Jaipur,1198.0,2026-09,Wednesday,False
+ORD-11355,C0297,2026-09-16,Water Bottle,Home & Kitchen,499.0,1,UPI,Hyderabad,499.0,2026-09,Wednesday,False
+ORD-11356,C0223,2026-09-18,Cotton T-Shirt,Fashion,599.0,1,Card,Bengaluru,599.0,2026-09,Friday,False
+ORD-11357,C0182,2026-09-19,Backpack,Fashion,1499.0,2,Wallet,Hyderabad,2998.0,2026-09,Saturday,True
+ORD-11358,C0197,2026-09-19,Power Bank,Electronics,1299.0,2,UPI,Hyderabad,2598.0,2026-09,Saturday,True
+ORD-11358,C0197,2026-09-19,Bluetooth Speaker,Electronics,2499.0,2,UPI,Hyderabad,4998.0,2026-09,Saturday,True
+ORD-11359,C0034,2026-09-20,Desk Lamp,Home & Kitchen,899.0,1,Card,Delhi,899.0,2026-09,Sunday,True
+ORD-11360,C0060,2026-09-20,Wireless Earbuds,Electronics,1999.0,1,Card,Kolkata,1999.0,2026-09,Sunday,True
+ORD-11360,C0060,2026-09-20,Power Bank,Electronics,1299.0,1,Card,Kolkata,1299.0,2026-09,Sunday,True
+ORD-11361,C0208,2026-09-20,Water Bottle,Home & Kitchen,499.0,1,UPI,Bengaluru,499.0,2026-09,Sunday,True
+ORD-11362,C0209,2026-09-20,Running Shoes,Fashion,2999.0,1,Card,Chennai,2999.0,2026-09,Sunday,True
+ORD-11363,C0282,2026-09-20,Cushion Set,Home & Kitchen,799.0,2,Wallet,Bengaluru,1598.0,2026-09,Sunday,True
+ORD-11364,C0285,2026-09-20,Protein Powder,Health & Wellness,1799.0,1,Card,Mumbai,1799.0,2026-09,Sunday,True
+ORD-11364,C0285,2026-09-20,Water Bottle,Home & Kitchen,499.0,1,Card,Mumbai,499.0,2026-09,Sunday,True
+ORD-11364,C0285,2026-09-20,Green Tea Pack,Health & Wellness,349.0,1,Card,Mumbai,349.0,2026-09,Sunday,True
+ORD-11365,C0154,2026-09-21,Cotton T-Shirt,Fashion,599.0,1,Card,Jaipur,599.0,2026-09,Monday,False
+ORD-11366,C0208,2026-09-21,Green Tea Pack,Health & Wellness,349.0,3,Wallet,Bengaluru,1047.0,2026-09,Monday,False
+ORD-11367,C0004,2026-09-22,Cotton T-Shirt,Fashion,599.0,2,UPI,Delhi,1198.0,2026-09,Tuesday,False
+ORD-11368,C0010,2026-09-22,Power Bank,Electronics,1299.0,2,UPI,Hyderabad,2598.0,2026-09,Tuesday,False
+ORD-11369,C0035,2026-09-22,Running Shoes,Fashion,2999.0,2,COD,Mumbai,5998.0,2026-09,Tuesday,False
+ORD-11370,C0005,2026-09-23,Wireless Earbuds,Electronics,1999.0,2,Card,Jaipur,3998.0,2026-09,Wednesday,False
+ORD-11371,C0010,2026-09-23,Green Tea Pack,Health & Wellness,349.0,2,Wallet,Hyderabad,698.0,2026-09,Wednesday,False
+ORD-11373,C0245,2026-09-23,Water Bottle,Home & Kitchen,499.0,1,UPI,Mumbai,499.0,2026-09,Wednesday,False
+ORD-11374,C0281,2026-09-23,Backpack,Fashion,1499.0,1,UPI,Delhi,1499.0,2026-09,Wednesday,False
+ORD-11375,C0030,2026-09-24,Green Tea Pack,Health & Wellness,349.0,1,Card,Hyderabad,349.0,2026-09,Thursday,False
+ORD-11376,C0045,2026-09-24,Green Tea Pack,Health & Wellness,349.0,3,COD,Bengaluru,1047.0,2026-09,Thursday,False
+ORD-11378,C0123,2026-09-24,Bluetooth Speaker,Electronics,2499.0,1,UPI,Kolkata,2499.0,2026-09,Thursday,False
+ORD-11379,C0284,2026-09-24,Backpack,Fashion,1499.0,2,Unknown,Bengaluru,2998.0,2026-09,Thursday,False
+ORD-11380,C0131,2026-09-25,Backpack,Fashion,1499.0,1,Card,Delhi,1499.0,2026-09,Friday,False
+ORD-11381,C0157,2026-09-25,Power Bank,Electronics,1299.0,1,UPI,Jaipur,1299.0,2026-09,Friday,False
+ORD-11381,C0157,2026-09-25,Wireless Earbuds,Electronics,1999.0,2,UPI,Jaipur,3998.0,2026-09,Friday,False
+ORD-11382,C0257,2026-09-25,Backpack,Fashion,1499.0,1,UPI,Pune,1499.0,2026-09,Friday,False
+ORD-11383,C0036,2026-09-26,Green Tea Pack,Health & Wellness,349.0,1,Card,Mumbai,349.0,2026-09,Saturday,True
+ORD-11384,C0166,2026-09-26,Water Bottle,Home & Kitchen,499.0,1,Card,Pune,499.0,2026-09,Saturday,True
+ORD-11385,C0180,2026-09-26,Cotton T-Shirt,Fashion,599.0,2,UPI,Mumbai,1198.0,2026-09,Saturday,True
+ORD-11386,C0046,2026-09-27,Backpack,Fashion,1499.0,1,Card,Mumbai,1499.0,2026-09,Sunday,True
+ORD-11387,C0106,2026-09-27,Desk Lamp,Home & Kitchen,899.0,3,UPI,Hyderabad,2697.0,2026-09,Sunday,True
+ORD-11387,C0106,2026-09-27,Cushion Set,Home & Kitchen,799.0,1,UPI,Hyderabad,799.0,2026-09,Sunday,True
+ORD-11388,C0109,2026-09-27,Cotton T-Shirt,Fashion,599.0,1,UPI,Bengaluru,599.0,2026-09,Sunday,True
+ORD-11389,C0194,2026-09-28,Cotton T-Shirt,Fashion,599.0,2,UPI,Jaipur,1198.0,2026-09,Monday,False
+ORD-11390,C0197,2026-09-28,Wireless Earbuds,Electronics,1999.0,1,UPI,Hyderabad,1999.0,2026-09,Monday,False
+ORD-11391,C0070,2026-09-29,Desk Lamp,Home & Kitchen,899.0,2,Card,Hyderabad,1798.0,2026-09,Tuesday,False
+ORD-11391,C0070,2026-09-29,Cushion Set,Home & Kitchen,799.0,2,Card,Hyderabad,1598.0,2026-09,Tuesday,False
+ORD-11392,C0121,2026-09-29,Running Shoes,Fashion,2999.0,1,UPI,Hyderabad,2999.0,2026-09,Tuesday,False
+ORD-11393,C0122,2026-09-29,Backpack,Fashion,1499.0,1,Card,Hyderabad,1499.0,2026-09,Tuesday,False
+ORD-11393,C0122,2026-09-29,Green Tea Pack,Health & Wellness,349.0,1,Card,Hyderabad,349.0,2026-09,Tuesday,False
+ORD-11394,C0182,2026-09-29,Smartwatch,Electronics,4999.0,1,Card,Hyderabad,4999.0,2026-09,Tuesday,False
+ORD-11395,C0228,2026-09-29,Green Tea Pack,Health & Wellness,349.0,1,Card,Kolkata,349.0,2026-09,Tuesday,False
+ORD-11396,C0239,2026-09-29,Protein Powder,Health & Wellness,1799.0,1,COD,Bengaluru,1799.0,2026-09,Tuesday,False
+ORD-11397,C0157,2026-09-30,Power Bank,Electronics,1299.0,1,COD,Jaipur,1299.0,2026-09,Wednesday,False
+ORD-11399,C0199,2026-09-30,Cotton T-Shirt,Fashion,599.0,2,Card,Delhi,1198.0,2026-09,Wednesday,False
+ORD-11399,C0199,2026-09-30,Water Bottle,Home & Kitchen,0.499,1,Card,Delhi,0.499,2026-09,Wednesday,False
+ORD-11400,C0214,2026-09-30,Cotton T-Shirt,Fashion,599.0,1,Card,Chennai,599.0,2026-09,Wednesday,False

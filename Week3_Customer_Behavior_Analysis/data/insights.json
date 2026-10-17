@@ -1,0 +1,200 @@
+{
+  "kpi": {
+    "orders": 1388,
+    "customers": 300,
+    "revenue": 2998647.92,
+    "aov": 2160.41,
+    "items_per_order": 1.24,
+    "repeat_rate": 0.77,
+    "date_start": "2025-10-01",
+    "date_end": "2026-09-30"
+  },
+  "rows_raw": 1762,
+  "rows_clean": 1720,
+  "cleaning_log": [
+    [
+      "Exact duplicate rows removed",
+      30
+    ],
+    [
+      "Blank customer_id recovered from the same order's other lines",
+      8
+    ],
+    [
+      "Blank payment_method recovered from the same order's other lines",
+      11
+    ],
+    [
+      "Rows dropped: customer_id still blank (cannot be assigned to a customer)",
+      12
+    ],
+    [
+      "Blank payment_method labelled 'Unknown'",
+      14
+    ],
+    [
+      "Dates in non-ISO formats converted to datetime",
+      831
+    ],
+    [
+      "Text prices converted to numbers",
+      60
+    ],
+    [
+      "Category text standardised (case/spaces)",
+      55
+    ],
+    [
+      "City text standardised (case/spaces, Bangalore -> Bengaluru)",
+      146
+    ],
+    [
+      "Blank quantity filled with the most common value (1)",
+      15
+    ],
+    [
+      "Negative quantity converted to positive (assumed sign error)",
+      5
+    ]
+  ],
+  "top_revenue": [
+    [
+      "Wireless Earbuds",
+      477763.0,
+      0.1593
+    ],
+    [
+      "Running Shoes",
+      347885.0,
+      0.116
+    ],
+    [
+      "Smartwatch",
+      324936.0,
+      0.1084
+    ]
+  ],
+  "top_units": [
+    [
+      "Cotton T-Shirt",
+      427
+    ],
+    [
+      "Green Tea Pack",
+      351
+    ],
+    [
+      "Water Bottle",
+      306
+    ]
+  ],
+  "bottom_revenue": [
+    [
+      "Cushion Set",
+      134240.0
+    ],
+    [
+      "Green Tea Pack",
+      119710.0
+    ]
+  ],
+  "category_share": {
+    "Electronics": 0.4326,
+    "Fashion": 0.2935,
+    "Home & Kitchen": 0.1434,
+    "Health & Wellness": 0.1305
+  },
+  "peak_month": "Nov 25",
+  "peak_month_revenue": 491696.0,
+  "festive_share_oct_dec": 0.4222,
+  "avg_other_month_revenue": 192500.0,
+  "weekend_lift": 1.31,
+  "payment_share": {
+    "UPI": 0.4892,
+    "Card": 0.2824,
+    "COD": 0.1535,
+    "Wallet": 0.0648,
+    "Unknown": 0.0101
+  },
+  "multi_item_order_share": 0.2277,
+  "top_pairs": [
+    [
+      "Cushion Set",
+      "Desk Lamp",
+      31,
+      4.44
+    ],
+    [
+      "Smartwatch",
+      "Wireless Earbuds",
+      19,
+      2.43
+    ],
+    [
+      "Power Bank",
+      "Wireless Earbuds",
+      60,
+      2.26
+    ],
+    [
+      "Protein Powder",
+      "Water Bottle",
+      36,
+      2.14
+    ],
+    [
+      "Cotton T-Shirt",
+      "Running Shoes",
+      28,
+      1.55
+    ]
+  ],
+  "segments": [
+    {
+      "segment": "Champions",
+      "customers": 61,
+      "customer_share": 0.2033,
+      "revenue": 1351124.0,
+      "revenue_share": 0.4506,
+      "avg_orders": 10.2,
+      "revenue_per_customer": 22150.0
+    },
+    {
+      "segment": "Growing Regulars",
+      "customers": 39,
+      "customer_share": 0.13,
+      "revenue": 379210.0,
+      "revenue_share": 0.1265,
+      "avg_orders": 4.3,
+      "revenue_per_customer": 9723.0
+    },
+    {
+      "segment": "Slipping Loyalists",
+      "customers": 75,
+      "customer_share": 0.25,
+      "revenue": 915481.0,
+      "revenue_share": 0.3053,
+      "avg_orders": 5.5,
+      "revenue_per_customer": 12206.0
+    },
+    {
+      "segment": "New / Occasional",
+      "customers": 30,
+      "customer_share": 0.1,
+      "revenue": 77870.0,
+      "revenue_share": 0.026,
+      "avg_orders": 1.4,
+      "revenue_per_customer": 2596.0
+    },
+    {
+      "segment": "Lapsed Low-Engagement",
+      "customers": 95,
+      "customer_share": 0.3167,
+      "revenue": 274962.0,
+      "revenue_share": 0.0917,
+      "avg_orders": 1.4,
+      "revenue_per_customer": 2894.0
+    }
+  ],
+  "top20_customer_revenue_share": 0.5139
+}
