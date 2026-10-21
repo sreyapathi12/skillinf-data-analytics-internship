@@ -1,0 +1,43 @@
+question,answer,responses,valid_n,response_pct
+Overall satisfaction,Rating 1,2,415,0.5
+Overall satisfaction,Rating 2,25,415,6.0
+Overall satisfaction,Rating 3,113,415,27.2
+Overall satisfaction,Rating 4,180,415,43.4
+Overall satisfaction,Rating 5,95,415,22.9
+Work-life balance,Rating 1,6,413,1.5
+Work-life balance,Rating 2,44,413,10.7
+Work-life balance,Rating 3,146,413,35.4
+Work-life balance,Rating 4,157,413,38.0
+Work-life balance,Rating 5,60,413,14.5
+Manager support,Rating 1,2,415,0.5
+Manager support,Rating 2,18,415,4.3
+Manager support,Rating 3,113,415,27.2
+Manager support,Rating 4,181,415,43.6
+Manager support,Rating 5,101,415,24.3
+Career growth,Rating 1,4,416,1.0
+Career growth,Rating 2,42,416,10.1
+Career growth,Rating 3,165,416,39.7
+Career growth,Rating 4,160,416,38.5
+Career growth,Rating 5,45,416,10.8
+Compensation fairness,Rating 1,16,413,3.9
+Compensation fairness,Rating 2,88,413,21.3
+Compensation fairness,Rating 3,173,413,41.9
+Compensation fairness,Rating 4,117,413,28.3
+Compensation fairness,Rating 5,19,413,4.6
+Likelihood to recommend (0-10),Promoter,193,411,47.0
+Likelihood to recommend (0-10),Passive,131,411,31.9
+Likelihood to recommend (0-10),Detractor,87,411,21.2
+Workload,Very manageable,119,409,29.1
+Workload,Manageable,118,409,28.9
+Workload,Sometimes overwhelming,94,409,23.0
+Workload,Often overwhelming,78,409,19.1
+Plan to stay 12 months,Yes,272,420,64.8
+Plan to stay 12 months,Not sure,93,420,22.1
+Plan to stay 12 months,No,55,420,13.1
+Valued benefits (pick up to 3; % of respondents),Health insurance,192,407,47.2
+Valued benefits (pick up to 3; % of respondents),Flexible hours,172,407,42.3
+Valued benefits (pick up to 3; % of respondents),Paid leave,162,407,39.8
+Valued benefits (pick up to 3; % of respondents),Remote work,148,407,36.4
+Valued benefits (pick up to 3; % of respondents),Learning budget,136,407,33.4
+Valued benefits (pick up to 3; % of respondents),Performance bonus,134,407,32.9
+Valued benefits (pick up to 3; % of respondents),Wellness programs,106,407,26.0

@@ -1,0 +1,38 @@
+{
+  "Ratings": {
+    "charts_drawn": 1,
+    "expected_at_least": 1,
+    "screenshot": "screenshots/01_ratings.png"
+  },
+  "Group comparison": {
+    "charts_drawn": 2,
+    "expected_at_least": 2,
+    "screenshot": "screenshots/02_group_comparison.png"
+  },
+  "Trends": {
+    "charts_drawn": 2,
+    "expected_at_least": 2,
+    "screenshot": "screenshots/03_trends.png"
+  },
+  "Choices & NPS": {
+    "charts_drawn": 4,
+    "expected_at_least": 4,
+    "screenshot": "screenshots/04_choices_and_nps.png"
+  },
+  "Comments": {
+    "charts_drawn": 1,
+    "expected_at_least": 1,
+    "screenshot": "screenshots/05_comments.png"
+  },
+  "Filtered view (?dept=Support)": {
+    "kpi_values": [
+      "92",
+      "3.31",
+      "44.0%",
+      "-4",
+      "45.7%"
+    ],
+    "screenshot": "screenshots/06_filtered_support_department.png"
+  },
+  "browser_errors": []
+}

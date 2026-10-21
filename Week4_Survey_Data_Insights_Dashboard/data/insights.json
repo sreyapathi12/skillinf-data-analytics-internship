@@ -1,0 +1,328 @@
+{
+  "rows_raw": 456,
+  "rows_clean": 420,
+  "responses_per_round": {
+    "Round 1 (Jan 2026)": 135,
+    "Round 2 (Apr 2026)": 140,
+    "Round 3 (Jul 2026)": 145
+  },
+  "ratings": [
+    {
+      "question": "Overall satisfaction",
+      "n": 415,
+      "mean": 3.82,
+      "most_common": 4,
+      "favourable": 66.3
+    },
+    {
+      "question": "Work-life balance",
+      "n": 413,
+      "mean": 3.54,
+      "most_common": 4,
+      "favourable": 52.5
+    },
+    {
+      "question": "Manager support",
+      "n": 415,
+      "mean": 3.87,
+      "most_common": 4,
+      "favourable": 68.0
+    },
+    {
+      "question": "Career growth",
+      "n": 416,
+      "mean": 3.48,
+      "most_common": 3,
+      "favourable": 49.3
+    },
+    {
+      "question": "Compensation fairness",
+      "n": 413,
+      "mean": 3.08,
+      "most_common": 3,
+      "favourable": 32.9
+    }
+  ],
+  "nps": {
+    "score": 25.8,
+    "n": 411,
+    "promoter_pct": 47.0,
+    "detractor_pct": 21.2,
+    "by_round": {
+      "Round 1 (Jan 2026)": 19.5,
+      "Round 2 (Apr 2026)": 25.4,
+      "Round 3 (Jul 2026)": 32.1
+    }
+  },
+  "clear_differences": [
+    {
+      "group_type": "Department",
+      "question": "Overall satisfaction",
+      "highest": "HR & Admin",
+      "highest_mean": 4.07,
+      "highest_n": 54,
+      "lowest": "Support",
+      "lowest_mean": 3.31,
+      "lowest_n": 91,
+      "gap": 0.77,
+      "p": 1.1980187444357474e-07
+    },
+    {
+      "group_type": "Department",
+      "question": "Compensation fairness",
+      "highest": "Sales",
+      "highest_mean": 3.5,
+      "highest_n": 72,
+      "lowest": "Engineering",
+      "lowest_mean": 2.76,
+      "lowest_n": 131,
+      "gap": 0.74,
+      "p": 1.3366049667095536e-06
+    },
+    {
+      "group_type": "Department",
+      "question": "Work-life balance",
+      "highest": "HR & Admin",
+      "highest_mean": 3.94,
+      "highest_n": 53,
+      "lowest": "Support",
+      "lowest_mean": 3.28,
+      "lowest_n": 90,
+      "gap": 0.67,
+      "p": 0.0003671367274925999
+    },
+    {
+      "group_type": "Department",
+      "question": "Manager support",
+      "highest": "Sales",
+      "highest_mean": 4.13,
+      "highest_n": 71,
+      "lowest": "Support",
+      "lowest_mean": 3.6,
+      "lowest_n": 92,
+      "gap": 0.53,
+      "p": 0.004074273159506465
+    },
+    {
+      "group_type": "Department",
+      "question": "Career growth",
+      "highest": "HR & Admin",
+      "highest_mean": 3.68,
+      "highest_n": 53,
+      "lowest": "Support",
+      "lowest_mean": 3.23,
+      "lowest_n": 91,
+      "gap": 0.45,
+      "p": 0.009281436555767082
+    },
+    {
+      "group_type": "Tenure",
+      "question": "Overall satisfaction",
+      "highest": "Less than 1 year",
+      "highest_mean": 4.01,
+      "highest_n": 133,
+      "lowest": "3+ years",
+      "lowest_mean": 3.61,
+      "lowest_n": 128,
+      "gap": 0.4,
+      "p": 0.0014153423749864343
+    }
+  ],
+  "no_clear_difference": [
+    "Age group",
+    "Location"
+  ],
+  "comparisons_total": 20,
+  "trend": [
+    {
+      "question": "Overall satisfaction",
+      "round1": 3.78,
+      "round3": 3.91,
+      "change": 0.13,
+      "clear": false
+    },
+    {
+      "question": "Work-life balance",
+      "round1": 3.53,
+      "round3": 3.6,
+      "change": 0.07,
+      "clear": false
+    },
+    {
+      "question": "Manager support",
+      "round1": 3.77,
+      "round3": 4.02,
+      "change": 0.25,
+      "clear": true
+    },
+    {
+      "question": "Career growth",
+      "round1": 3.46,
+      "round3": 3.54,
+      "change": 0.08,
+      "clear": false
+    },
+    {
+      "question": "Compensation fairness",
+      "round1": 3.11,
+      "round3": 2.99,
+      "change": -0.12,
+      "clear": false
+    }
+  ],
+  "workload": {
+    "Very manageable": 29.1,
+    "Manageable": 28.9,
+    "Sometimes overwhelming": 23.0,
+    "Often overwhelming": 19.1
+  },
+  "stay": {
+    "Yes": 64.8,
+    "Not sure": 22.1,
+    "No": 13.1
+  },
+  "workload_n": 409,
+  "stay_n": 420,
+  "benefits": [
+    [
+      "Health insurance",
+      47.2
+    ],
+    [
+      "Flexible hours",
+      42.3
+    ],
+    [
+      "Paid leave",
+      39.8
+    ],
+    [
+      "Remote work",
+      36.4
+    ],
+    [
+      "Learning budget",
+      33.4
+    ],
+    [
+      "Performance bonus",
+      32.9
+    ],
+    [
+      "Wellness programs",
+      26.0
+    ]
+  ],
+  "benefits_n": 407,
+  "comment_n": 265,
+  "comment_rate": 63.1,
+  "themes": [
+    [
+      "Positive",
+      63,
+      23.8
+    ],
+    [
+      "Flexibility",
+      61,
+      23.0
+    ],
+    [
+      "Pay",
+      50,
+      18.9
+    ],
+    [
+      "Workload",
+      47,
+      17.7
+    ],
+    [
+      "Career growth",
+      25,
+      9.4
+    ],
+    [
+      "Tools",
+      11,
+      4.2
+    ],
+    [
+      "Communication",
+      8,
+      3.0
+    ]
+  ],
+  "dept_n": {
+    "Engineering": 134,
+    "Finance": 60,
+    "HR & Admin": 54,
+    "Not specified": 8,
+    "Sales": 72,
+    "Support": 92
+  },
+  "support_workload_overwhelming": 58.7,
+  "other_workload_overwhelming": 35.3,
+  "cleaning_log": [
+    [
+      "Remove exact duplicate responses",
+      12
+    ],
+    [
+      "Remove test submissions (name 'test' / test e-mail)",
+      3
+    ],
+    [
+      "Convert timestamps in mixed formats to dates",
+      294
+    ],
+    [
+      "Standardise department spelling/case",
+      25
+    ],
+    [
+      "Standardise location spelling/case (Bangalore -> Bengaluru)",
+      60
+    ],
+    [
+      "Standardise Q8 answers (yes / YES / Yes -> Yes)",
+      62
+    ],
+    [
+      "Standardise benefit choices (spacing/case)",
+      56
+    ],
+    [
+      "Convert ratings typed as text ('4 - Agree', 'Four', '4.0') to numbers",
+      30
+    ],
+    [
+      "Impossible rating values (0, 6, 55, -1, 11) set to 'no response'",
+      7
+    ],
+    [
+      "Remove repeat submissions (same e-mail in the same round, keep first)",
+      6
+    ],
+    [
+      "Remove incomplete responses (fewer than 5 of 9 questions answered)",
+      15
+    ],
+    [
+      "Impossible ages (5, 0, 150) and blank ages -> 'Not specified'",
+      13
+    ],
+    [
+      "Blank department labelled 'Not specified'",
+      8
+    ],
+    [
+      "Tag open-text comments by theme",
+      265
+    ],
+    [
+      "Remove personal details (name, e-mail, phone) from the cleaned file",
+      3
+    ]
+  ]
+}
